@@ -1,0 +1,40 @@
+import numpy as np
+import pandas as pd
+import requests
+from datetime import date
+
+class EPA():
+    def __init__(self, email=None, key=None):
+        if email is None:
+            print("If you don't have an acount please make one with the SignUp func")
+        else:
+            self.auth = {'email': email, 'key': key}
+
+    def SignUp(self, email):
+        payload = {"email": email}
+        req = requests.get("https://aqs.epa.gov/data/api/signup", params=payload)
+        if req.status_code == 200:
+            print("OK!")
+        else:
+            print("BOO!")
+
+    def DailySummaryState(self, param, bdate, edate, state):
+        payload = {"param":param, "bdate": bdate, "edate": edate, "state": state}
+        req = requests.get("https://aqs.epa.gov/data/api/dailyData/byState", params= (self.auth | payload))
+        return pd.DataFrame.from_dict(req.json()["Data"])
+
+    def DailySummaryCounty(self, param, bdate, edate, state, county):
+        payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county}
+        req = requests.get("https://aqs.epa.gov/data/api/dailyData/byState", params= (self.auth | payload))
+        return pd.DataFrame.from_dict(req.json()["Data"])    
+    def DailySummarySite(self, param, bdate, edate, state, county, site):
+        payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county, "site": site}
+        req = requests.get("https://aqs.epa.gov/data/api/dailyData/bySite", params= (self.auth | payload))
+        return pd.DataFrame.from_dict(req.json()["Data"])
+
+
+
+if __name__ == "__main__":
+    epa = EPA("alb323@lehigh.edu", "indigoswift15")
+    df = epa.DailySummaryState(["42101", "42401"], "20210101", "20211231", "48")
+    print(df)
