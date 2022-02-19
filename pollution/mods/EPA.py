@@ -18,15 +18,27 @@ class EPA():
         else:
             print("BOO!")
 
+
+    def getCounties(self, state):
+        payload = {"state": state}
+        req = requests.get("https://aqs.epa.gov/data/api/list/countiesByState", params= (self.auth | payload))
+        return pd.DataFrame.from_dict(req.json()["Data"])
+
     def DailySummaryState(self, param, bdate, edate, state):
         payload = {"param":param, "bdate": bdate, "edate": edate, "state": state}
         req = requests.get("https://aqs.epa.gov/data/api/dailyData/byState", params= (self.auth | payload))
         return pd.DataFrame.from_dict(req.json()["Data"])
 
-    def DailySummaryCounty(self, param, bdate, edate, state, county):
-        payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county}
-        req = requests.get("https://aqs.epa.gov/data/api/dailyData/byState", params= (self.auth | payload))
-        return pd.DataFrame.from_dict(req.json()["Data"])    
+    def DailySummaryCounty(self, param, bdate, edate, state, counties):
+        df = pd.DataFrame()
+        for county in counties:
+            print(county)
+            payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county}
+            req = requests.get("https://aqs.epa.gov/data/api/dailyData/byCounty", params= (self.auth | payload))
+            print(req.url)
+            df = df.append(pd.DataFrame.from_dict(req.json()["Data"]))
+        return pd.DataFrame.from_dict(req.json()["Data"])  
+          
     def DailySummarySite(self, param, bdate, edate, state, county, site):
         payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county, "site": site}
         req = requests.get("https://aqs.epa.gov/data/api/dailyData/bySite", params= (self.auth | payload))
@@ -35,6 +47,4 @@ class EPA():
 
 
 if __name__ == "__main__":
-    epa = EPA("alb323@lehigh.edu", "indigoswift15")
-    df = epa.DailySummaryState(["42101", "42401"], "20210101", "20211231", "48")
-    print(df)
+    pass
