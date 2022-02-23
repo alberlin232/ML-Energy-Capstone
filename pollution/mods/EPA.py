@@ -24,20 +24,26 @@ class EPA():
         req = requests.get("https://aqs.epa.gov/data/api/list/countiesByState", params= (self.auth | payload))
         return pd.DataFrame.from_dict(req.json()["Data"])
 
+    def getParams(self):
+        payload = {"pc":"CRITERIA"}
+        req = requests.get("https://aqs.epa.gov/data/api/list/parametersByClass", params= (self.auth | payload))
+        return pd.DataFrame.from_dict(req.json()["Data"])
+
     def DailySummaryState(self, param, bdate, edate, state):
         payload = {"param":param, "bdate": bdate, "edate": edate, "state": state}
         req = requests.get("https://aqs.epa.gov/data/api/dailyData/byState", params= (self.auth | payload))
         return pd.DataFrame.from_dict(req.json()["Data"])
 
     def DailySummaryCounty(self, param, bdate, edate, state, counties):
-        df = pd.DataFrame()
+        data = pd.DataFrame()
+        noData = []
         for county in counties:
-            print(county)
             payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county}
             req = requests.get("https://aqs.epa.gov/data/api/dailyData/byCounty", params= (self.auth | payload))
-            print(req.url)
-            df = df.append(pd.DataFrame.from_dict(req.json()["Data"]))
-        return pd.DataFrame.from_dict(req.json()["Data"])  
+            if req.json()["Header"][0].get("status") == "No data matched your selection":
+                noData.append(county)
+            data = data.append(pd.DataFrame.from_dict(req.json()["Data"]))
+        return (data, noData)  
           
     def DailySummarySite(self, param, bdate, edate, state, county, site):
         payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county, "site": site}
