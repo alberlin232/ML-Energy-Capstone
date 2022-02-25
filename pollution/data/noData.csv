@@ -1,0 +1,1915 @@
+param,county
+Lead (TSP) LC,Anderson
+Lead (TSP) LC,Andrews
+Lead (TSP) LC,Angelina
+Lead (TSP) LC,Aransas
+Lead (TSP) LC,Archer
+Lead (TSP) LC,Armstrong
+Lead (TSP) LC,Atascosa
+Lead (TSP) LC,Austin
+Lead (TSP) LC,Bailey
+Lead (TSP) LC,Bandera
+Lead (TSP) LC,Bastrop
+Lead (TSP) LC,Baylor
+Lead (TSP) LC,Bee
+Lead (TSP) LC,Bell
+Lead (TSP) LC,Bexar
+Lead (TSP) LC,Blanco
+Lead (TSP) LC,Borden
+Lead (TSP) LC,Bosque
+Lead (TSP) LC,Bowie
+Lead (TSP) LC,Brazoria
+Lead (TSP) LC,Brazos
+Lead (TSP) LC,Brewster
+Lead (TSP) LC,Briscoe
+Lead (TSP) LC,Brooks
+Lead (TSP) LC,Brown
+Lead (TSP) LC,Burleson
+Lead (TSP) LC,Burnet
+Lead (TSP) LC,Caldwell
+Lead (TSP) LC,Calhoun
+Lead (TSP) LC,Callahan
+Lead (TSP) LC,Camp
+Lead (TSP) LC,Carson
+Lead (TSP) LC,Cass
+Lead (TSP) LC,Castro
+Lead (TSP) LC,Chambers
+Lead (TSP) LC,Cherokee
+Lead (TSP) LC,Childress
+Lead (TSP) LC,Clay
+Lead (TSP) LC,Cochran
+Lead (TSP) LC,Coke
+Lead (TSP) LC,Coleman
+Lead (TSP) LC,Collingsworth
+Lead (TSP) LC,Colorado
+Lead (TSP) LC,Comal
+Lead (TSP) LC,Comanche
+Lead (TSP) LC,Concho
+Lead (TSP) LC,Cooke
+Lead (TSP) LC,Coryell
+Lead (TSP) LC,Cottle
+Lead (TSP) LC,Crane
+Lead (TSP) LC,Crockett
+Lead (TSP) LC,Crosby
+Lead (TSP) LC,Culberson
+Lead (TSP) LC,Dallam
+Lead (TSP) LC,Dallas
+Lead (TSP) LC,Dawson
+Lead (TSP) LC,Deaf Smith
+Lead (TSP) LC,Delta
+Lead (TSP) LC,Denton
+Lead (TSP) LC,DeWitt
+Lead (TSP) LC,Dickens
+Lead (TSP) LC,Dimmit
+Lead (TSP) LC,Donley
+Lead (TSP) LC,Duval
+Lead (TSP) LC,Eastland
+Lead (TSP) LC,Ector
+Lead (TSP) LC,Edwards
+Lead (TSP) LC,Ellis
+Lead (TSP) LC,Erath
+Lead (TSP) LC,Falls
+Lead (TSP) LC,Fannin
+Lead (TSP) LC,Fayette
+Lead (TSP) LC,Fisher
+Lead (TSP) LC,Floyd
+Lead (TSP) LC,Foard
+Lead (TSP) LC,Fort Bend
+Lead (TSP) LC,Franklin
+Lead (TSP) LC,Freestone
+Lead (TSP) LC,Frio
+Lead (TSP) LC,Gaines
+Lead (TSP) LC,Galveston
+Lead (TSP) LC,Garza
+Lead (TSP) LC,Gillespie
+Lead (TSP) LC,Glasscock
+Lead (TSP) LC,Goliad
+Lead (TSP) LC,Gonzales
+Lead (TSP) LC,Gray
+Lead (TSP) LC,Grayson
+Lead (TSP) LC,Gregg
+Lead (TSP) LC,Grimes
+Lead (TSP) LC,Guadalupe
+Lead (TSP) LC,Hale
+Lead (TSP) LC,Hall
+Lead (TSP) LC,Hamilton
+Lead (TSP) LC,Hansford
+Lead (TSP) LC,Hardeman
+Lead (TSP) LC,Hardin
+Lead (TSP) LC,Harris
+Lead (TSP) LC,Harrison
+Lead (TSP) LC,Hartley
+Lead (TSP) LC,Haskell
+Lead (TSP) LC,Hays
+Lead (TSP) LC,Hemphill
+Lead (TSP) LC,Henderson
+Lead (TSP) LC,Hidalgo
+Lead (TSP) LC,Hill
+Lead (TSP) LC,Hockley
+Lead (TSP) LC,Hood
+Lead (TSP) LC,Hopkins
+Lead (TSP) LC,Houston
+Lead (TSP) LC,Howard
+Lead (TSP) LC,Hudspeth
+Lead (TSP) LC,Hunt
+Lead (TSP) LC,Hutchinson
+Lead (TSP) LC,Irion
+Lead (TSP) LC,Jack
+Lead (TSP) LC,Jackson
+Lead (TSP) LC,Jasper
+Lead (TSP) LC,Jeff Davis
+Lead (TSP) LC,Jefferson
+Lead (TSP) LC,Jim Hogg
+Lead (TSP) LC,Jim Wells
+Lead (TSP) LC,Johnson
+Lead (TSP) LC,Jones
+Lead (TSP) LC,Karnes
+Lead (TSP) LC,Kaufman
+Lead (TSP) LC,Kendall
+Lead (TSP) LC,Kenedy
+Lead (TSP) LC,Kent
+Lead (TSP) LC,Kerr
+Lead (TSP) LC,Kimble
+Lead (TSP) LC,King
+Lead (TSP) LC,Kinney
+Lead (TSP) LC,Kleberg
+Lead (TSP) LC,Knox
+Lead (TSP) LC,Lamar
+Lead (TSP) LC,Lamb
+Lead (TSP) LC,Lampasas
+Lead (TSP) LC,La Salle
+Lead (TSP) LC,Lavaca
+Lead (TSP) LC,Lee
+Lead (TSP) LC,Leon
+Lead (TSP) LC,Liberty
+Lead (TSP) LC,Limestone
+Lead (TSP) LC,Lipscomb
+Lead (TSP) LC,Live Oak
+Lead (TSP) LC,Llano
+Lead (TSP) LC,Loving
+Lead (TSP) LC,Lubbock
+Lead (TSP) LC,Lynn
+Lead (TSP) LC,McCulloch
+Lead (TSP) LC,McLennan
+Lead (TSP) LC,McMullen
+Lead (TSP) LC,Madison
+Lead (TSP) LC,Marion
+Lead (TSP) LC,Martin
+Lead (TSP) LC,Mason
+Lead (TSP) LC,Matagorda
+Lead (TSP) LC,Maverick
+Lead (TSP) LC,Medina
+Lead (TSP) LC,Menard
+Lead (TSP) LC,Midland
+Lead (TSP) LC,Milam
+Lead (TSP) LC,Mills
+Lead (TSP) LC,Mitchell
+Lead (TSP) LC,Montague
+Lead (TSP) LC,Montgomery
+Lead (TSP) LC,Moore
+Lead (TSP) LC,Morris
+Lead (TSP) LC,Motley
+Lead (TSP) LC,Nacogdoches
+Lead (TSP) LC,Navarro
+Lead (TSP) LC,Newton
+Lead (TSP) LC,Nolan
+Lead (TSP) LC,Nueces
+Lead (TSP) LC,Ochiltree
+Lead (TSP) LC,Oldham
+Lead (TSP) LC,Orange
+Lead (TSP) LC,Palo Pinto
+Lead (TSP) LC,Panola
+Lead (TSP) LC,Parker
+Lead (TSP) LC,Parmer
+Lead (TSP) LC,Pecos
+Lead (TSP) LC,Polk
+Lead (TSP) LC,Presidio
+Lead (TSP) LC,Rains
+Lead (TSP) LC,Randall
+Lead (TSP) LC,Reagan
+Lead (TSP) LC,Real
+Lead (TSP) LC,Red River
+Lead (TSP) LC,Reeves
+Lead (TSP) LC,Refugio
+Lead (TSP) LC,Roberts
+Lead (TSP) LC,Robertson
+Lead (TSP) LC,Rockwall
+Lead (TSP) LC,Runnels
+Lead (TSP) LC,Rusk
+Lead (TSP) LC,Sabine
+Lead (TSP) LC,San Augustine
+Lead (TSP) LC,San Jacinto
+Lead (TSP) LC,San Patricio
+Lead (TSP) LC,San Saba
+Lead (TSP) LC,Schleicher
+Lead (TSP) LC,Scurry
+Lead (TSP) LC,Shackelford
+Lead (TSP) LC,Shelby
+Lead (TSP) LC,Sherman
+Lead (TSP) LC,Smith
+Lead (TSP) LC,Somervell
+Lead (TSP) LC,Starr
+Lead (TSP) LC,Stephens
+Lead (TSP) LC,Sterling
+Lead (TSP) LC,Stonewall
+Lead (TSP) LC,Sutton
+Lead (TSP) LC,Swisher
+Lead (TSP) LC,Tarrant
+Lead (TSP) LC,Taylor
+Lead (TSP) LC,Terrell
+Lead (TSP) LC,Terry
+Lead (TSP) LC,Throckmorton
+Lead (TSP) LC,Titus
+Lead (TSP) LC,Tom Green
+Lead (TSP) LC,Travis
+Lead (TSP) LC,Trinity
+Lead (TSP) LC,Tyler
+Lead (TSP) LC,Upshur
+Lead (TSP) LC,Upton
+Lead (TSP) LC,Uvalde
+Lead (TSP) LC,Val Verde
+Lead (TSP) LC,Van Zandt
+Lead (TSP) LC,Victoria
+Lead (TSP) LC,Walker
+Lead (TSP) LC,Waller
+Lead (TSP) LC,Ward
+Lead (TSP) LC,Washington
+Lead (TSP) LC,Wharton
+Lead (TSP) LC,Wheeler
+Lead (TSP) LC,Wichita
+Lead (TSP) LC,Wilbarger
+Lead (TSP) LC,Willacy
+Lead (TSP) LC,Williamson
+Lead (TSP) LC,Wilson
+Lead (TSP) LC,Winkler
+Lead (TSP) LC,Wise
+Lead (TSP) LC,Wood
+Lead (TSP) LC,Yoakum
+Lead (TSP) LC,Young
+Lead (TSP) LC,Zapata
+Lead (TSP) LC,Zavala
+Carbon monoxide,Anderson
+Carbon monoxide,Andrews
+Carbon monoxide,Angelina
+Carbon monoxide,Aransas
+Carbon monoxide,Archer
+Carbon monoxide,Armstrong
+Carbon monoxide,Atascosa
+Carbon monoxide,Austin
+Carbon monoxide,Bailey
+Carbon monoxide,Bandera
+Carbon monoxide,Bastrop
+Carbon monoxide,Baylor
+Carbon monoxide,Bee
+Carbon monoxide,Bell
+Carbon monoxide,Blanco
+Carbon monoxide,Borden
+Carbon monoxide,Bosque
+Carbon monoxide,Bowie
+Carbon monoxide,Brazoria
+Carbon monoxide,Brazos
+Carbon monoxide,Brewster
+Carbon monoxide,Briscoe
+Carbon monoxide,Brooks
+Carbon monoxide,Brown
+Carbon monoxide,Burleson
+Carbon monoxide,Burnet
+Carbon monoxide,Caldwell
+Carbon monoxide,Calhoun
+Carbon monoxide,Callahan
+Carbon monoxide,Camp
+Carbon monoxide,Carson
+Carbon monoxide,Cass
+Carbon monoxide,Castro
+Carbon monoxide,Chambers
+Carbon monoxide,Cherokee
+Carbon monoxide,Childress
+Carbon monoxide,Clay
+Carbon monoxide,Cochran
+Carbon monoxide,Coke
+Carbon monoxide,Coleman
+Carbon monoxide,Collin
+Carbon monoxide,Collingsworth
+Carbon monoxide,Colorado
+Carbon monoxide,Comal
+Carbon monoxide,Comanche
+Carbon monoxide,Concho
+Carbon monoxide,Cooke
+Carbon monoxide,Coryell
+Carbon monoxide,Cottle
+Carbon monoxide,Crane
+Carbon monoxide,Crockett
+Carbon monoxide,Crosby
+Carbon monoxide,Culberson
+Carbon monoxide,Dallam
+Carbon monoxide,Dawson
+Carbon monoxide,Deaf Smith
+Carbon monoxide,Delta
+Carbon monoxide,Denton
+Carbon monoxide,DeWitt
+Carbon monoxide,Dickens
+Carbon monoxide,Dimmit
+Carbon monoxide,Donley
+Carbon monoxide,Duval
+Carbon monoxide,Eastland
+Carbon monoxide,Ector
+Carbon monoxide,Edwards
+Carbon monoxide,Ellis
+Carbon monoxide,Erath
+Carbon monoxide,Falls
+Carbon monoxide,Fannin
+Carbon monoxide,Fayette
+Carbon monoxide,Fisher
+Carbon monoxide,Floyd
+Carbon monoxide,Foard
+Carbon monoxide,Fort Bend
+Carbon monoxide,Franklin
+Carbon monoxide,Freestone
+Carbon monoxide,Frio
+Carbon monoxide,Gaines
+Carbon monoxide,Galveston
+Carbon monoxide,Garza
+Carbon monoxide,Gillespie
+Carbon monoxide,Glasscock
+Carbon monoxide,Goliad
+Carbon monoxide,Gonzales
+Carbon monoxide,Gray
+Carbon monoxide,Grayson
+Carbon monoxide,Gregg
+Carbon monoxide,Grimes
+Carbon monoxide,Guadalupe
+Carbon monoxide,Hale
+Carbon monoxide,Hall
+Carbon monoxide,Hamilton
+Carbon monoxide,Hansford
+Carbon monoxide,Hardeman
+Carbon monoxide,Hardin
+Carbon monoxide,Harrison
+Carbon monoxide,Hartley
+Carbon monoxide,Haskell
+Carbon monoxide,Hays
+Carbon monoxide,Hemphill
+Carbon monoxide,Henderson
+Carbon monoxide,Hidalgo
+Carbon monoxide,Hill
+Carbon monoxide,Hockley
+Carbon monoxide,Hood
+Carbon monoxide,Hopkins
+Carbon monoxide,Houston
+Carbon monoxide,Howard
+Carbon monoxide,Hudspeth
+Carbon monoxide,Hunt
+Carbon monoxide,Hutchinson
+Carbon monoxide,Irion
+Carbon monoxide,Jack
+Carbon monoxide,Jackson
+Carbon monoxide,Jasper
+Carbon monoxide,Jeff Davis
+Carbon monoxide,Jim Hogg
+Carbon monoxide,Jim Wells
+Carbon monoxide,Johnson
+Carbon monoxide,Jones
+Carbon monoxide,Karnes
+Carbon monoxide,Kaufman
+Carbon monoxide,Kendall
+Carbon monoxide,Kenedy
+Carbon monoxide,Kent
+Carbon monoxide,Kerr
+Carbon monoxide,Kimble
+Carbon monoxide,King
+Carbon monoxide,Kinney
+Carbon monoxide,Kleberg
+Carbon monoxide,Knox
+Carbon monoxide,Lamar
+Carbon monoxide,Lamb
+Carbon monoxide,Lampasas
+Carbon monoxide,La Salle
+Carbon monoxide,Lavaca
+Carbon monoxide,Lee
+Carbon monoxide,Leon
+Carbon monoxide,Liberty
+Carbon monoxide,Limestone
+Carbon monoxide,Lipscomb
+Carbon monoxide,Live Oak
+Carbon monoxide,Llano
+Carbon monoxide,Loving
+Carbon monoxide,Lubbock
+Carbon monoxide,Lynn
+Carbon monoxide,McCulloch
+Carbon monoxide,McMullen
+Carbon monoxide,Madison
+Carbon monoxide,Marion
+Carbon monoxide,Martin
+Carbon monoxide,Mason
+Carbon monoxide,Matagorda
+Carbon monoxide,Maverick
+Carbon monoxide,Medina
+Carbon monoxide,Menard
+Carbon monoxide,Midland
+Carbon monoxide,Milam
+Carbon monoxide,Mills
+Carbon monoxide,Mitchell
+Carbon monoxide,Montague
+Carbon monoxide,Montgomery
+Carbon monoxide,Moore
+Carbon monoxide,Morris
+Carbon monoxide,Motley
+Carbon monoxide,Nacogdoches
+Carbon monoxide,Navarro
+Carbon monoxide,Newton
+Carbon monoxide,Nolan
+Carbon monoxide,Nueces
+Carbon monoxide,Ochiltree
+Carbon monoxide,Oldham
+Carbon monoxide,Orange
+Carbon monoxide,Palo Pinto
+Carbon monoxide,Panola
+Carbon monoxide,Parker
+Carbon monoxide,Parmer
+Carbon monoxide,Pecos
+Carbon monoxide,Polk
+Carbon monoxide,Potter
+Carbon monoxide,Presidio
+Carbon monoxide,Rains
+Carbon monoxide,Randall
+Carbon monoxide,Reagan
+Carbon monoxide,Real
+Carbon monoxide,Red River
+Carbon monoxide,Reeves
+Carbon monoxide,Refugio
+Carbon monoxide,Roberts
+Carbon monoxide,Robertson
+Carbon monoxide,Rockwall
+Carbon monoxide,Runnels
+Carbon monoxide,Rusk
+Carbon monoxide,Sabine
+Carbon monoxide,San Augustine
+Carbon monoxide,San Jacinto
+Carbon monoxide,San Patricio
+Carbon monoxide,San Saba
+Carbon monoxide,Schleicher
+Carbon monoxide,Scurry
+Carbon monoxide,Shackelford
+Carbon monoxide,Shelby
+Carbon monoxide,Sherman
+Carbon monoxide,Smith
+Carbon monoxide,Somervell
+Carbon monoxide,Starr
+Carbon monoxide,Stephens
+Carbon monoxide,Sterling
+Carbon monoxide,Stonewall
+Carbon monoxide,Sutton
+Carbon monoxide,Swisher
+Carbon monoxide,Taylor
+Carbon monoxide,Terrell
+Carbon monoxide,Terry
+Carbon monoxide,Throckmorton
+Carbon monoxide,Titus
+Carbon monoxide,Tom Green
+Carbon monoxide,Trinity
+Carbon monoxide,Tyler
+Carbon monoxide,Upshur
+Carbon monoxide,Upton
+Carbon monoxide,Uvalde
+Carbon monoxide,Val Verde
+Carbon monoxide,Van Zandt
+Carbon monoxide,Victoria
+Carbon monoxide,Walker
+Carbon monoxide,Waller
+Carbon monoxide,Ward
+Carbon monoxide,Washington
+Carbon monoxide,Wharton
+Carbon monoxide,Wheeler
+Carbon monoxide,Wichita
+Carbon monoxide,Wilbarger
+Carbon monoxide,Willacy
+Carbon monoxide,Williamson
+Carbon monoxide,Wilson
+Carbon monoxide,Winkler
+Carbon monoxide,Wise
+Carbon monoxide,Wood
+Carbon monoxide,Yoakum
+Carbon monoxide,Young
+Carbon monoxide,Zapata
+Carbon monoxide,Zavala
+Sulfur dioxide,Anderson
+Sulfur dioxide,Andrews
+Sulfur dioxide,Angelina
+Sulfur dioxide,Aransas
+Sulfur dioxide,Archer
+Sulfur dioxide,Armstrong
+Sulfur dioxide,Atascosa
+Sulfur dioxide,Austin
+Sulfur dioxide,Bailey
+Sulfur dioxide,Bandera
+Sulfur dioxide,Bastrop
+Sulfur dioxide,Baylor
+Sulfur dioxide,Bee
+Sulfur dioxide,Bell
+Sulfur dioxide,Blanco
+Sulfur dioxide,Borden
+Sulfur dioxide,Bosque
+Sulfur dioxide,Bowie
+Sulfur dioxide,Brazoria
+Sulfur dioxide,Brazos
+Sulfur dioxide,Brewster
+Sulfur dioxide,Briscoe
+Sulfur dioxide,Brooks
+Sulfur dioxide,Brown
+Sulfur dioxide,Burleson
+Sulfur dioxide,Burnet
+Sulfur dioxide,Caldwell
+Sulfur dioxide,Calhoun
+Sulfur dioxide,Callahan
+Sulfur dioxide,Cameron
+Sulfur dioxide,Camp
+Sulfur dioxide,Carson
+Sulfur dioxide,Cass
+Sulfur dioxide,Castro
+Sulfur dioxide,Chambers
+Sulfur dioxide,Cherokee
+Sulfur dioxide,Childress
+Sulfur dioxide,Clay
+Sulfur dioxide,Cochran
+Sulfur dioxide,Coke
+Sulfur dioxide,Coleman
+Sulfur dioxide,Collin
+Sulfur dioxide,Collingsworth
+Sulfur dioxide,Colorado
+Sulfur dioxide,Comal
+Sulfur dioxide,Comanche
+Sulfur dioxide,Concho
+Sulfur dioxide,Cooke
+Sulfur dioxide,Coryell
+Sulfur dioxide,Cottle
+Sulfur dioxide,Crane
+Sulfur dioxide,Crockett
+Sulfur dioxide,Crosby
+Sulfur dioxide,Culberson
+Sulfur dioxide,Dallam
+Sulfur dioxide,Dawson
+Sulfur dioxide,Deaf Smith
+Sulfur dioxide,Delta
+Sulfur dioxide,Denton
+Sulfur dioxide,DeWitt
+Sulfur dioxide,Dickens
+Sulfur dioxide,Dimmit
+Sulfur dioxide,Donley
+Sulfur dioxide,Duval
+Sulfur dioxide,Eastland
+Sulfur dioxide,Ector
+Sulfur dioxide,Edwards
+Sulfur dioxide,Erath
+Sulfur dioxide,Falls
+Sulfur dioxide,Fannin
+Sulfur dioxide,Fayette
+Sulfur dioxide,Fisher
+Sulfur dioxide,Floyd
+Sulfur dioxide,Foard
+Sulfur dioxide,Fort Bend
+Sulfur dioxide,Franklin
+Sulfur dioxide,Frio
+Sulfur dioxide,Gaines
+Sulfur dioxide,Garza
+Sulfur dioxide,Gillespie
+Sulfur dioxide,Glasscock
+Sulfur dioxide,Goliad
+Sulfur dioxide,Gonzales
+Sulfur dioxide,Gray
+Sulfur dioxide,Grayson
+Sulfur dioxide,Grimes
+Sulfur dioxide,Guadalupe
+Sulfur dioxide,Hale
+Sulfur dioxide,Hall
+Sulfur dioxide,Hamilton
+Sulfur dioxide,Hansford
+Sulfur dioxide,Hardeman
+Sulfur dioxide,Hardin
+Sulfur dioxide,Hartley
+Sulfur dioxide,Haskell
+Sulfur dioxide,Hays
+Sulfur dioxide,Hemphill
+Sulfur dioxide,Henderson
+Sulfur dioxide,Hidalgo
+Sulfur dioxide,Hill
+Sulfur dioxide,Hockley
+Sulfur dioxide,Hood
+Sulfur dioxide,Hopkins
+Sulfur dioxide,Houston
+Sulfur dioxide,Hudspeth
+Sulfur dioxide,Hunt
+Sulfur dioxide,Irion
+Sulfur dioxide,Jack
+Sulfur dioxide,Jackson
+Sulfur dioxide,Jasper
+Sulfur dioxide,Jeff Davis
+Sulfur dioxide,Jim Hogg
+Sulfur dioxide,Jim Wells
+Sulfur dioxide,Johnson
+Sulfur dioxide,Jones
+Sulfur dioxide,Karnes
+Sulfur dioxide,Kendall
+Sulfur dioxide,Kenedy
+Sulfur dioxide,Kent
+Sulfur dioxide,Kerr
+Sulfur dioxide,Kimble
+Sulfur dioxide,King
+Sulfur dioxide,Kinney
+Sulfur dioxide,Kleberg
+Sulfur dioxide,Knox
+Sulfur dioxide,Lamar
+Sulfur dioxide,Lamb
+Sulfur dioxide,Lampasas
+Sulfur dioxide,La Salle
+Sulfur dioxide,Lavaca
+Sulfur dioxide,Lee
+Sulfur dioxide,Leon
+Sulfur dioxide,Liberty
+Sulfur dioxide,Limestone
+Sulfur dioxide,Lipscomb
+Sulfur dioxide,Live Oak
+Sulfur dioxide,Llano
+Sulfur dioxide,Loving
+Sulfur dioxide,Lubbock
+Sulfur dioxide,Lynn
+Sulfur dioxide,McCulloch
+Sulfur dioxide,McMullen
+Sulfur dioxide,Madison
+Sulfur dioxide,Marion
+Sulfur dioxide,Martin
+Sulfur dioxide,Mason
+Sulfur dioxide,Matagorda
+Sulfur dioxide,Maverick
+Sulfur dioxide,Medina
+Sulfur dioxide,Menard
+Sulfur dioxide,Midland
+Sulfur dioxide,Mills
+Sulfur dioxide,Mitchell
+Sulfur dioxide,Montague
+Sulfur dioxide,Montgomery
+Sulfur dioxide,Moore
+Sulfur dioxide,Morris
+Sulfur dioxide,Motley
+Sulfur dioxide,Nacogdoches
+Sulfur dioxide,Newton
+Sulfur dioxide,Nolan
+Sulfur dioxide,Ochiltree
+Sulfur dioxide,Oldham
+Sulfur dioxide,Palo Pinto
+Sulfur dioxide,Panola
+Sulfur dioxide,Parker
+Sulfur dioxide,Parmer
+Sulfur dioxide,Pecos
+Sulfur dioxide,Polk
+Sulfur dioxide,Presidio
+Sulfur dioxide,Rains
+Sulfur dioxide,Randall
+Sulfur dioxide,Reagan
+Sulfur dioxide,Real
+Sulfur dioxide,Red River
+Sulfur dioxide,Reeves
+Sulfur dioxide,Refugio
+Sulfur dioxide,Roberts
+Sulfur dioxide,Rockwall
+Sulfur dioxide,Runnels
+Sulfur dioxide,Sabine
+Sulfur dioxide,San Augustine
+Sulfur dioxide,San Jacinto
+Sulfur dioxide,San Patricio
+Sulfur dioxide,San Saba
+Sulfur dioxide,Schleicher
+Sulfur dioxide,Scurry
+Sulfur dioxide,Shackelford
+Sulfur dioxide,Shelby
+Sulfur dioxide,Sherman
+Sulfur dioxide,Smith
+Sulfur dioxide,Somervell
+Sulfur dioxide,Starr
+Sulfur dioxide,Stephens
+Sulfur dioxide,Sterling
+Sulfur dioxide,Stonewall
+Sulfur dioxide,Sutton
+Sulfur dioxide,Swisher
+Sulfur dioxide,Tarrant
+Sulfur dioxide,Taylor
+Sulfur dioxide,Terrell
+Sulfur dioxide,Terry
+Sulfur dioxide,Throckmorton
+Sulfur dioxide,Tom Green
+Sulfur dioxide,Trinity
+Sulfur dioxide,Tyler
+Sulfur dioxide,Upshur
+Sulfur dioxide,Upton
+Sulfur dioxide,Uvalde
+Sulfur dioxide,Val Verde
+Sulfur dioxide,Van Zandt
+Sulfur dioxide,Victoria
+Sulfur dioxide,Walker
+Sulfur dioxide,Waller
+Sulfur dioxide,Ward
+Sulfur dioxide,Washington
+Sulfur dioxide,Webb
+Sulfur dioxide,Wharton
+Sulfur dioxide,Wheeler
+Sulfur dioxide,Wichita
+Sulfur dioxide,Wilbarger
+Sulfur dioxide,Willacy
+Sulfur dioxide,Williamson
+Sulfur dioxide,Wilson
+Sulfur dioxide,Winkler
+Sulfur dioxide,Wise
+Sulfur dioxide,Wood
+Sulfur dioxide,Yoakum
+Sulfur dioxide,Young
+Sulfur dioxide,Zapata
+Sulfur dioxide,Zavala
+Nitrogen dioxide (NO2),Anderson
+Nitrogen dioxide (NO2),Andrews
+Nitrogen dioxide (NO2),Angelina
+Nitrogen dioxide (NO2),Aransas
+Nitrogen dioxide (NO2),Archer
+Nitrogen dioxide (NO2),Armstrong
+Nitrogen dioxide (NO2),Atascosa
+Nitrogen dioxide (NO2),Austin
+Nitrogen dioxide (NO2),Bailey
+Nitrogen dioxide (NO2),Bandera
+Nitrogen dioxide (NO2),Bastrop
+Nitrogen dioxide (NO2),Baylor
+Nitrogen dioxide (NO2),Bee
+Nitrogen dioxide (NO2),Bell
+Nitrogen dioxide (NO2),Blanco
+Nitrogen dioxide (NO2),Borden
+Nitrogen dioxide (NO2),Bosque
+Nitrogen dioxide (NO2),Bowie
+Nitrogen dioxide (NO2),Brazos
+Nitrogen dioxide (NO2),Brewster
+Nitrogen dioxide (NO2),Briscoe
+Nitrogen dioxide (NO2),Brooks
+Nitrogen dioxide (NO2),Brown
+Nitrogen dioxide (NO2),Burleson
+Nitrogen dioxide (NO2),Burnet
+Nitrogen dioxide (NO2),Caldwell
+Nitrogen dioxide (NO2),Calhoun
+Nitrogen dioxide (NO2),Callahan
+Nitrogen dioxide (NO2),Cameron
+Nitrogen dioxide (NO2),Camp
+Nitrogen dioxide (NO2),Carson
+Nitrogen dioxide (NO2),Cass
+Nitrogen dioxide (NO2),Castro
+Nitrogen dioxide (NO2),Chambers
+Nitrogen dioxide (NO2),Cherokee
+Nitrogen dioxide (NO2),Childress
+Nitrogen dioxide (NO2),Clay
+Nitrogen dioxide (NO2),Cochran
+Nitrogen dioxide (NO2),Coke
+Nitrogen dioxide (NO2),Coleman
+Nitrogen dioxide (NO2),Collin
+Nitrogen dioxide (NO2),Collingsworth
+Nitrogen dioxide (NO2),Colorado
+Nitrogen dioxide (NO2),Comal
+Nitrogen dioxide (NO2),Comanche
+Nitrogen dioxide (NO2),Concho
+Nitrogen dioxide (NO2),Cooke
+Nitrogen dioxide (NO2),Coryell
+Nitrogen dioxide (NO2),Cottle
+Nitrogen dioxide (NO2),Crane
+Nitrogen dioxide (NO2),Crockett
+Nitrogen dioxide (NO2),Crosby
+Nitrogen dioxide (NO2),Culberson
+Nitrogen dioxide (NO2),Dallam
+Nitrogen dioxide (NO2),Dawson
+Nitrogen dioxide (NO2),Deaf Smith
+Nitrogen dioxide (NO2),Delta
+Nitrogen dioxide (NO2),DeWitt
+Nitrogen dioxide (NO2),Dickens
+Nitrogen dioxide (NO2),Dimmit
+Nitrogen dioxide (NO2),Donley
+Nitrogen dioxide (NO2),Duval
+Nitrogen dioxide (NO2),Eastland
+Nitrogen dioxide (NO2),Ector
+Nitrogen dioxide (NO2),Edwards
+Nitrogen dioxide (NO2),Erath
+Nitrogen dioxide (NO2),Falls
+Nitrogen dioxide (NO2),Fannin
+Nitrogen dioxide (NO2),Fayette
+Nitrogen dioxide (NO2),Fisher
+Nitrogen dioxide (NO2),Floyd
+Nitrogen dioxide (NO2),Foard
+Nitrogen dioxide (NO2),Fort Bend
+Nitrogen dioxide (NO2),Franklin
+Nitrogen dioxide (NO2),Freestone
+Nitrogen dioxide (NO2),Frio
+Nitrogen dioxide (NO2),Gaines
+Nitrogen dioxide (NO2),Garza
+Nitrogen dioxide (NO2),Gillespie
+Nitrogen dioxide (NO2),Glasscock
+Nitrogen dioxide (NO2),Goliad
+Nitrogen dioxide (NO2),Gonzales
+Nitrogen dioxide (NO2),Gray
+Nitrogen dioxide (NO2),Grayson
+Nitrogen dioxide (NO2),Grimes
+Nitrogen dioxide (NO2),Guadalupe
+Nitrogen dioxide (NO2),Hale
+Nitrogen dioxide (NO2),Hall
+Nitrogen dioxide (NO2),Hamilton
+Nitrogen dioxide (NO2),Hansford
+Nitrogen dioxide (NO2),Hardeman
+Nitrogen dioxide (NO2),Hardin
+Nitrogen dioxide (NO2),Hartley
+Nitrogen dioxide (NO2),Haskell
+Nitrogen dioxide (NO2),Hays
+Nitrogen dioxide (NO2),Hemphill
+Nitrogen dioxide (NO2),Henderson
+Nitrogen dioxide (NO2),Hidalgo
+Nitrogen dioxide (NO2),Hill
+Nitrogen dioxide (NO2),Hockley
+Nitrogen dioxide (NO2),Hood
+Nitrogen dioxide (NO2),Hopkins
+Nitrogen dioxide (NO2),Houston
+Nitrogen dioxide (NO2),Howard
+Nitrogen dioxide (NO2),Hudspeth
+Nitrogen dioxide (NO2),Hutchinson
+Nitrogen dioxide (NO2),Irion
+Nitrogen dioxide (NO2),Jack
+Nitrogen dioxide (NO2),Jackson
+Nitrogen dioxide (NO2),Jasper
+Nitrogen dioxide (NO2),Jeff Davis
+Nitrogen dioxide (NO2),Jim Hogg
+Nitrogen dioxide (NO2),Jim Wells
+Nitrogen dioxide (NO2),Johnson
+Nitrogen dioxide (NO2),Jones
+Nitrogen dioxide (NO2),Karnes
+Nitrogen dioxide (NO2),Kendall
+Nitrogen dioxide (NO2),Kenedy
+Nitrogen dioxide (NO2),Kent
+Nitrogen dioxide (NO2),Kerr
+Nitrogen dioxide (NO2),Kimble
+Nitrogen dioxide (NO2),King
+Nitrogen dioxide (NO2),Kinney
+Nitrogen dioxide (NO2),Kleberg
+Nitrogen dioxide (NO2),Knox
+Nitrogen dioxide (NO2),Lamar
+Nitrogen dioxide (NO2),Lamb
+Nitrogen dioxide (NO2),Lampasas
+Nitrogen dioxide (NO2),La Salle
+Nitrogen dioxide (NO2),Lavaca
+Nitrogen dioxide (NO2),Lee
+Nitrogen dioxide (NO2),Leon
+Nitrogen dioxide (NO2),Liberty
+Nitrogen dioxide (NO2),Limestone
+Nitrogen dioxide (NO2),Lipscomb
+Nitrogen dioxide (NO2),Live Oak
+Nitrogen dioxide (NO2),Llano
+Nitrogen dioxide (NO2),Loving
+Nitrogen dioxide (NO2),Lubbock
+Nitrogen dioxide (NO2),Lynn
+Nitrogen dioxide (NO2),McCulloch
+Nitrogen dioxide (NO2),McMullen
+Nitrogen dioxide (NO2),Madison
+Nitrogen dioxide (NO2),Marion
+Nitrogen dioxide (NO2),Martin
+Nitrogen dioxide (NO2),Mason
+Nitrogen dioxide (NO2),Matagorda
+Nitrogen dioxide (NO2),Maverick
+Nitrogen dioxide (NO2),Medina
+Nitrogen dioxide (NO2),Menard
+Nitrogen dioxide (NO2),Midland
+Nitrogen dioxide (NO2),Milam
+Nitrogen dioxide (NO2),Mills
+Nitrogen dioxide (NO2),Mitchell
+Nitrogen dioxide (NO2),Montague
+Nitrogen dioxide (NO2),Moore
+Nitrogen dioxide (NO2),Morris
+Nitrogen dioxide (NO2),Motley
+Nitrogen dioxide (NO2),Nacogdoches
+Nitrogen dioxide (NO2),Newton
+Nitrogen dioxide (NO2),Nolan
+Nitrogen dioxide (NO2),Nueces
+Nitrogen dioxide (NO2),Ochiltree
+Nitrogen dioxide (NO2),Oldham
+Nitrogen dioxide (NO2),Palo Pinto
+Nitrogen dioxide (NO2),Panola
+Nitrogen dioxide (NO2),Parker
+Nitrogen dioxide (NO2),Parmer
+Nitrogen dioxide (NO2),Pecos
+Nitrogen dioxide (NO2),Polk
+Nitrogen dioxide (NO2),Potter
+Nitrogen dioxide (NO2),Presidio
+Nitrogen dioxide (NO2),Rains
+Nitrogen dioxide (NO2),Randall
+Nitrogen dioxide (NO2),Reagan
+Nitrogen dioxide (NO2),Real
+Nitrogen dioxide (NO2),Red River
+Nitrogen dioxide (NO2),Reeves
+Nitrogen dioxide (NO2),Refugio
+Nitrogen dioxide (NO2),Roberts
+Nitrogen dioxide (NO2),Robertson
+Nitrogen dioxide (NO2),Rockwall
+Nitrogen dioxide (NO2),Runnels
+Nitrogen dioxide (NO2),Rusk
+Nitrogen dioxide (NO2),Sabine
+Nitrogen dioxide (NO2),San Augustine
+Nitrogen dioxide (NO2),San Jacinto
+Nitrogen dioxide (NO2),San Patricio
+Nitrogen dioxide (NO2),San Saba
+Nitrogen dioxide (NO2),Schleicher
+Nitrogen dioxide (NO2),Scurry
+Nitrogen dioxide (NO2),Shackelford
+Nitrogen dioxide (NO2),Shelby
+Nitrogen dioxide (NO2),Sherman
+Nitrogen dioxide (NO2),Somervell
+Nitrogen dioxide (NO2),Starr
+Nitrogen dioxide (NO2),Stephens
+Nitrogen dioxide (NO2),Sterling
+Nitrogen dioxide (NO2),Stonewall
+Nitrogen dioxide (NO2),Sutton
+Nitrogen dioxide (NO2),Swisher
+Nitrogen dioxide (NO2),Taylor
+Nitrogen dioxide (NO2),Terrell
+Nitrogen dioxide (NO2),Terry
+Nitrogen dioxide (NO2),Throckmorton
+Nitrogen dioxide (NO2),Titus
+Nitrogen dioxide (NO2),Tom Green
+Nitrogen dioxide (NO2),Trinity
+Nitrogen dioxide (NO2),Tyler
+Nitrogen dioxide (NO2),Upshur
+Nitrogen dioxide (NO2),Upton
+Nitrogen dioxide (NO2),Uvalde
+Nitrogen dioxide (NO2),Val Verde
+Nitrogen dioxide (NO2),Van Zandt
+Nitrogen dioxide (NO2),Victoria
+Nitrogen dioxide (NO2),Walker
+Nitrogen dioxide (NO2),Waller
+Nitrogen dioxide (NO2),Ward
+Nitrogen dioxide (NO2),Washington
+Nitrogen dioxide (NO2),Webb
+Nitrogen dioxide (NO2),Wharton
+Nitrogen dioxide (NO2),Wheeler
+Nitrogen dioxide (NO2),Wichita
+Nitrogen dioxide (NO2),Wilbarger
+Nitrogen dioxide (NO2),Willacy
+Nitrogen dioxide (NO2),Williamson
+Nitrogen dioxide (NO2),Wilson
+Nitrogen dioxide (NO2),Winkler
+Nitrogen dioxide (NO2),Wise
+Nitrogen dioxide (NO2),Wood
+Nitrogen dioxide (NO2),Yoakum
+Nitrogen dioxide (NO2),Young
+Nitrogen dioxide (NO2),Zapata
+Nitrogen dioxide (NO2),Zavala
+Ozone,Anderson
+Ozone,Andrews
+Ozone,Angelina
+Ozone,Aransas
+Ozone,Archer
+Ozone,Armstrong
+Ozone,Atascosa
+Ozone,Austin
+Ozone,Bailey
+Ozone,Bandera
+Ozone,Bastrop
+Ozone,Baylor
+Ozone,Bee
+Ozone,Blanco
+Ozone,Borden
+Ozone,Bosque
+Ozone,Bowie
+Ozone,Brazos
+Ozone,Briscoe
+Ozone,Brooks
+Ozone,Brown
+Ozone,Burleson
+Ozone,Burnet
+Ozone,Caldwell
+Ozone,Calhoun
+Ozone,Callahan
+Ozone,Camp
+Ozone,Carson
+Ozone,Cass
+Ozone,Castro
+Ozone,Chambers
+Ozone,Cherokee
+Ozone,Childress
+Ozone,Clay
+Ozone,Cochran
+Ozone,Coke
+Ozone,Coleman
+Ozone,Collingsworth
+Ozone,Colorado
+Ozone,Comal
+Ozone,Comanche
+Ozone,Concho
+Ozone,Cooke
+Ozone,Coryell
+Ozone,Cottle
+Ozone,Crane
+Ozone,Crockett
+Ozone,Crosby
+Ozone,Culberson
+Ozone,Dallam
+Ozone,Dawson
+Ozone,Deaf Smith
+Ozone,Delta
+Ozone,DeWitt
+Ozone,Dickens
+Ozone,Dimmit
+Ozone,Donley
+Ozone,Duval
+Ozone,Eastland
+Ozone,Ector
+Ozone,Edwards
+Ozone,Erath
+Ozone,Falls
+Ozone,Fannin
+Ozone,Fayette
+Ozone,Fisher
+Ozone,Floyd
+Ozone,Foard
+Ozone,Fort Bend
+Ozone,Franklin
+Ozone,Freestone
+Ozone,Frio
+Ozone,Gaines
+Ozone,Garza
+Ozone,Gillespie
+Ozone,Glasscock
+Ozone,Goliad
+Ozone,Gonzales
+Ozone,Gray
+Ozone,Grayson
+Ozone,Grimes
+Ozone,Guadalupe
+Ozone,Hale
+Ozone,Hall
+Ozone,Hamilton
+Ozone,Hansford
+Ozone,Hardeman
+Ozone,Hardin
+Ozone,Hartley
+Ozone,Haskell
+Ozone,Hays
+Ozone,Hemphill
+Ozone,Henderson
+Ozone,Hill
+Ozone,Hockley
+Ozone,Hopkins
+Ozone,Houston
+Ozone,Howard
+Ozone,Hudspeth
+Ozone,Hutchinson
+Ozone,Irion
+Ozone,Jack
+Ozone,Jackson
+Ozone,Jasper
+Ozone,Jeff Davis
+Ozone,Jim Hogg
+Ozone,Jim Wells
+Ozone,Jones
+Ozone,Karnes
+Ozone,Kendall
+Ozone,Kenedy
+Ozone,Kent
+Ozone,Kerr
+Ozone,Kimble
+Ozone,King
+Ozone,Kinney
+Ozone,Kleberg
+Ozone,Knox
+Ozone,Lamar
+Ozone,Lamb
+Ozone,Lampasas
+Ozone,La Salle
+Ozone,Lavaca
+Ozone,Lee
+Ozone,Leon
+Ozone,Liberty
+Ozone,Limestone
+Ozone,Lipscomb
+Ozone,Live Oak
+Ozone,Llano
+Ozone,Loving
+Ozone,Lubbock
+Ozone,Lynn
+Ozone,McCulloch
+Ozone,McMullen
+Ozone,Madison
+Ozone,Marion
+Ozone,Martin
+Ozone,Mason
+Ozone,Matagorda
+Ozone,Maverick
+Ozone,Medina
+Ozone,Menard
+Ozone,Midland
+Ozone,Milam
+Ozone,Mills
+Ozone,Mitchell
+Ozone,Montague
+Ozone,Moore
+Ozone,Morris
+Ozone,Motley
+Ozone,Nacogdoches
+Ozone,Newton
+Ozone,Nolan
+Ozone,Ochiltree
+Ozone,Oldham
+Ozone,Palo Pinto
+Ozone,Panola
+Ozone,Parmer
+Ozone,Pecos
+Ozone,Potter
+Ozone,Presidio
+Ozone,Rains
+Ozone,Reagan
+Ozone,Real
+Ozone,Red River
+Ozone,Reeves
+Ozone,Refugio
+Ozone,Roberts
+Ozone,Robertson
+Ozone,Runnels
+Ozone,Rusk
+Ozone,Sabine
+Ozone,San Augustine
+Ozone,San Jacinto
+Ozone,San Patricio
+Ozone,San Saba
+Ozone,Schleicher
+Ozone,Scurry
+Ozone,Shackelford
+Ozone,Shelby
+Ozone,Sherman
+Ozone,Somervell
+Ozone,Starr
+Ozone,Stephens
+Ozone,Sterling
+Ozone,Stonewall
+Ozone,Sutton
+Ozone,Swisher
+Ozone,Taylor
+Ozone,Terrell
+Ozone,Terry
+Ozone,Throckmorton
+Ozone,Titus
+Ozone,Tom Green
+Ozone,Trinity
+Ozone,Tyler
+Ozone,Upshur
+Ozone,Upton
+Ozone,Uvalde
+Ozone,Val Verde
+Ozone,Van Zandt
+Ozone,Walker
+Ozone,Waller
+Ozone,Ward
+Ozone,Washington
+Ozone,Wharton
+Ozone,Wheeler
+Ozone,Wichita
+Ozone,Wilbarger
+Ozone,Willacy
+Ozone,Williamson
+Ozone,Wilson
+Ozone,Winkler
+Ozone,Wise
+Ozone,Wood
+Ozone,Yoakum
+Ozone,Young
+Ozone,Zapata
+Ozone,Zavala
+PM10 Total 0-10um STP,Anderson
+PM10 Total 0-10um STP,Andrews
+PM10 Total 0-10um STP,Angelina
+PM10 Total 0-10um STP,Aransas
+PM10 Total 0-10um STP,Archer
+PM10 Total 0-10um STP,Armstrong
+PM10 Total 0-10um STP,Atascosa
+PM10 Total 0-10um STP,Austin
+PM10 Total 0-10um STP,Bailey
+PM10 Total 0-10um STP,Bandera
+PM10 Total 0-10um STP,Bastrop
+PM10 Total 0-10um STP,Baylor
+PM10 Total 0-10um STP,Bee
+PM10 Total 0-10um STP,Bell
+PM10 Total 0-10um STP,Blanco
+PM10 Total 0-10um STP,Borden
+PM10 Total 0-10um STP,Bosque
+PM10 Total 0-10um STP,Bowie
+PM10 Total 0-10um STP,Brazoria
+PM10 Total 0-10um STP,Brazos
+PM10 Total 0-10um STP,Brewster
+PM10 Total 0-10um STP,Briscoe
+PM10 Total 0-10um STP,Brooks
+PM10 Total 0-10um STP,Brown
+PM10 Total 0-10um STP,Burleson
+PM10 Total 0-10um STP,Burnet
+PM10 Total 0-10um STP,Caldwell
+PM10 Total 0-10um STP,Calhoun
+PM10 Total 0-10um STP,Callahan
+PM10 Total 0-10um STP,Cameron
+PM10 Total 0-10um STP,Camp
+PM10 Total 0-10um STP,Carson
+PM10 Total 0-10um STP,Cass
+PM10 Total 0-10um STP,Castro
+PM10 Total 0-10um STP,Chambers
+PM10 Total 0-10um STP,Cherokee
+PM10 Total 0-10um STP,Childress
+PM10 Total 0-10um STP,Clay
+PM10 Total 0-10um STP,Cochran
+PM10 Total 0-10um STP,Coke
+PM10 Total 0-10um STP,Coleman
+PM10 Total 0-10um STP,Collin
+PM10 Total 0-10um STP,Collingsworth
+PM10 Total 0-10um STP,Colorado
+PM10 Total 0-10um STP,Comal
+PM10 Total 0-10um STP,Comanche
+PM10 Total 0-10um STP,Concho
+PM10 Total 0-10um STP,Cooke
+PM10 Total 0-10um STP,Coryell
+PM10 Total 0-10um STP,Cottle
+PM10 Total 0-10um STP,Crane
+PM10 Total 0-10um STP,Crockett
+PM10 Total 0-10um STP,Crosby
+PM10 Total 0-10um STP,Culberson
+PM10 Total 0-10um STP,Dallam
+PM10 Total 0-10um STP,Dallas
+PM10 Total 0-10um STP,Dawson
+PM10 Total 0-10um STP,Deaf Smith
+PM10 Total 0-10um STP,Delta
+PM10 Total 0-10um STP,Denton
+PM10 Total 0-10um STP,DeWitt
+PM10 Total 0-10um STP,Dickens
+PM10 Total 0-10um STP,Dimmit
+PM10 Total 0-10um STP,Donley
+PM10 Total 0-10um STP,Duval
+PM10 Total 0-10um STP,Eastland
+PM10 Total 0-10um STP,Ector
+PM10 Total 0-10um STP,Edwards
+PM10 Total 0-10um STP,Ellis
+PM10 Total 0-10um STP,Erath
+PM10 Total 0-10um STP,Falls
+PM10 Total 0-10um STP,Fannin
+PM10 Total 0-10um STP,Fayette
+PM10 Total 0-10um STP,Fisher
+PM10 Total 0-10um STP,Floyd
+PM10 Total 0-10um STP,Foard
+PM10 Total 0-10um STP,Fort Bend
+PM10 Total 0-10um STP,Franklin
+PM10 Total 0-10um STP,Freestone
+PM10 Total 0-10um STP,Frio
+PM10 Total 0-10um STP,Gaines
+PM10 Total 0-10um STP,Garza
+PM10 Total 0-10um STP,Gillespie
+PM10 Total 0-10um STP,Glasscock
+PM10 Total 0-10um STP,Goliad
+PM10 Total 0-10um STP,Gonzales
+PM10 Total 0-10um STP,Gray
+PM10 Total 0-10um STP,Grayson
+PM10 Total 0-10um STP,Gregg
+PM10 Total 0-10um STP,Grimes
+PM10 Total 0-10um STP,Guadalupe
+PM10 Total 0-10um STP,Hale
+PM10 Total 0-10um STP,Hall
+PM10 Total 0-10um STP,Hamilton
+PM10 Total 0-10um STP,Hansford
+PM10 Total 0-10um STP,Hardeman
+PM10 Total 0-10um STP,Hardin
+PM10 Total 0-10um STP,Hartley
+PM10 Total 0-10um STP,Haskell
+PM10 Total 0-10um STP,Hays
+PM10 Total 0-10um STP,Hemphill
+PM10 Total 0-10um STP,Henderson
+PM10 Total 0-10um STP,Hill
+PM10 Total 0-10um STP,Hockley
+PM10 Total 0-10um STP,Hood
+PM10 Total 0-10um STP,Hopkins
+PM10 Total 0-10um STP,Houston
+PM10 Total 0-10um STP,Howard
+PM10 Total 0-10um STP,Hudspeth
+PM10 Total 0-10um STP,Hunt
+PM10 Total 0-10um STP,Hutchinson
+PM10 Total 0-10um STP,Irion
+PM10 Total 0-10um STP,Jack
+PM10 Total 0-10um STP,Jackson
+PM10 Total 0-10um STP,Jasper
+PM10 Total 0-10um STP,Jeff Davis
+PM10 Total 0-10um STP,Jefferson
+PM10 Total 0-10um STP,Jim Hogg
+PM10 Total 0-10um STP,Jim Wells
+PM10 Total 0-10um STP,Johnson
+PM10 Total 0-10um STP,Jones
+PM10 Total 0-10um STP,Karnes
+PM10 Total 0-10um STP,Kaufman
+PM10 Total 0-10um STP,Kendall
+PM10 Total 0-10um STP,Kenedy
+PM10 Total 0-10um STP,Kent
+PM10 Total 0-10um STP,Kerr
+PM10 Total 0-10um STP,Kimble
+PM10 Total 0-10um STP,King
+PM10 Total 0-10um STP,Kinney
+PM10 Total 0-10um STP,Kleberg
+PM10 Total 0-10um STP,Knox
+PM10 Total 0-10um STP,Lamar
+PM10 Total 0-10um STP,Lamb
+PM10 Total 0-10um STP,Lampasas
+PM10 Total 0-10um STP,La Salle
+PM10 Total 0-10um STP,Lavaca
+PM10 Total 0-10um STP,Lee
+PM10 Total 0-10um STP,Leon
+PM10 Total 0-10um STP,Liberty
+PM10 Total 0-10um STP,Limestone
+PM10 Total 0-10um STP,Lipscomb
+PM10 Total 0-10um STP,Live Oak
+PM10 Total 0-10um STP,Llano
+PM10 Total 0-10um STP,Loving
+PM10 Total 0-10um STP,Lubbock
+PM10 Total 0-10um STP,Lynn
+PM10 Total 0-10um STP,McCulloch
+PM10 Total 0-10um STP,McLennan
+PM10 Total 0-10um STP,McMullen
+PM10 Total 0-10um STP,Madison
+PM10 Total 0-10um STP,Marion
+PM10 Total 0-10um STP,Martin
+PM10 Total 0-10um STP,Mason
+PM10 Total 0-10um STP,Matagorda
+PM10 Total 0-10um STP,Maverick
+PM10 Total 0-10um STP,Medina
+PM10 Total 0-10um STP,Menard
+PM10 Total 0-10um STP,Midland
+PM10 Total 0-10um STP,Milam
+PM10 Total 0-10um STP,Mills
+PM10 Total 0-10um STP,Mitchell
+PM10 Total 0-10um STP,Montague
+PM10 Total 0-10um STP,Montgomery
+PM10 Total 0-10um STP,Moore
+PM10 Total 0-10um STP,Morris
+PM10 Total 0-10um STP,Motley
+PM10 Total 0-10um STP,Nacogdoches
+PM10 Total 0-10um STP,Navarro
+PM10 Total 0-10um STP,Newton
+PM10 Total 0-10um STP,Nolan
+PM10 Total 0-10um STP,Ochiltree
+PM10 Total 0-10um STP,Oldham
+PM10 Total 0-10um STP,Orange
+PM10 Total 0-10um STP,Palo Pinto
+PM10 Total 0-10um STP,Panola
+PM10 Total 0-10um STP,Parker
+PM10 Total 0-10um STP,Parmer
+PM10 Total 0-10um STP,Pecos
+PM10 Total 0-10um STP,Polk
+PM10 Total 0-10um STP,Potter
+PM10 Total 0-10um STP,Presidio
+PM10 Total 0-10um STP,Rains
+PM10 Total 0-10um STP,Randall
+PM10 Total 0-10um STP,Reagan
+PM10 Total 0-10um STP,Real
+PM10 Total 0-10um STP,Red River
+PM10 Total 0-10um STP,Reeves
+PM10 Total 0-10um STP,Refugio
+PM10 Total 0-10um STP,Roberts
+PM10 Total 0-10um STP,Robertson
+PM10 Total 0-10um STP,Rockwall
+PM10 Total 0-10um STP,Runnels
+PM10 Total 0-10um STP,Rusk
+PM10 Total 0-10um STP,Sabine
+PM10 Total 0-10um STP,San Augustine
+PM10 Total 0-10um STP,San Jacinto
+PM10 Total 0-10um STP,San Patricio
+PM10 Total 0-10um STP,San Saba
+PM10 Total 0-10um STP,Schleicher
+PM10 Total 0-10um STP,Scurry
+PM10 Total 0-10um STP,Shackelford
+PM10 Total 0-10um STP,Shelby
+PM10 Total 0-10um STP,Sherman
+PM10 Total 0-10um STP,Smith
+PM10 Total 0-10um STP,Somervell
+PM10 Total 0-10um STP,Starr
+PM10 Total 0-10um STP,Stephens
+PM10 Total 0-10um STP,Sterling
+PM10 Total 0-10um STP,Stonewall
+PM10 Total 0-10um STP,Sutton
+PM10 Total 0-10um STP,Swisher
+PM10 Total 0-10um STP,Taylor
+PM10 Total 0-10um STP,Terrell
+PM10 Total 0-10um STP,Terry
+PM10 Total 0-10um STP,Throckmorton
+PM10 Total 0-10um STP,Titus
+PM10 Total 0-10um STP,Tom Green
+PM10 Total 0-10um STP,Trinity
+PM10 Total 0-10um STP,Tyler
+PM10 Total 0-10um STP,Upshur
+PM10 Total 0-10um STP,Upton
+PM10 Total 0-10um STP,Uvalde
+PM10 Total 0-10um STP,Val Verde
+PM10 Total 0-10um STP,Van Zandt
+PM10 Total 0-10um STP,Victoria
+PM10 Total 0-10um STP,Walker
+PM10 Total 0-10um STP,Waller
+PM10 Total 0-10um STP,Ward
+PM10 Total 0-10um STP,Washington
+PM10 Total 0-10um STP,Wharton
+PM10 Total 0-10um STP,Wheeler
+PM10 Total 0-10um STP,Wichita
+PM10 Total 0-10um STP,Wilbarger
+PM10 Total 0-10um STP,Willacy
+PM10 Total 0-10um STP,Williamson
+PM10 Total 0-10um STP,Wilson
+PM10 Total 0-10um STP,Winkler
+PM10 Total 0-10um STP,Wise
+PM10 Total 0-10um STP,Wood
+PM10 Total 0-10um STP,Yoakum
+PM10 Total 0-10um STP,Young
+PM10 Total 0-10um STP,Zapata
+PM10 Total 0-10um STP,Zavala
+Lead PM10 LC FRM/FEM,Anderson
+Lead PM10 LC FRM/FEM,Andrews
+Lead PM10 LC FRM/FEM,Angelina
+Lead PM10 LC FRM/FEM,Aransas
+Lead PM10 LC FRM/FEM,Archer
+Lead PM10 LC FRM/FEM,Armstrong
+Lead PM10 LC FRM/FEM,Atascosa
+Lead PM10 LC FRM/FEM,Austin
+Lead PM10 LC FRM/FEM,Bailey
+Lead PM10 LC FRM/FEM,Bandera
+Lead PM10 LC FRM/FEM,Bastrop
+Lead PM10 LC FRM/FEM,Baylor
+Lead PM10 LC FRM/FEM,Bee
+Lead PM10 LC FRM/FEM,Bell
+Lead PM10 LC FRM/FEM,Bexar
+Lead PM10 LC FRM/FEM,Blanco
+Lead PM10 LC FRM/FEM,Borden
+Lead PM10 LC FRM/FEM,Bosque
+Lead PM10 LC FRM/FEM,Bowie
+Lead PM10 LC FRM/FEM,Brazoria
+Lead PM10 LC FRM/FEM,Brazos
+Lead PM10 LC FRM/FEM,Brewster
+Lead PM10 LC FRM/FEM,Briscoe
+Lead PM10 LC FRM/FEM,Brooks
+Lead PM10 LC FRM/FEM,Brown
+Lead PM10 LC FRM/FEM,Burleson
+Lead PM10 LC FRM/FEM,Burnet
+Lead PM10 LC FRM/FEM,Caldwell
+Lead PM10 LC FRM/FEM,Calhoun
+Lead PM10 LC FRM/FEM,Callahan
+Lead PM10 LC FRM/FEM,Cameron
+Lead PM10 LC FRM/FEM,Camp
+Lead PM10 LC FRM/FEM,Carson
+Lead PM10 LC FRM/FEM,Cass
+Lead PM10 LC FRM/FEM,Castro
+Lead PM10 LC FRM/FEM,Chambers
+Lead PM10 LC FRM/FEM,Cherokee
+Lead PM10 LC FRM/FEM,Childress
+Lead PM10 LC FRM/FEM,Clay
+Lead PM10 LC FRM/FEM,Cochran
+Lead PM10 LC FRM/FEM,Coke
+Lead PM10 LC FRM/FEM,Coleman
+Lead PM10 LC FRM/FEM,Collin
+Lead PM10 LC FRM/FEM,Collingsworth
+Lead PM10 LC FRM/FEM,Colorado
+Lead PM10 LC FRM/FEM,Comal
+Lead PM10 LC FRM/FEM,Comanche
+Lead PM10 LC FRM/FEM,Concho
+Lead PM10 LC FRM/FEM,Cooke
+Lead PM10 LC FRM/FEM,Coryell
+Lead PM10 LC FRM/FEM,Cottle
+Lead PM10 LC FRM/FEM,Crane
+Lead PM10 LC FRM/FEM,Crockett
+Lead PM10 LC FRM/FEM,Crosby
+Lead PM10 LC FRM/FEM,Culberson
+Lead PM10 LC FRM/FEM,Dallam
+Lead PM10 LC FRM/FEM,Dallas
+Lead PM10 LC FRM/FEM,Dawson
+Lead PM10 LC FRM/FEM,Deaf Smith
+Lead PM10 LC FRM/FEM,Delta
+Lead PM10 LC FRM/FEM,Denton
+Lead PM10 LC FRM/FEM,DeWitt
+Lead PM10 LC FRM/FEM,Dickens
+Lead PM10 LC FRM/FEM,Dimmit
+Lead PM10 LC FRM/FEM,Donley
+Lead PM10 LC FRM/FEM,Duval
+Lead PM10 LC FRM/FEM,Eastland
+Lead PM10 LC FRM/FEM,Ector
+Lead PM10 LC FRM/FEM,Edwards
+Lead PM10 LC FRM/FEM,Ellis
+Lead PM10 LC FRM/FEM,El Paso
+Lead PM10 LC FRM/FEM,Erath
+Lead PM10 LC FRM/FEM,Falls
+Lead PM10 LC FRM/FEM,Fannin
+Lead PM10 LC FRM/FEM,Fayette
+Lead PM10 LC FRM/FEM,Fisher
+Lead PM10 LC FRM/FEM,Floyd
+Lead PM10 LC FRM/FEM,Foard
+Lead PM10 LC FRM/FEM,Fort Bend
+Lead PM10 LC FRM/FEM,Franklin
+Lead PM10 LC FRM/FEM,Freestone
+Lead PM10 LC FRM/FEM,Frio
+Lead PM10 LC FRM/FEM,Gaines
+Lead PM10 LC FRM/FEM,Galveston
+Lead PM10 LC FRM/FEM,Garza
+Lead PM10 LC FRM/FEM,Gillespie
+Lead PM10 LC FRM/FEM,Glasscock
+Lead PM10 LC FRM/FEM,Goliad
+Lead PM10 LC FRM/FEM,Gonzales
+Lead PM10 LC FRM/FEM,Gray
+Lead PM10 LC FRM/FEM,Grayson
+Lead PM10 LC FRM/FEM,Gregg
+Lead PM10 LC FRM/FEM,Grimes
+Lead PM10 LC FRM/FEM,Guadalupe
+Lead PM10 LC FRM/FEM,Hale
+Lead PM10 LC FRM/FEM,Hall
+Lead PM10 LC FRM/FEM,Hamilton
+Lead PM10 LC FRM/FEM,Hansford
+Lead PM10 LC FRM/FEM,Hardeman
+Lead PM10 LC FRM/FEM,Hardin
+Lead PM10 LC FRM/FEM,Harris
+Lead PM10 LC FRM/FEM,Harrison
+Lead PM10 LC FRM/FEM,Hartley
+Lead PM10 LC FRM/FEM,Haskell
+Lead PM10 LC FRM/FEM,Hays
+Lead PM10 LC FRM/FEM,Hemphill
+Lead PM10 LC FRM/FEM,Henderson
+Lead PM10 LC FRM/FEM,Hidalgo
+Lead PM10 LC FRM/FEM,Hill
+Lead PM10 LC FRM/FEM,Hockley
+Lead PM10 LC FRM/FEM,Hood
+Lead PM10 LC FRM/FEM,Hopkins
+Lead PM10 LC FRM/FEM,Houston
+Lead PM10 LC FRM/FEM,Howard
+Lead PM10 LC FRM/FEM,Hudspeth
+Lead PM10 LC FRM/FEM,Hunt
+Lead PM10 LC FRM/FEM,Hutchinson
+Lead PM10 LC FRM/FEM,Irion
+Lead PM10 LC FRM/FEM,Jack
+Lead PM10 LC FRM/FEM,Jackson
+Lead PM10 LC FRM/FEM,Jasper
+Lead PM10 LC FRM/FEM,Jeff Davis
+Lead PM10 LC FRM/FEM,Jefferson
+Lead PM10 LC FRM/FEM,Jim Hogg
+Lead PM10 LC FRM/FEM,Jim Wells
+Lead PM10 LC FRM/FEM,Johnson
+Lead PM10 LC FRM/FEM,Jones
+Lead PM10 LC FRM/FEM,Karnes
+Lead PM10 LC FRM/FEM,Kaufman
+Lead PM10 LC FRM/FEM,Kendall
+Lead PM10 LC FRM/FEM,Kenedy
+Lead PM10 LC FRM/FEM,Kent
+Lead PM10 LC FRM/FEM,Kerr
+Lead PM10 LC FRM/FEM,Kimble
+Lead PM10 LC FRM/FEM,King
+Lead PM10 LC FRM/FEM,Kinney
+Lead PM10 LC FRM/FEM,Kleberg
+Lead PM10 LC FRM/FEM,Knox
+Lead PM10 LC FRM/FEM,Lamar
+Lead PM10 LC FRM/FEM,Lamb
+Lead PM10 LC FRM/FEM,Lampasas
+Lead PM10 LC FRM/FEM,La Salle
+Lead PM10 LC FRM/FEM,Lavaca
+Lead PM10 LC FRM/FEM,Lee
+Lead PM10 LC FRM/FEM,Leon
+Lead PM10 LC FRM/FEM,Liberty
+Lead PM10 LC FRM/FEM,Limestone
+Lead PM10 LC FRM/FEM,Lipscomb
+Lead PM10 LC FRM/FEM,Live Oak
+Lead PM10 LC FRM/FEM,Llano
+Lead PM10 LC FRM/FEM,Loving
+Lead PM10 LC FRM/FEM,Lubbock
+Lead PM10 LC FRM/FEM,Lynn
+Lead PM10 LC FRM/FEM,McCulloch
+Lead PM10 LC FRM/FEM,McLennan
+Lead PM10 LC FRM/FEM,McMullen
+Lead PM10 LC FRM/FEM,Madison
+Lead PM10 LC FRM/FEM,Marion
+Lead PM10 LC FRM/FEM,Martin
+Lead PM10 LC FRM/FEM,Mason
+Lead PM10 LC FRM/FEM,Matagorda
+Lead PM10 LC FRM/FEM,Maverick
+Lead PM10 LC FRM/FEM,Medina
+Lead PM10 LC FRM/FEM,Menard
+Lead PM10 LC FRM/FEM,Midland
+Lead PM10 LC FRM/FEM,Milam
+Lead PM10 LC FRM/FEM,Mills
+Lead PM10 LC FRM/FEM,Mitchell
+Lead PM10 LC FRM/FEM,Montague
+Lead PM10 LC FRM/FEM,Montgomery
+Lead PM10 LC FRM/FEM,Moore
+Lead PM10 LC FRM/FEM,Morris
+Lead PM10 LC FRM/FEM,Motley
+Lead PM10 LC FRM/FEM,Nacogdoches
+Lead PM10 LC FRM/FEM,Navarro
+Lead PM10 LC FRM/FEM,Newton
+Lead PM10 LC FRM/FEM,Nolan
+Lead PM10 LC FRM/FEM,Nueces
+Lead PM10 LC FRM/FEM,Ochiltree
+Lead PM10 LC FRM/FEM,Oldham
+Lead PM10 LC FRM/FEM,Orange
+Lead PM10 LC FRM/FEM,Palo Pinto
+Lead PM10 LC FRM/FEM,Panola
+Lead PM10 LC FRM/FEM,Parker
+Lead PM10 LC FRM/FEM,Parmer
+Lead PM10 LC FRM/FEM,Pecos
+Lead PM10 LC FRM/FEM,Polk
+Lead PM10 LC FRM/FEM,Potter
+Lead PM10 LC FRM/FEM,Presidio
+Lead PM10 LC FRM/FEM,Rains
+Lead PM10 LC FRM/FEM,Randall
+Lead PM10 LC FRM/FEM,Reagan
+Lead PM10 LC FRM/FEM,Real
+Lead PM10 LC FRM/FEM,Red River
+Lead PM10 LC FRM/FEM,Reeves
+Lead PM10 LC FRM/FEM,Refugio
+Lead PM10 LC FRM/FEM,Roberts
+Lead PM10 LC FRM/FEM,Robertson
+Lead PM10 LC FRM/FEM,Rockwall
+Lead PM10 LC FRM/FEM,Runnels
+Lead PM10 LC FRM/FEM,Rusk
+Lead PM10 LC FRM/FEM,Sabine
+Lead PM10 LC FRM/FEM,San Augustine
+Lead PM10 LC FRM/FEM,San Jacinto
+Lead PM10 LC FRM/FEM,San Patricio
+Lead PM10 LC FRM/FEM,San Saba
+Lead PM10 LC FRM/FEM,Schleicher
+Lead PM10 LC FRM/FEM,Scurry
+Lead PM10 LC FRM/FEM,Shackelford
+Lead PM10 LC FRM/FEM,Shelby
+Lead PM10 LC FRM/FEM,Sherman
+Lead PM10 LC FRM/FEM,Smith
+Lead PM10 LC FRM/FEM,Somervell
+Lead PM10 LC FRM/FEM,Starr
+Lead PM10 LC FRM/FEM,Stephens
+Lead PM10 LC FRM/FEM,Sterling
+Lead PM10 LC FRM/FEM,Stonewall
+Lead PM10 LC FRM/FEM,Sutton
+Lead PM10 LC FRM/FEM,Swisher
+Lead PM10 LC FRM/FEM,Tarrant
+Lead PM10 LC FRM/FEM,Taylor
+Lead PM10 LC FRM/FEM,Terrell
+Lead PM10 LC FRM/FEM,Terry
+Lead PM10 LC FRM/FEM,Throckmorton
+Lead PM10 LC FRM/FEM,Titus
+Lead PM10 LC FRM/FEM,Tom Green
+Lead PM10 LC FRM/FEM,Travis
+Lead PM10 LC FRM/FEM,Trinity
+Lead PM10 LC FRM/FEM,Tyler
+Lead PM10 LC FRM/FEM,Upshur
+Lead PM10 LC FRM/FEM,Upton
+Lead PM10 LC FRM/FEM,Uvalde
+Lead PM10 LC FRM/FEM,Val Verde
+Lead PM10 LC FRM/FEM,Van Zandt
+Lead PM10 LC FRM/FEM,Victoria
+Lead PM10 LC FRM/FEM,Walker
+Lead PM10 LC FRM/FEM,Waller
+Lead PM10 LC FRM/FEM,Ward
+Lead PM10 LC FRM/FEM,Washington
+Lead PM10 LC FRM/FEM,Webb
+Lead PM10 LC FRM/FEM,Wharton
+Lead PM10 LC FRM/FEM,Wheeler
+Lead PM10 LC FRM/FEM,Wichita
+Lead PM10 LC FRM/FEM,Wilbarger
+Lead PM10 LC FRM/FEM,Willacy
+Lead PM10 LC FRM/FEM,Williamson
+Lead PM10 LC FRM/FEM,Wilson
+Lead PM10 LC FRM/FEM,Winkler
+Lead PM10 LC FRM/FEM,Wise
+Lead PM10 LC FRM/FEM,Wood
+Lead PM10 LC FRM/FEM,Yoakum
+Lead PM10 LC FRM/FEM,Young
+Lead PM10 LC FRM/FEM,Zapata
+Lead PM10 LC FRM/FEM,Zavala
+PM2.5 - Local Conditions,Anderson
+PM2.5 - Local Conditions,Andrews
+PM2.5 - Local Conditions,Angelina
+PM2.5 - Local Conditions,Aransas
+PM2.5 - Local Conditions,Archer
+PM2.5 - Local Conditions,Armstrong
+PM2.5 - Local Conditions,Atascosa
+PM2.5 - Local Conditions,Austin
+PM2.5 - Local Conditions,Bailey
+PM2.5 - Local Conditions,Bandera
+PM2.5 - Local Conditions,Bastrop
+PM2.5 - Local Conditions,Baylor
+PM2.5 - Local Conditions,Bee
+PM2.5 - Local Conditions,Bell
+PM2.5 - Local Conditions,Blanco
+PM2.5 - Local Conditions,Borden
+PM2.5 - Local Conditions,Bosque
+PM2.5 - Local Conditions,Brazoria
+PM2.5 - Local Conditions,Brazos
+PM2.5 - Local Conditions,Briscoe
+PM2.5 - Local Conditions,Brooks
+PM2.5 - Local Conditions,Brown
+PM2.5 - Local Conditions,Burleson
+PM2.5 - Local Conditions,Burnet
+PM2.5 - Local Conditions,Caldwell
+PM2.5 - Local Conditions,Calhoun
+PM2.5 - Local Conditions,Callahan
+PM2.5 - Local Conditions,Camp
+PM2.5 - Local Conditions,Carson
+PM2.5 - Local Conditions,Cass
+PM2.5 - Local Conditions,Castro
+PM2.5 - Local Conditions,Chambers
+PM2.5 - Local Conditions,Cherokee
+PM2.5 - Local Conditions,Childress
+PM2.5 - Local Conditions,Clay
+PM2.5 - Local Conditions,Cochran
+PM2.5 - Local Conditions,Coke
+PM2.5 - Local Conditions,Coleman
+PM2.5 - Local Conditions,Collin
+PM2.5 - Local Conditions,Collingsworth
+PM2.5 - Local Conditions,Colorado
+PM2.5 - Local Conditions,Comal
+PM2.5 - Local Conditions,Comanche
+PM2.5 - Local Conditions,Concho
+PM2.5 - Local Conditions,Cooke
+PM2.5 - Local Conditions,Coryell
+PM2.5 - Local Conditions,Cottle
+PM2.5 - Local Conditions,Crane
+PM2.5 - Local Conditions,Crockett
+PM2.5 - Local Conditions,Crosby
+PM2.5 - Local Conditions,Culberson
+PM2.5 - Local Conditions,Dallam
+PM2.5 - Local Conditions,Dawson
+PM2.5 - Local Conditions,Deaf Smith
+PM2.5 - Local Conditions,Delta
+PM2.5 - Local Conditions,Denton
+PM2.5 - Local Conditions,DeWitt
+PM2.5 - Local Conditions,Dickens
+PM2.5 - Local Conditions,Dimmit
+PM2.5 - Local Conditions,Donley
+PM2.5 - Local Conditions,Duval
+PM2.5 - Local Conditions,Eastland
+PM2.5 - Local Conditions,Ector
+PM2.5 - Local Conditions,Edwards
+PM2.5 - Local Conditions,Erath
+PM2.5 - Local Conditions,Falls
+PM2.5 - Local Conditions,Fannin
+PM2.5 - Local Conditions,Fayette
+PM2.5 - Local Conditions,Fisher
+PM2.5 - Local Conditions,Floyd
+PM2.5 - Local Conditions,Foard
+PM2.5 - Local Conditions,Fort Bend
+PM2.5 - Local Conditions,Franklin
+PM2.5 - Local Conditions,Freestone
+PM2.5 - Local Conditions,Frio
+PM2.5 - Local Conditions,Gaines
+PM2.5 - Local Conditions,Garza
+PM2.5 - Local Conditions,Gillespie
+PM2.5 - Local Conditions,Glasscock
+PM2.5 - Local Conditions,Goliad
+PM2.5 - Local Conditions,Gonzales
+PM2.5 - Local Conditions,Gray
+PM2.5 - Local Conditions,Grayson
+PM2.5 - Local Conditions,Gregg
+PM2.5 - Local Conditions,Grimes
+PM2.5 - Local Conditions,Guadalupe
+PM2.5 - Local Conditions,Hale
+PM2.5 - Local Conditions,Hall
+PM2.5 - Local Conditions,Hamilton
+PM2.5 - Local Conditions,Hansford
+PM2.5 - Local Conditions,Hardeman
+PM2.5 - Local Conditions,Hardin
+PM2.5 - Local Conditions,Hartley
+PM2.5 - Local Conditions,Haskell
+PM2.5 - Local Conditions,Hays
+PM2.5 - Local Conditions,Hemphill
+PM2.5 - Local Conditions,Henderson
+PM2.5 - Local Conditions,Hill
+PM2.5 - Local Conditions,Hockley
+PM2.5 - Local Conditions,Hood
+PM2.5 - Local Conditions,Hopkins
+PM2.5 - Local Conditions,Houston
+PM2.5 - Local Conditions,Howard
+PM2.5 - Local Conditions,Hudspeth
+PM2.5 - Local Conditions,Hunt
+PM2.5 - Local Conditions,Hutchinson
+PM2.5 - Local Conditions,Irion
+PM2.5 - Local Conditions,Jack
+PM2.5 - Local Conditions,Jackson
+PM2.5 - Local Conditions,Jasper
+PM2.5 - Local Conditions,Jeff Davis
+PM2.5 - Local Conditions,Jim Hogg
+PM2.5 - Local Conditions,Jim Wells
+PM2.5 - Local Conditions,Johnson
+PM2.5 - Local Conditions,Jones
+PM2.5 - Local Conditions,Karnes
+PM2.5 - Local Conditions,Kaufman
+PM2.5 - Local Conditions,Kendall
+PM2.5 - Local Conditions,Kenedy
+PM2.5 - Local Conditions,Kent
+PM2.5 - Local Conditions,Kerr
+PM2.5 - Local Conditions,Kimble
+PM2.5 - Local Conditions,King
+PM2.5 - Local Conditions,Kinney
+PM2.5 - Local Conditions,Kleberg
+PM2.5 - Local Conditions,Knox
+PM2.5 - Local Conditions,Lamar
+PM2.5 - Local Conditions,Lamb
+PM2.5 - Local Conditions,Lampasas
+PM2.5 - Local Conditions,La Salle
+PM2.5 - Local Conditions,Lavaca
+PM2.5 - Local Conditions,Lee
+PM2.5 - Local Conditions,Leon
+PM2.5 - Local Conditions,Liberty
+PM2.5 - Local Conditions,Limestone
+PM2.5 - Local Conditions,Lipscomb
+PM2.5 - Local Conditions,Live Oak
+PM2.5 - Local Conditions,Llano
+PM2.5 - Local Conditions,Loving
+PM2.5 - Local Conditions,Lubbock
+PM2.5 - Local Conditions,Lynn
+PM2.5 - Local Conditions,McCulloch
+PM2.5 - Local Conditions,McLennan
+PM2.5 - Local Conditions,McMullen
+PM2.5 - Local Conditions,Madison
+PM2.5 - Local Conditions,Marion
+PM2.5 - Local Conditions,Martin
+PM2.5 - Local Conditions,Mason
+PM2.5 - Local Conditions,Matagorda
+PM2.5 - Local Conditions,Maverick
+PM2.5 - Local Conditions,Medina
+PM2.5 - Local Conditions,Menard
+PM2.5 - Local Conditions,Midland
+PM2.5 - Local Conditions,Milam
+PM2.5 - Local Conditions,Mills
+PM2.5 - Local Conditions,Mitchell
+PM2.5 - Local Conditions,Montague
+PM2.5 - Local Conditions,Montgomery
+PM2.5 - Local Conditions,Moore
+PM2.5 - Local Conditions,Morris
+PM2.5 - Local Conditions,Motley
+PM2.5 - Local Conditions,Nacogdoches
+PM2.5 - Local Conditions,Navarro
+PM2.5 - Local Conditions,Newton
+PM2.5 - Local Conditions,Nolan
+PM2.5 - Local Conditions,Ochiltree
+PM2.5 - Local Conditions,Oldham
+PM2.5 - Local Conditions,Palo Pinto
+PM2.5 - Local Conditions,Panola
+PM2.5 - Local Conditions,Parker
+PM2.5 - Local Conditions,Parmer
+PM2.5 - Local Conditions,Pecos
+PM2.5 - Local Conditions,Polk
+PM2.5 - Local Conditions,Potter
+PM2.5 - Local Conditions,Presidio
+PM2.5 - Local Conditions,Rains
+PM2.5 - Local Conditions,Randall
+PM2.5 - Local Conditions,Reagan
+PM2.5 - Local Conditions,Real
+PM2.5 - Local Conditions,Red River
+PM2.5 - Local Conditions,Reeves
+PM2.5 - Local Conditions,Refugio
+PM2.5 - Local Conditions,Roberts
+PM2.5 - Local Conditions,Robertson
+PM2.5 - Local Conditions,Rockwall
+PM2.5 - Local Conditions,Runnels
+PM2.5 - Local Conditions,Rusk
+PM2.5 - Local Conditions,Sabine
+PM2.5 - Local Conditions,San Augustine
+PM2.5 - Local Conditions,San Jacinto
+PM2.5 - Local Conditions,San Patricio
+PM2.5 - Local Conditions,San Saba
+PM2.5 - Local Conditions,Schleicher
+PM2.5 - Local Conditions,Scurry
+PM2.5 - Local Conditions,Shackelford
+PM2.5 - Local Conditions,Shelby
+PM2.5 - Local Conditions,Sherman
+PM2.5 - Local Conditions,Smith
+PM2.5 - Local Conditions,Somervell
+PM2.5 - Local Conditions,Starr
+PM2.5 - Local Conditions,Stephens
+PM2.5 - Local Conditions,Sterling
+PM2.5 - Local Conditions,Stonewall
+PM2.5 - Local Conditions,Sutton
+PM2.5 - Local Conditions,Swisher
+PM2.5 - Local Conditions,Taylor
+PM2.5 - Local Conditions,Terrell
+PM2.5 - Local Conditions,Terry
+PM2.5 - Local Conditions,Throckmorton
+PM2.5 - Local Conditions,Titus
+PM2.5 - Local Conditions,Tom Green
+PM2.5 - Local Conditions,Trinity
+PM2.5 - Local Conditions,Tyler
+PM2.5 - Local Conditions,Upshur
+PM2.5 - Local Conditions,Upton
+PM2.5 - Local Conditions,Uvalde
+PM2.5 - Local Conditions,Val Verde
+PM2.5 - Local Conditions,Van Zandt
+PM2.5 - Local Conditions,Victoria
+PM2.5 - Local Conditions,Walker
+PM2.5 - Local Conditions,Waller
+PM2.5 - Local Conditions,Ward
+PM2.5 - Local Conditions,Washington
+PM2.5 - Local Conditions,Webb
+PM2.5 - Local Conditions,Wharton
+PM2.5 - Local Conditions,Wheeler
+PM2.5 - Local Conditions,Wichita
+PM2.5 - Local Conditions,Wilbarger
+PM2.5 - Local Conditions,Willacy
+PM2.5 - Local Conditions,Williamson
+PM2.5 - Local Conditions,Wilson
+PM2.5 - Local Conditions,Winkler
+PM2.5 - Local Conditions,Wise
+PM2.5 - Local Conditions,Wood
+PM2.5 - Local Conditions,Yoakum
+PM2.5 - Local Conditions,Young
+PM2.5 - Local Conditions,Zapata
+PM2.5 - Local Conditions,Zavala
