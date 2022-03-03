@@ -19,7 +19,7 @@ if __name__ == "__main__":
     print(params)
 
 
-    data, _ = epa.DailySummaryCounty(params, [["20170101", "20171231"]], "48", county)
+    data, _ = epa.DailySummaryCounty(params, "20170101", "20171231", "48", county)
 
     data = pd.DataFrame(data)
     data.to_csv("EPAData.csv", index = False)

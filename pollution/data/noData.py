@@ -19,13 +19,16 @@ if __name__ == "__main__":
     params = epa.getParams()
     params_dict = params.set_index("code")["value_represented"].to_dict()
 
-    df = {"param":[], "county":[]}
-    for param in params["code"]:
-        print("Getting ", param, "...")
-        _, noData = epa.DailySummaryCounty([param], "20170101", "20171231", "48", county["code"])
-        print("done!")
-        for code in noData:
-            df["param"].append(params_dict.get(param))
-            df["county"].append(county_dict.get(code))
+    df = {"param":[],"date":[], "county":[]}
+    dates = [["20170101", "20171231"], ["20180101", "20181231"], ["20190101", "20191231"]]
+    for d in dates:
+        bdate = d[0]
+        edate = d[1]
+        for param in params["code"]:
+            _, noData = epa.DailySummaryCounty([param], bdate, edate, "48", county["code"])
+            for code in noData:
+                df["param"].append(params_dict.get(param))
+                df["date"].append(bdate)
+                df["county"].append(county_dict.get(code))
     data = pd.DataFrame(df)
     data.to_csv("noData.csv", index = False)
