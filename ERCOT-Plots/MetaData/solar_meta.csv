@@ -1,0 +1,227 @@
+site_ids,AC_capacity_MW,latitude,longitude,elevation,timezone,proposed,Zone,ISO
+Adamstown Solar,250,33.25,-97.26,220.16,-6,Proposed,North,ERCOT
+Agate Solar,60,32.45,-97.18,217.84,-6,Proposed,North Central,ERCOT
+Angelina Solar,150,31.37,-94.86,85,-6,Proposed,East,ERCOT
+Angelo Solar,195,31.41,-100.58,623.72,-6,Proposed,West,ERCOT
+Angus Solar,113,31.69,-97.26,140.72,-6,Proposed,North Central,ERCOT
+Anson Solar,200,32.85,-100.1,524.75,-6,Proposed,West,ERCOT
+"Anson Solar Center, Phase II",200,32.85,-100.3,601.25,-6,Proposed,West,ERCOT
+"Anson Solar Center, Phase III",200,32.93,-100.18,545.3,-6,Proposed,West,ERCOT
+Aragorn Solar,186.3,31.73,-104.66,1436.3,-6,Proposed,Far West,ERCOT
+Arroyo Del Bisonte Solar,300,29.49,-95.62,18.52,-6,Proposed,Coast,ERCOT
+Arroyo Solar,180,26.29,-97.62,7.24,-6,Proposed,South,ERCOT
+Atascosa I Solar,126.6,29.05,-98.94,183.2,-6,Proposed,South,ERCOT
+Bacon Switch Solar,180,33.89,-98.42,303.44,-6,Proposed,North,ERCOT
+Basalt Solar,20,29.21,-99.78,259.12,-6,Proposed,West,ERCOT
+Bestla Solar,180,31.93,-103.02,910.85,-6,Proposed,Far West,ERCOT
+Blackwater Draw Solar,151.9,32.73,-101.82,899.75,-6,Proposed,Far West,ERCOT
+Blue Bell Solar II,101.25,31.89,-100.78,771.32,-6,Proposed,West,ERCOT
+Blue Jay Solar ,210,30.65,-95.98,101.84,-6,Proposed,East,ERCOT
+BlueBell Solar,30,31.89,-100.66,651.36,-6,Proposed,West,ERCOT
+Bluebonnet Solar,60.7,30.41,-104.02,1506.32,-6,Proposed,Far West,ERCOT
+Bravepost Solar,200,31.53,-100.22,528.45,-6,Proposed,West,ERCOT
+Brightside Solar,50,28.41,-97.74,71.2,-6,Proposed,South,ERCOT
+Brushy Creek Solar,125,31.53,-100.34,561.65,-6,Proposed,West,ERCOT
+Castro Solar,212.95,34.49,-102.02,1133.04,-6,Proposed,North,ERCOT
+Charbray Solar,200,32.33,-100.82,649.3,-6,Proposed,West,ERCOT
+Chatee Solar,57,31.13,-102.54,732.5,-6,Proposed,Far West,ERCOT
+Citrine Solar,45,34.01,-100.38,597.72,-6,Proposed,North,ERCOT
+Concho Valley Solar,150,31.41,-100.5,590.25,-6,Proposed,West,ERCOT
+Coniglio Solar,135,33.37,-96.06,202.72,-6,Proposed,North,ERCOT
+Corazon Solar,200,27.49,-98.74,212.72,-6,Proposed,South,ERCOT
+Cottonwood Bayou,150,29.29,-95.38,9.32,-6,Proposed,Coast,ERCOT
+County Line Solar,250,30.33,-104.02,1453.05,-6,Proposed,Far West,ERCOT
+Crowded Star Solar,400,32.85,-100.18,534.84,-6,Proposed,West,ERCOT
+Cutlass Solar,300,29.49,-95.54,17,-6,Proposed,Coast,ERCOT
+Danciger Solar,200,29.17,-95.9,18.15,-6,Proposed,Coast,ERCOT
+Danish Fields II,200,29.01,-96.34,19.88,-6,Proposed,Coast,ERCOT
+Danish Fields III,200,29.13,-96.22,26.45,-6,Proposed,Coast,ERCOT
+Danish Fields Solar,200,29.01,-96.22,18.08,-6,Proposed,Coast,ERCOT
+Dawn Solar,515.66,34.89,-102.5,1218.1,-6,Proposed,North,ERCOT
+Delilah Solar 1,700,33.09,-95.06,109.24,-6,Proposed,North,ERCOT
+Delilah Solar 2,500,33.21,-96.42,163.92,-6,Proposed,North,ERCOT
+Delilah Solar 3,400,33.21,-96.34,184.08,-6,Proposed,North,ERCOT
+Desert Rose,200,32.25,-102.58,976.48,-6,Proposed,Far West,ERCOT
+Dexter Solar,330.12,31.41,-100.34,560.16,-6,Proposed,West,ERCOT
+Diamondback Solar,201.6,26.25,-98.34,44,-6,Proposed,South,ERCOT
+Double R Solar,280,32.69,-96.54,120.96,-6,Proposed,North Central,ERCOT
+Dove Run,101.25,27.25,-98.14,39.56,-6,Proposed,South,ERCOT
+EK Tipton Solar,100,31.37,-103.62,832.6,-6,Proposed,Far West,ERCOT
+El Zorro Solar,253.3,27.49,-98.82,237.68,-6,Proposed,South,ERCOT
+Elara Solar,178,28.85,-99.18,158.72,-6,Proposed,South,ERCOT
+Elrond,313.2,33.09,-99.58,439.52,-6,Proposed,North,ERCOT
+Emerald Grove Solar,108,31.09,-102.58,748.04,-6,Proposed,Far West,ERCOT
+Eunice Solar,403.8,32.45,-102.58,968.56,-6,Proposed,Far West,ERCOT
+Fighting Jays Solar,356.55,29.49,-95.74,24.36,-6,Proposed,Coast,ERCOT
+Flag City,150,28.81,-96.66,10.92,-6,Proposed,Coast,ERCOT
+Flatland Solar,147,32.33,-100.9,631.6875,-6,Proposed,West,ERCOT
+Fluorite Solar,25,29.25,-99.66,280.04,-6,Proposed,West,ERCOT
+Fort Bend Solar,240,29.53,-96.06,35.45,-6,Proposed,Coast,ERCOT
+Fowler Ranch,150,31.21,-102.3,769.8,-6,Proposed,Far West,ERCOT
+French Goldston Solar,120,33.13,-98.62,332.15,-6,Proposed,North Central,ERCOT
+Fronton Solar,200,26.49,-98.9,100.6,-6,Proposed,South,ERCOT
+Frye Solar,500,34.41,-102.02,1124.48,-6,Proposed,North,ERCOT
+Galloway Solar,360,31.53,-100.58,605.65,-6,Proposed,West,ERCOT
+Garnet Solar,20,30.73,-97.46,185.3,-6,Proposed,South Central,ERCOT
+Gold Creek Solar,140,32.73,-101.94,905.9,-6,Proposed,Far West,ERCOT
+Goodranch Solar,200,32.65,-101.34,699.4,-6,Proposed,Far West,ERCOT
+Greasewood II,55,30.97,-102.3,722,-6,Proposed,Far West,ERCOT
+Greasewood Solar,200,30.97,-102.5,787.4,-6,Proposed,Far West,ERCOT
+Green Holly Solar,413.6,32.53,-101.82,849.35,-6,Proposed,Far West,ERCOT
+Greyhound Solar,600,31.81,-102.5,911.5,-6,Proposed,Far West,ERCOT
+Greyhound Solar 2,500,31.81,-102.38,882.6,-6,Proposed,Far West,ERCOT
+GSE Eleven,135,32.57,-95.86,148.52,-6,Proposed,East,ERCOT
+Half Moon Solar,151.2,26.25,-98.46,43.8,-6,Proposed,South,ERCOT
+Hallmark Solar,43,33.21,-96.02,167,-6,Proposed,North Central,ERCOT
+Hecate Solar,33,30.37,-103.54,1401.04,-6,Proposed,Far West,ERCOT
+Hill Solar,80,32.01,-97.22,199.04,-6,Proposed,North Central,ERCOT
+Holstein 2 Solar,100,32.49,-100.38,622.84,-6,Proposed,West,ERCOT
+Holstein Solar,204,32.49,-100.3,606.65,-6,Proposed,West,ERCOT
+Hopkins,320,33.21,-95.06,129.52,-6,Proposed,East,ERCOT
+Horizon Solar,204.09,28.93,-99.18,168.6,-6,Proposed,South,ERCOT
+Horseshoe Bend Solar,300,31.81,-98.7,525.15,-6,Proposed,North Central,ERCOT
+HOVEY,7.4,30.33,-104.1,1478.0625,-6,Proposed,Far West,ERCOT
+Howle Solar,75,32.45,-97.06,187.92,-6,Proposed,North Central,ERCOT
+Impact Solar,197,33.09,-95.14,136.2,-6,Proposed,North,ERCOT
+Indigo Solar,125,32.73,-100.18,588.15,-6,Proposed,West,ERCOT
+Inverter Field Solar,175,29.53,-96.18,40.4,-6,Proposed,Coast,ERCOT
+IP Titan,272,31.73,-104.74,1587.5,-6,Proposed,Far West,ERCOT
+Juno Solar,495,32.65,-101.74,856.32,-6,Proposed,Far West,ERCOT
+Kellam Solar,100,32.53,-95.66,157.05,-6,Proposed,East,ERCOT
+King Mountain Solar,350,31.41,-102.38,771.16,-6,Proposed,Far West,ERCOT
+Knickerbocker Road Solar,200,31.61,-100.58,621.72,-6,Proposed,West,ERCOT
+Kochab Solar,204,29.17,-100.02,284.64,-6,Proposed,West,ERCOT
+Lapetus Solar 2,100,32.37,-102.66,972.68,-6,Proposed,Far West,ERCOT
+Lily Solar,150,32.61,-96.5,112.65,-6,Proposed,North Central,ERCOT
+Long Draw Solar,225,32.53,-101.62,823.3,-6,Proposed,Far West,ERCOT
+Long Point Solar,100,29.37,-95.62,16.76,-6,Proposed,Coast,ERCOT
+Longbow Solar,70,29.29,-95.3,8.1,-6,Proposed,Coast,ERCOT
+Lueders Solar,40,33.09,-99.5,444.45,-6,Proposed,North,ERCOT
+Lumina,313.2,33.05,-100.74,641.32,-6,Proposed,West,ERCOT
+Lunis Creek Solar 1,202.5,27.93,-97.46,18.8,-6,Proposed,Coast,ERCOT
+Lunis Creek Solar 2,202.5,27.93,-97.38,14.3,-6,Proposed,Coast,ERCOT
+M-Bar Solar,200,32.05,-102.58,937.04,-6,Proposed,Far West,ERCOT
+Maleza Solar,250,28.93,-96.22,15.05,-6,Proposed,Coast,ERCOT
+March Road Solar,200,31.53,-100.7,699.25,-6,Proposed,West,ERCOT
+Markum Solar,134.89,31.69,-97.38,198.96,-6,Proposed,North Central,ERCOT
+Mercury Solar,201.6,32.53,-97.06,170.4,-6,Proposed,North Central,ERCOT
+Millhouse Solar,75,27.73,-98.1,68.4375,-6,Proposed,South,ERCOT
+Misae Solar,240.8,34.37,-100.18,532.08,-6,Proposed,North,ERCOT
+Misae Solar II,517.35,34.45,-100.06,517.12,-6,Proposed,North,ERCOT
+Morada Del Sol Solar,245,31.09,-102.3,724.25,-6,Proposed,Far West,ERCOT
+Morrow Lake Solar,150,28.93,-98.98,170.8,-6,Proposed,South,ERCOT
+Morrow Lake Solar II,50,28.93,-99.1,193.1875,-6,Proposed,South,ERCOT
+Murphy Lake Solar,120,32.61,-96.38,129.84,-6,Proposed,North Central,ERCOT
+Mustang Creek Solar,150,28.77,-96.34,7.16,-6,Proposed,Coast,ERCOT
+Myrtle Solar,240,29.17,-95.46,8.76,-6,Proposed,Coast,ERCOT
+Nazareth Solar,201,34.49,-102.1,1158.6,-6,Proposed,North,ERCOT
+Neeley Solar,175,32.33,-97.06,181,-6,Proposed,North Central,ERCOT
+Noble Solar,300,33.25,-97.26,220.16,-6,Proposed,North Central,ERCOT
+Normande Solar Farm,360,32.53,-101.74,854,-6,Proposed,Far West,ERCOT
+Norton Solar,125,31.97,-100.26,598.96,-6,Proposed,West,ERCOT
+Oberon Solar,180,31.81,-102.54,923.2,-6,Proposed,Far West,ERCOT
+Obsidian Solar,60,34.01,-100.34,589.96,-6,Proposed,North,ERCOT
+Opal Solar,45,34.25,-100.06,489.16,-6,Proposed,North,ERCOT
+Owego Solar,74,31.09,-102.26,747.88,-6,Proposed,Far West,ERCOT
+Owens Solar,200,31.85,-97.62,229.72,-6,Proposed,North Central,ERCOT
+Oxbow Solar,225,32.65,-101.46,717.04,-6,Proposed,Far West,ERCOT
+Oxy Solar,16.2,31.97,-102.62,949.68,-6,Proposed,Far West,ERCOT
+Pflugerville 2 Solar,120,30.41,-97.58,190.64,-6,Proposed,South Central,ERCOT
+Pflugerville Solar,144,30.41,-97.66,225.56,-6,Proposed,South Central,ERCOT
+Phoebe Solar,250,31.93,-103.1,897.625,-6,Proposed,Far West,ERCOT
+Phoenix Solar,82.3,33.53,-96.18,177.2,-6,Proposed,North,ERCOT
+Pine Forest Solar,299.25,33.21,-95.34,117.76,-6,Proposed,East,ERCOT
+Pitts Dudik Solar,90,32.01,-97.14,181.16,-6,Proposed,North Central,ERCOT
+Ponwar Solar Farm,180,31.17,-102.22,800.28,-6,Proposed,Far West,ERCOT
+Prickly Pear,102.5,31.01,-100.54,693.88,-6,Proposed,West,ERCOT
+Prospero Solar,300,32.37,-102.46,959.32,-6,Proposed,Far West,ERCOT
+Prospero Solar II,250,32.45,-102.66,987.76,-6,Proposed,Far West,ERCOT
+Quantum,313.2,33.29,-99.62,458.76,-6,Proposed,North,ERCOT
+Quantum Increase,61.2,33.29,-99.7,465.9,-6,Proposed,North,ERCOT
+Queen Solar,400,31.41,-102.26,802.08,-6,Proposed,Far West,ERCOT
+Radian,313.2,31.81,-98.78,497.52,-6,Proposed,North Central,ERCOT
+Radian Increase,61.2,31.81,-98.9,451.05,-6,Proposed,North Central,ERCOT
+Rambler Solar,150,31.53,-100.5,592,-6,Proposed,West,ERCOT
+Ramsey Solar,514,29.01,-96.14,16.56,-6,Proposed,Coast,ERCOT
+Rayos Del Sol,150,26.29,-97.5,4.4,-6,Proposed,South,ERCOT
+RE Maplewood 2a Solar,222,31.09,-102.5,724.3,-6,Proposed,Far West,ERCOT
+RE Maplewood 2b Solar ,28,31.09,-102.38,710.68,-6,Proposed,Far West,ERCOT
+RE Maplewood 2c Solar ,250,30.97,-102.38,807.24,-6,Proposed,Far West,ERCOT
+Red Holly Solar,260,32.45,-101.74,822.52,-6,Proposed,Far West,ERCOT
+Reiher Solar,101.6,31.21,-102.14,862.92,-6,Proposed,Far West,ERCOT
+Rippey Solar,60,33.53,-97.22,242.1,-6,Proposed,North,ERCOT
+Robles Solar,200,28.45,-99.74,165.04,-6,Proposed,South,ERCOT
+Rodeo Solar,205,32.37,-102.58,983.48,-6,Proposed,Far West,ERCOT
+Roseland,500,31.37,-96.14,141.2,-6,Proposed,North Central,ERCOT
+Samson Solar,200,33.65,-95.5,162.9,-6,Proposed,North,ERCOT
+Samson Solar 2,200,33.65,-95.58,166.84,-6,Proposed,North,ERCOT
+Samson Solar 3,200,33.65,-95.7,177.95,-6,Proposed,North,ERCOT
+San Bernard Solar,100,29.25,-95.9,21.2,-6,Proposed,Coast,ERCOT
+Sandine Solar,30,34.01,-100.3,573.4,-6,Proposed,North,ERCOT
+Santa Rita Solar,400,31.17,-102.38,713.72,-6,Proposed,Far West,ERCOT
+Shakes Solar,206,28.45,-99.86,198.84,-6,Proposed,South,ERCOT
+Shorthorn 2 Solar,200,34.37,-100.06,505.4,-6,Proposed,North,ERCOT
+Signal Ranch,70,33.05,-96.22,160.84,-6,Proposed,North Central,ERCOT
+Sisters Solar,1219.23,31.81,-102.58,947.16,-6,Proposed,Far West,ERCOT
+Smithland Texas Solar,200.53,31.09,-97.38,194.92,-6,Proposed,South Central,ERCOT
+Soda Lake Solar 1,200,31.09,-102.38,710.68,-6,Proposed,Far West,ERCOT
+Soda Lake Solar 2,200,31.09,-102.46,715.84,-6,Proposed,Far West,ERCOT
+solar109,29.7,29.33,-100.38,377.1,-6,Existing,West,ERCOT
+solar21,1.5,32.25,-101.42,740.6,-6,Existing,Far West,ERCOT
+solar22,230,32.25,-101.42,740.6,-6,Existing,Far West,ERCOT
+solar286,1.05,30.57,-97.7,249.65,-6,Existing,South Central,ERCOT
+solar287,22.5,30.57,-97.7,249.65,-6,Existing,South Central,ERCOT
+solar288,5.5,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT
+solar289,7.95,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT
+solar290,10.42,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT
+solar291,30.52,30.53,-97.7,234.5,-6,Existing,South Central,ERCOT
+solar3,10,29.57,-104.3,832.75,-6,Existing,Far West,ERCOT
+solar362,29.1,28.57,-96.82,12.36,-6,Existing,Coast,ERCOT
+solar363,7.5,28.57,-96.82,12.36,-6,Existing,Coast,ERCOT
+solar364,7.5,28.53,-96.82,1.95,-6,Existing,Coast,ERCOT
+solar365,4.4,28.53,-96.82,1.95,-6,Existing,Coast,ERCOT
+solar433,7.5,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT
+solar434,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT
+solar435,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT
+solar436,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT
+solar437,21.22,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT
+solar438,42.45,29.73,-94.98,6.95,-6,Existing,Coast,ERCOT
+solar509,33,31.33,-94.74,89.25,-6,Existing,East,ERCOT
+solar530,85.5,31.81,-94.9,110.7,-6,Existing,East,ERCOT
+Solemio,79.8,33.09,-95.62,159.08,-6,Proposed,East,ERCOT
+SP TX-12B Phase II,25,31.21,-102.22,930.84,-6,Proposed,Far West,ERCOT
+SP TX-12B Phase III,40,31.13,-102.14,803.85,-6,Proposed,Far West,ERCOT
+SP-Pecos Bend Solar A,200,31.17,-102.5,709.45,-6,Proposed,Far West,ERCOT
+SP-Pecos Bend Solar B ,180,31.17,-102.3,753.25,-6,Proposed,Far West,ERCOT
+Space City Solar,300,29.13,-96.14,22.95,-6,Proposed,Coast,ERCOT
+Spanish Crown,100,31.13,-97.26,180,-6,Proposed,North Central,ERCOT
+Spectrum,400,31.85,-98.54,426.84,-6,Proposed,North Central,ERCOT
+Spinel Solar,30,29.29,-99.1,249.15,-6,Proposed,South Central,ERCOT
+Starr Solar Ranch,135.99,26.49,-98.98,91.96,-6,Proposed,South,ERCOT
+Stillwater Solar,144,27.85,-97.62,18.44,-6,Proposed,South,ERCOT
+Strategic Energy,135,32.57,-96.62,121.68,-6,Proposed,North Central,ERCOT
+Sun Valley,135,31.57,-96.86,166.12,-6,Proposed,North Central,ERCOT
+Sun Valley 2,115,31.57,-96.98,138.88,-6,Proposed,North Central,ERCOT
+Sunshine Solar,172.83,28.85,-96.54,11.88,-6,Proposed,Coast,ERCOT
+Taygete II Solar,256.25,31.09,-102.78,771.8,-6,Proposed,Far West,ERCOT
+Taygete Solar,255.12,31.09,-102.7,753.1,-6,Proposed,Far West,ERCOT
+Texana Solar,150,29.17,-96.26,29.92,-6,Proposed,Coast,ERCOT
+Texas Solar Nova,252.2,33.05,-100.86,664,-6,Proposed,North,ERCOT
+Thickgrass Solar,148.7,28.85,-95.94,9.04,-6,Proposed,Coast,ERCOT
+Timberwolf POI A,70,31.33,-102.14,856.15,-6,Proposed,Far West,ERCOT
+Tom Green Solar,150,31.41,-100.38,565.2,-6,Proposed,West,ERCOT
+Trevino Solar,216,28.65,-100.3,246,-6,Proposed,South,ERCOT
+Tri-County Solar,177.75,31.85,-102.34,885.64,-6,Proposed,Far West,ERCOT
+Tulsita Solar,258.35,28.81,-97.22,49.52,-6,Proposed,South,ERCOT
+Tyson Nick Solar,90,33.65,-95.66,171.84,-6,Proposed,North,ERCOT
+Ulysses Solar,150,31.53,-100.42,589.35,-6,Proposed,West,ERCOT
+Upton Solar,104.56,31.21,-102.02,791.6,-6,Proposed,Far West,ERCOT
+Vancourt,50,26.29,-97.7,9.25,-6,Proposed,South,ERCOT
+Vision Solar,127.2,32.57,-96.74,152.68,-6,Proposed,North Central,ERCOT
+Wagyu Solar,121.9,29.17,-95.66,10.44,-6,Proposed,Coast,ERCOT
+Wake Solar,150,33.45,-101.18,769.52,-6,Proposed,North,ERCOT
+Wang Solar,120,31.45,-96.98,121.32,-6,Proposed,North Central,ERCOT
+West of Pecos Solar,100,31.37,-103.5,798.6,-6,Proposed,Far West,ERCOT
+Westoria Solar,200,29.17,-95.54,8.2,-6,Proposed,Coast,ERCOT
+Whatley Solar,150,32.13,-102.58,952.2,-6,Proposed,Far West,ERCOT
+Zier Solar,120,29.33,-100.38,377.1,-6,Proposed,West,ERCOT
