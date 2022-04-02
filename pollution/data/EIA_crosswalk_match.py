@@ -19,7 +19,7 @@ if __name__ == "__main__":
     walk = pd.read_csv("./TX_crosswalk.csv")
 
     # Check to see if plant_id from EIA is in crosswalk and add to df
-    data["in_cross"] = data["plant_id"].isin(walk["EIA_PLANT_ID"])
+    data["match"] = data["plant_id"].isin(walk["EIA_PLANT_ID"])
     
     # Write to file
     data.to_csv("EIA_plant_list.csv", index = False)

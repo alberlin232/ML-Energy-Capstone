@@ -2,20 +2,16 @@ import numpy as np
 import pandas as pd
 import requests
 
-class EPA():
+class EIA():
     def __init__(self, key=None):
         if key is None:
             print("You need a key in order to use this API.")
         else:
             self.key = key
 
-    def hourlyData(self, orisCode, unitID, year, quarter):
-        req = requests.get("https://api.epa.gov/FACT/1.0/emissions/hourlyData/csv/{}/{}/{}/{}?api_key={}".format(
-            orisCode, 
-            unitID, 
-            year, 
-            quarter, 
-            self.key))
+    def electric_plant_all(self, plant_id):
+        series_id = 'ELEC.PLANT.GEN.{}-ALL-ALL.M'.format(plant_id)
+        req = requests.get("https://api.eia.gov/series/?series_id={}&api_key={}".format(series_id, self.key))
         return pd.DataFrame.from_dict(req.json().get('series')[0].get('data'))
 
 
