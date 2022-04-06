@@ -17,6 +17,4 @@ class EIA():
 
 
 if __name__ == "__main__":
-    eia = EIA('9ndbfvcHxIEgQ8KnDGhmVFdw3xiyOgqhhwdJg5Wo')
-    df = eia.electric_plant_all(plant_id=9)
-    print(df)
+    pass

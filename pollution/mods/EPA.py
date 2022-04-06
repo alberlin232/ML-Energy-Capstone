@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import requests
+import io
 
 class EPA():
     def __init__(self, key=None):
@@ -16,7 +17,8 @@ class EPA():
             year, 
             quarter, 
             self.key))
-        return pd.DataFrame.from_dict(req.json().get('series')[0].get('data'))
+        con = req.content
+        return pd.read_csv(io.StringIO(con.decode('utf-8')))
 
 
 
