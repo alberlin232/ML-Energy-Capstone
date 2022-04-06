@@ -9,13 +9,19 @@ if __name__ == "__main__":
     req = requests.get("https://api.epa.gov/FACT/1.0/facilities?api_key=9ndbfvcHxIEgQ8KnDGhmVFdw3xiyOgqhhwdJg5Wo")
     df = pd.DataFrame().from_dict(req.json()["data"])
     # Parse to Dataframe
-    data = {"orisCode":[], "state":[], "county":[], "unitId":[]}
+    data = {"orisCode":[], "state":[], "county":[], "unitId":[], "fuel":[]}
     for i in range(len(df)):
         for j in range(len(df["units"][i])):
             data["orisCode"].append(df["orisCode"][i])
             data["state"].append(df["state"][i].get("abbrev"))
             data["county"].append(df["county"][i].get("name"))
             data["unitId"].append(df["units"][i][j].get("unitId"))
+            for z in range(len(df["units"][i][j].get("fuels"))):
+                if df["units"][i][j].get("fuels")[z].get("indicatorDescription") == "Primary":
+                    data["fuel"].append(df["units"][i][j].get("fuels")[z].get("fuelDesc"))
+                    break
+            else:
+                data["fuel"].append("NONE")
     data = pd.DataFrame().from_dict(data)
     data = data.loc[data["state"] == "TX"].reset_index(drop=True)
     

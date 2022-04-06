@@ -1,515 +1,515 @@
-orisCode,state,county,unitId,match
-9,TX,El Paso County,CTG-1,True
-127,TX,Wilbarger County,1,True
-298,TX,Limestone County,LIM1,True
-298,TX,Limestone County,LIM2,True
-3436,TX,Calhoun County,1,False
-3438,TX,Hidalgo County,1,False
-3438,TX,Hidalgo County,2,False
-3439,TX,Webb County,2,False
-3439,TX,Webb County,5,True
-3439,TX,Webb County,4,True
-3439,TX,Webb County,1,False
-3439,TX,Webb County,3,False
-3440,TX,Nueces County,2,False
-3440,TX,Nueces County,3,False
-3440,TX,Nueces County,4,False
-3440,TX,Nueces County,1,False
-3441,TX,Nueces County,6,False
-3441,TX,Nueces County,7,False
-3441,TX,Nueces County,5,False
-3441,TX,Nueces County,8,True
-3441,TX,Nueces County,9,True
-3442,TX,Cameron County,7,False
-3443,TX,Victoria County,6,False
-3443,TX,Victoria County,7,False
-3443,TX,Victoria County,8,False
-3443,TX,Victoria County,9,True
-3452,TX,Dallas County,1,True
-3452,TX,Dallas County,2,True
-3453,TX,Dallas County,3B,False
-3453,TX,Dallas County,2,False
-3453,TX,Dallas County,6,True
-3453,TX,Dallas County,7,True
-3453,TX,Dallas County,8,True
-3453,TX,Dallas County,3A,False
-3454,TX,Dallas County,1,False
-3454,TX,Dallas County,3,False
-3454,TX,Dallas County,2,False
-3455,TX,Dallas County,2,False
-3455,TX,Dallas County,1,False
-3455,TX,Dallas County,3,False
-3456,TX,El Paso County,GT-6A,True
-3456,TX,El Paso County,1,True
-3456,TX,El Paso County,**5,True
-3456,TX,El Paso County,**4,True
-3456,TX,El Paso County,GT-6B,True
-3456,TX,El Paso County,3,True
-3456,TX,El Paso County,2,True
-3457,TX,Montgomery County,2,True
-3457,TX,Montgomery County,1,True
-3459,TX,Orange County,1,True
-3459,TX,Orange County,2,True
-3459,TX,Orange County,3,True
-3459,TX,Orange County,4,True
-3459,TX,Orange County,5,True
-3460,TX,Chambers County,CBY2,True
-3460,TX,Chambers County,CBY3,False
-3460,TX,Chambers County,CBY1,True
-3461,TX,Harris County,DWP9,False
-3464,TX,Harris County,GBY81,True
-3464,TX,Harris County,GBY84,True
-3464,TX,Harris County,GBY83,True
-3464,TX,Harris County,GBY74,True
-3464,TX,Harris County,GBY73,True
-3464,TX,Harris County,GBY5,True
-3464,TX,Harris County,GBY82,True
-3466,TX,Galveston County,PHR3,False
-3466,TX,Galveston County,PHR4,False
-3466,TX,Galveston County,PHR2,False
-3466,TX,Galveston County,PHR1,False
-3468,TX,Harris County,SRB2,True
-3468,TX,Harris County,SRB3,True
-3468,TX,Harris County,SRB1,True
-3468,TX,Harris County,SRB4,True
-3468,TX,Harris County,SRBG1,False
-3469,TX,Harris County,THW42,True
-3469,TX,Harris County,THW55,True
-3469,TX,Harris County,THW2,False
-3469,TX,Harris County,THW54,True
-3469,TX,Harris County,THW43,True
-3469,TX,Harris County,THW56,True
-3469,TX,Harris County,THW32,True
-3469,TX,Harris County,THW31,True
-3469,TX,Harris County,THW53,True
-3469,TX,Harris County,THW34,True
-3469,TX,Harris County,THW41,True
-3469,TX,Harris County,THW51,True
-3469,TX,Harris County,THW52,True
-3469,TX,Harris County,THW33,True
-3469,TX,Harris County,THW44,True
-3470,TX,Fort Bend County,WAP5,True
-3470,TX,Fort Bend County,WAP3,True
-3470,TX,Fort Bend County,WAP1,True
-3470,TX,Fort Bend County,WAP2,True
-3470,TX,Fort Bend County,WAP7,True
-3470,TX,Fort Bend County,WAP4,True
-3470,TX,Fort Bend County,WAP6,True
-3470,TX,Fort Bend County,WAP8,True
-3471,TX,Harris County,WEB3,False
-3476,TX,Gregg County,2,True
-3476,TX,Gregg County,5,True
-3476,TX,Gregg County,3,True
-3476,TX,Gregg County,4,True
-3477,TX,Morris County,1,True
-3478,TX,Marion County,3,True
-3478,TX,Marion County,1,True
-3478,TX,Marion County,2,True
-3482,TX,Lubbock County,151B,True
-3482,TX,Lubbock County,152B,True
-3482,TX,Lubbock County,154T,True
-3482,TX,Lubbock County,153T,True
-3483,TX,Moore County,3,True
-3484,TX,Potter County,142B,True
-3484,TX,Potter County,143B,True
-3484,TX,Potter County,141B,True
-3485,TX,Lamb County,113B,True
-3485,TX,Lamb County,112B,True
-3485,TX,Lamb County,114B,True
-3485,TX,Lamb County,111B,True
-3489,TX,Tarrant County,1,True
-3489,TX,Tarrant County,3,True
-3489,TX,Tarrant County,2,True
-3490,TX,Young County,2,True
-3490,TX,Young County,1,True
-3491,TX,Tarrant County,4,True
-3491,TX,Tarrant County,1B,False
-3491,TX,Tarrant County,3,True
-3491,TX,Tarrant County,1A,False
-3491,TX,Tarrant County,5,True
-3491,TX,Tarrant County,2,False
-3492,TX,Mitchell County,CT4,True
-3492,TX,Mitchell County,4,False
-3492,TX,Mitchell County,5,True
-3492,TX,Mitchell County,6,True
-3492,TX,Mitchell County,CT1,True
-3492,TX,Mitchell County,CT3,True
-3492,TX,Mitchell County,CT2,True
-3492,TX,Mitchell County,3,False
-3492,TX,Mitchell County,CT5,True
-3492,TX,Mitchell County,CT6,True
-3493,TX,Tarrant County,4,False
-3494,TX,Ward County,CT3,True
-3494,TX,Ward County,CT1,True
-3494,TX,Ward County,6,True
-3494,TX,Ward County,CT2,True
-3494,TX,Ward County,CT5,True
-3494,TX,Ward County,CT4,True
-3494,TX,Ward County,5,True
-3497,TX,Freestone County,2,True
-3497,TX,Freestone County,1,True
-3500,TX,Collin County,1,False
-3502,TX,McLennan County,1,True
-3502,TX,McLennan County,2,True
-3503,TX,Red River County,1,False
-3504,TX,Cherokee County,2,True
-3504,TX,Cherokee County,1,True
-3506,TX,McLennan County,1,False
-3506,TX,McLennan County,2,False
-3507,TX,Henderson County,9,True
-3508,TX,Fannin County,1,False
-3508,TX,Fannin County,2,False
-3508,TX,Fannin County,3,False
-3523,TX,Coke County,1,False
-3524,TX,Haskell County,2,False
-3524,TX,Haskell County,3,False
-3524,TX,Haskell County,1,False
-3524,TX,Haskell County,4,False
-3526,TX,Crockett County,6,False
-3526,TX,Crockett County,5,False
-3527,TX,Tom Green County,2,False
-3548,TX,Travis County,GT-2A,True
-3548,TX,Travis County,GT-4B,True
-3548,TX,Travis County,GT-3B,True
-3548,TX,Travis County,2,True
-3548,TX,Travis County,GT-2B,True
-3548,TX,Travis County,GT-3A,True
-3548,TX,Travis County,GT-1A,True
-3548,TX,Travis County,GT-1B,True
-3548,TX,Travis County,GT-4A,True
-3548,TX,Travis County,1,True
-3549,TX,Travis County,3,False
-3549,TX,Travis County,2,False
-3549,TX,Travis County,4,False
-3549,TX,Travis County,1,False
-3559,TX,Cameron County,9,True
-3559,TX,Cameron County,10,True
-3561,TX,Brazos County,6,True
-3574,TX,Dallas County,BW5,True
-3576,TX,Collin County,BW3,True
-3576,TX,Collin County,BW2,True
-3576,TX,Collin County,CE1,True
-3576,TX,Collin County,GE4,True
-3601,TX,Bastrop County,2,True
-3601,TX,Bastrop County,1,True
-3601,TX,Bastrop County,3,True
-3602,TX,Lubbock County,2,True
-3602,TX,Lubbock County,1,True
-3604,TX,Lubbock County,GT1,True
-3609,TX,Bexar County,CGT1,True
-3609,TX,Bexar County,4,True
-3609,TX,Bexar County,3,True
-3609,TX,Bexar County,CGT4,True
-3609,TX,Bexar County,CGT2,True
-3609,TX,Bexar County,CGT3,True
-3610,TX,Bexar County,3,False
-3611,TX,Bexar County,1,True
-3611,TX,Bexar County,2,True
-3612,TX,Bexar County,CT02,True
-3612,TX,Bexar County,CGT8,True
-3612,TX,Bexar County,CGT5,True
-3612,TX,Bexar County,CGT7,True
-3612,TX,Bexar County,1,True
-3612,TX,Bexar County,2,True
-3612,TX,Bexar County,CT01,True
-3612,TX,Bexar County,3,True
-3612,TX,Bexar County,CGT6,True
-3613,TX,Bexar County,4,True
-3613,TX,Bexar County,1,True
-3613,TX,Bexar County,2,False
-3613,TX,Bexar County,3,True
-3627,TX,Parker County,3,False
-3628,TX,Palo Pinto County,3,True
-3628,TX,Palo Pinto County,**4,True
-3628,TX,Palo Pinto County,2,True
-3628,TX,Palo Pinto County,1,True
-3628,TX,Palo Pinto County,**5,True
-3631,TX,Victoria County,CT8,True
-3631,TX,Victoria County,CT9,True
-3631,TX,Victoria County,CT7,True
-4195,TX,Hunt County,3,True
-4195,TX,Hunt County,2,True
-4266,TX,Denton County,4,True
-4266,TX,Denton County,5,True
-4937,TX,Llano County,CT-1,True
-4937,TX,Llano County,CT-2,True
-4937,TX,Llano County,1,True
-4938,TX,Jones County,2,False
-4938,TX,Jones County,1,False
-4939,TX,Nueces County,4,True
-4939,TX,Nueces County,2,False
-4939,TX,Nueces County,1,True
-4939,TX,Nueces County,3,True
-6136,TX,Grimes County,1,True
-6139,TX,Titus County,1,True
-6139,TX,Titus County,3,True
-6139,TX,Titus County,2,True
-6146,TX,Rusk County,1,True
-6146,TX,Rusk County,2,True
-6146,TX,Rusk County,3,True
-6147,TX,Titus County,2,True
-6147,TX,Titus County,1,True
-6147,TX,Titus County,3,True
-6178,TX,Goliad County,1,True
-6179,TX,Fayette County,1,True
-6179,TX,Fayette County,3,True
-6179,TX,Fayette County,2,True
-6180,TX,Robertson County,1,True
-6180,TX,Robertson County,2,True
-6181,TX,Bexar County,2,True
-6181,TX,Bexar County,1,True
-6183,TX,Atascosa County,SM-1,True
-6193,TX,Potter County,062B,True
-6193,TX,Potter County,063B,True
-6193,TX,Potter County,061B,True
-6194,TX,Lamb County,171B,True
-6194,TX,Lamb County,172B,True
-6243,TX,Brazos County,2,True
-6243,TX,Brazos County,1,True
-6243,TX,Brazos County,3,True
-6648,TX,Milam County,4,True
-7030,TX,Robertson County,U2,True
-7030,TX,Robertson County,U1,True
-7097,TX,Bexar County,**1,True
-7097,TX,Bexar County,**2,True
-7325,TX,Harris County,SJS2,True
-7325,TX,Harris County,SJS1,True
-7762,TX,Hidalgo County,HRSG2,True
-7762,TX,Hidalgo County,HRSG1,True
-7900,TX,Travis County,SH5,True
-7900,TX,Travis County,SH7,True
-7900,TX,Travis County,SH3,True
-7900,TX,Travis County,SH4,True
-7900,TX,Travis County,SH1,True
-7900,TX,Travis County,SH2,True
-7900,TX,Travis County,SH6,True
-7902,TX,Harrison County,1,True
-8063,TX,Hood County,1,True
-8063,TX,Hood County,CT1,True
-8063,TX,Hood County,CT2,True
-8063,TX,Hood County,CT4,True
-8063,TX,Hood County,CT3,True
-10298,TX,Harris County,CG801,True
-10298,TX,Harris County,CG803,True
-10298,TX,Harris County,CG802,True
-10298,TX,Harris County,CG804,True
-10670,TX,Harris County,01001,False
-10741,TX,Harris County,G104,False
-10741,TX,Harris County,G102,False
-10741,TX,Harris County,G103,False
-50109,TX,Lamar County,HRSG2,True
-50109,TX,Lamar County,HRSG1,True
-50137,TX,Wharton County,1,True
-50615,TX,Nolan County,GT02,True
-50615,TX,Nolan County,GT03,True
-50615,TX,Nolan County,GT01,True
-50625,TX,Jefferson County,61STK2,True
-50625,TX,Jefferson County,61STK1,True
-50625,TX,Jefferson County,61STK3,True
-50815,TX,Harris County,ENG201,True
-50815,TX,Harris County,ENG501,True
-50815,TX,Harris County,ENG301,True
-50815,TX,Harris County,ENG101,True
-50815,TX,Harris County,ENG401,True
-50815,TX,Harris County,ENG601,True
-52071,TX,Milam County,5B,True
-52071,TX,Milam County,5A,True
-52088,TX,Galveston County,GT-A,True
-52088,TX,Galveston County,GT-C,True
-52088,TX,Galveston County,GT-B,True
-52176,TX,Howard County,2,True
-52176,TX,Howard County,1,True
-54817,TX,Johnson County,EAST,True
-55015,TX,Brazoria County,4,True
-55015,TX,Brazoria County,2,True
-55015,TX,Brazoria County,1,True
-55015,TX,Brazoria County,3,True
-55047,TX,Harris County,CG-3,True
-55047,TX,Harris County,CG-1,True
-55047,TX,Harris County,CG-2,True
-55062,TX,Grimes County,3,True
-55062,TX,Grimes County,1,True
-55062,TX,Grimes County,2,True
-55064,TX,Hutchinson County,002,True
-55064,TX,Hutchinson County,001,True
-55065,TX,Yoakum County,2,True
-55065,TX,Yoakum County,1,True
-55086,TX,San Patricio County,102,True
-55086,TX,San Patricio County,101,True
-55091,TX,Ellis County,STK1,True
-55091,TX,Ellis County,STK2,True
-55091,TX,Ellis County,STK4,True
-55091,TX,Ellis County,STK5,True
-55091,TX,Ellis County,STK6,True
-55091,TX,Ellis County,STK3,True
-55097,TX,Lamar County,1,True
-55097,TX,Lamar County,3,True
-55097,TX,Lamar County,4,True
-55097,TX,Lamar County,2,True
-55098,TX,Hidalgo County,1,False
-55098,TX,Hidalgo County,2,False
-55104,TX,Orange County,SAB-1,True
-55104,TX,Orange County,SAB-2,True
-55120,TX,Orange County,CTG-1,True
-55120,TX,Orange County,CTG-2,True
-55123,TX,Hidalgo County,CTG-1,True
-55123,TX,Hidalgo County,CTG-2,True
-55132,TX,Rusk County,OGTDB1,True
-55132,TX,Rusk County,OGTDB2,True
-55132,TX,Rusk County,OGTDB3,True
-55137,TX,Guadalupe County,CTG-2,True
-55137,TX,Guadalupe County,CTG-3,True
-55137,TX,Guadalupe County,CTG-1,True
-55139,TX,Hood County,CTG1,True
-55139,TX,Hood County,CTG2,True
-55144,TX,Hays County,STK2,True
-55144,TX,Hays County,STK3,True
-55144,TX,Hays County,STK4,True
-55144,TX,Hays County,STK1,True
-55153,TX,Guadalupe County,CTG-3,True
-55153,TX,Guadalupe County,CTG-1,True
-55153,TX,Guadalupe County,CTG-2,True
-55153,TX,Guadalupe County,CTG-4,True
-55154,TX,Bastrop County,1,True
-55154,TX,Bastrop County,2,True
-55168,TX,Bastrop County,CTG-1A,True
-55168,TX,Bastrop County,CTG-1B,True
-55172,TX,Bosque County,GT-1,True
-55172,TX,Bosque County,GT-3,True
-55172,TX,Bosque County,GT-2,True
-55176,TX,Harrison County,1,True
-55176,TX,Harrison County,2,True
-55187,TX,Harris County,CHV2,True
-55187,TX,Harris County,CHV1,True
-55187,TX,Harris County,CHV3,True
-55187,TX,Harris County,CHV4,True
-55206,TX,Nueces County,CU1,True
-55206,TX,Nueces County,CU2,True
-55215,TX,Ector County,GT4,True
-55215,TX,Ector County,GT1,True
-55215,TX,Ector County,GT2,True
-55215,TX,Ector County,GT3,True
-55223,TX,Ellis County,GT-1,True
-55226,TX,Freestone County,GT4,True
-55226,TX,Freestone County,GT1,True
-55226,TX,Freestone County,GT2,True
-55226,TX,Freestone County,GT3,True
-55230,TX,Jack County,CT-3,True
-55230,TX,Jack County,CT-1,True
-55230,TX,Jack County,CT-4,True
-55230,TX,Jack County,CT-2,True
-55299,TX,Harris County,CTG1,True
-55299,TX,Harris County,CTG3,True
-55299,TX,Harris County,CTG2,True
-55320,TX,Wise County,GT-1,True
-55320,TX,Wise County,GT-2,True
-55327,TX,Chambers County,CTG-1,True
-55327,TX,Chambers County,CTG-2,True
-55327,TX,Chambers County,CTG-3,True
-55357,TX,Fort Bend County,CTG1,True
-55357,TX,Fort Bend County,CTG2,True
-55358,TX,Newton County,CT3,True
-55358,TX,Newton County,CT4,True
-55358,TX,Newton County,CT1,True
-55358,TX,Newton County,CT2,True
-55365,TX,Harris County,GT-2,True
-55365,TX,Harris County,GT-3,True
-55365,TX,Harris County,GT-4,True
-55365,TX,Harris County,GT-1,True
-55464,TX,Harris County,CTG4,True
-55464,TX,Harris County,CTG3,True
-55464,TX,Harris County,CTG5,True
-55464,TX,Harris County,CTG2,True
-55464,TX,Harris County,CTG1,True
-55470,TX,Galveston County,EPN801,True
-55470,TX,Galveston County,EPN803,True
-55470,TX,Galveston County,EPN802,True
-55480,TX,Kaufman County,U6,True
-55480,TX,Kaufman County,U1,True
-55480,TX,Kaufman County,U4,True
-55480,TX,Kaufman County,U5,True
-55480,TX,Kaufman County,U2,True
-55480,TX,Kaufman County,U3,True
-55664,TX,Harrison County,GT-1,True
-55664,TX,Harrison County,GT-2,True
-55708,TX,Nacogdoches County,BFB-1,False
-56326,TX,Yoakum County,GEN1,True
-56326,TX,Yoakum County,GEN2,True
-56326,TX,Yoakum County,GEN3,True
-56349,TX,Ector County,CT2B,True
-56349,TX,Ector County,CT1B,True
-56349,TX,Ector County,CT1A,True
-56349,TX,Ector County,CT2A,True
-56350,TX,Wharton County,CT1A,True
-56350,TX,Wharton County,CT1B,True
-56350,TX,Wharton County,CT2B,True
-56350,TX,Wharton County,CT2A,True
-56603,TX,San Jacinto County,SJCCT2,True
-56603,TX,San Jacinto County,SJCCT1,True
-56604,TX,Hardin County,HCCT2,True
-56604,TX,Hardin County,HCCT1,True
-56611,TX,McLennan County,S01,True
-56674,TX,Fayette County,2,True
-56674,TX,Fayette County,1,True
-56674,TX,Fayette County,3,True
-56674,TX,Fayette County,4,True
-56806,TX,Chambers County,CBY42,True
-56806,TX,Chambers County,CBY41,True
-57865,TX,Hale County,3,True
-57865,TX,Hale County,2,True
-57865,TX,Hale County,1,True
-58001,TX,Bell County,CTG3,True
-58001,TX,Bell County,CTG4,True
-58001,TX,Bell County,CTG2,True
-58001,TX,Bell County,CTG1,True
-58005,TX,Grayson County,CTG2,True
-58005,TX,Grayson County,CTG1,True
-58378,TX,Fort Bend County,CTHRSG,True
-58471,TX,Ector County,CT-1,True
-58471,TX,Ector County,CT-2,True
-58562,TX,El Paso County,GT-2,True
-58562,TX,El Paso County,GT-4,True
-58562,TX,El Paso County,GT-1,True
-58562,TX,El Paso County,GT-3,True
-59812,TX,Hood County,CGT5,True
-59812,TX,Hood County,CGT4,True
-60122,TX,Wharton County,CT7,True
-60122,TX,Wharton County,CT8,True
-60264,TX,Galveston County,BCGT3,True
-60264,TX,Galveston County,BCGT4,True
-60264,TX,Galveston County,BCGT5,True
-60264,TX,Galveston County,BCGT2,True
-60264,TX,Galveston County,BCGT1,True
-60264,TX,Galveston County,BCGT6,True
-60459,TX,Calhoun County,CT1,True
-60459,TX,Calhoun County,CT2,True
-60460,TX,Harris County,CT1,True
-60460,TX,Harris County,CT2,True
-60468,TX,Harris County,CT-1,True
-60910,TX,Harris County,1GT,False
-60925,TX,Montgomery County,CT2,False
-60925,TX,Montgomery County,CT1,False
-61241,TX,Victoria County,CT1,False
-61241,TX,Victoria County,CT2,False
-61242,TX,Victoria County,CT1,False
-61242,TX,Victoria County,CT2,False
-61966,TX,Victoria County,CT1,False
-61966,TX,Victoria County,CT2,False
-63335,TX,Harris County,CT-1,False
-63335,TX,Harris County,CT-7,False
-63335,TX,Harris County,CT-2,False
-63335,TX,Harris County,CT-5,False
-63335,TX,Harris County,CT-6,False
-63335,TX,Harris County,CT-3,False
-63335,TX,Harris County,CT-4,False
-63335,TX,Harris County,CT-8,False
-63688,TX,Galveston County,CT-3,False
-63688,TX,Galveston County,CT-8,False
-63688,TX,Galveston County,CT-2,False
-63688,TX,Galveston County,CT-5,False
-63688,TX,Galveston County,CT-4,False
-63688,TX,Galveston County,CT-1,False
-63688,TX,Galveston County,CT-6,False
-63688,TX,Galveston County,CT-10,False
-63688,TX,Galveston County,CT-7,False
-63688,TX,Galveston County,CT-9,False
+orisCode,state,county,unitId,fuel,match
+9,TX,El Paso County,CTG-1,Pipeline Natural Gas,True
+127,TX,Wilbarger County,1,Coal,True
+298,TX,Limestone County,LIM1,Coal,True
+298,TX,Limestone County,LIM2,Coal,True
+3436,TX,Calhoun County,1,Pipeline Natural Gas,False
+3438,TX,Hidalgo County,1,Pipeline Natural Gas,False
+3438,TX,Hidalgo County,2,Pipeline Natural Gas,False
+3439,TX,Webb County,2,Pipeline Natural Gas,False
+3439,TX,Webb County,5,Pipeline Natural Gas,True
+3439,TX,Webb County,4,Pipeline Natural Gas,True
+3439,TX,Webb County,1,Pipeline Natural Gas,False
+3439,TX,Webb County,3,Pipeline Natural Gas,False
+3440,TX,Nueces County,2,Pipeline Natural Gas,False
+3440,TX,Nueces County,3,Pipeline Natural Gas,False
+3440,TX,Nueces County,4,Pipeline Natural Gas,False
+3440,TX,Nueces County,1,Pipeline Natural Gas,False
+3441,TX,Nueces County,6,Pipeline Natural Gas,False
+3441,TX,Nueces County,7,Pipeline Natural Gas,False
+3441,TX,Nueces County,5,Pipeline Natural Gas,False
+3441,TX,Nueces County,8,Pipeline Natural Gas,True
+3441,TX,Nueces County,9,Pipeline Natural Gas,True
+3442,TX,Cameron County,7,Pipeline Natural Gas,False
+3443,TX,Victoria County,6,Pipeline Natural Gas,False
+3443,TX,Victoria County,7,Pipeline Natural Gas,False
+3443,TX,Victoria County,8,Pipeline Natural Gas,False
+3443,TX,Victoria County,9,Pipeline Natural Gas,True
+3452,TX,Dallas County,1,Pipeline Natural Gas,True
+3452,TX,Dallas County,2,Pipeline Natural Gas,True
+3453,TX,Dallas County,3B,Pipeline Natural Gas,False
+3453,TX,Dallas County,2,Pipeline Natural Gas,False
+3453,TX,Dallas County,6,Pipeline Natural Gas,True
+3453,TX,Dallas County,7,Pipeline Natural Gas,True
+3453,TX,Dallas County,8,Pipeline Natural Gas,True
+3453,TX,Dallas County,3A,Pipeline Natural Gas,False
+3454,TX,Dallas County,1,Pipeline Natural Gas,False
+3454,TX,Dallas County,3,Pipeline Natural Gas,False
+3454,TX,Dallas County,2,Pipeline Natural Gas,False
+3455,TX,Dallas County,2,Pipeline Natural Gas,False
+3455,TX,Dallas County,1,Pipeline Natural Gas,False
+3455,TX,Dallas County,3,Pipeline Natural Gas,False
+3456,TX,El Paso County,GT-6A,Pipeline Natural Gas,True
+3456,TX,El Paso County,1,Pipeline Natural Gas,True
+3456,TX,El Paso County,**5,Pipeline Natural Gas,True
+3456,TX,El Paso County,**4,Pipeline Natural Gas,True
+3456,TX,El Paso County,GT-6B,Pipeline Natural Gas,True
+3456,TX,El Paso County,3,Pipeline Natural Gas,True
+3456,TX,El Paso County,2,Pipeline Natural Gas,True
+3457,TX,Montgomery County,2,Pipeline Natural Gas,True
+3457,TX,Montgomery County,1,Pipeline Natural Gas,True
+3459,TX,Orange County,1,Pipeline Natural Gas,True
+3459,TX,Orange County,2,Pipeline Natural Gas,True
+3459,TX,Orange County,3,Pipeline Natural Gas,True
+3459,TX,Orange County,4,Pipeline Natural Gas,True
+3459,TX,Orange County,5,Pipeline Natural Gas,True
+3460,TX,Chambers County,CBY2,Pipeline Natural Gas,True
+3460,TX,Chambers County,CBY3,Pipeline Natural Gas,False
+3460,TX,Chambers County,CBY1,Pipeline Natural Gas,True
+3461,TX,Harris County,DWP9,Pipeline Natural Gas,False
+3464,TX,Harris County,GBY81,Pipeline Natural Gas,True
+3464,TX,Harris County,GBY84,Pipeline Natural Gas,True
+3464,TX,Harris County,GBY83,Pipeline Natural Gas,True
+3464,TX,Harris County,GBY74,Pipeline Natural Gas,True
+3464,TX,Harris County,GBY73,Pipeline Natural Gas,True
+3464,TX,Harris County,GBY5,Pipeline Natural Gas,True
+3464,TX,Harris County,GBY82,Pipeline Natural Gas,True
+3466,TX,Galveston County,PHR3,Pipeline Natural Gas,False
+3466,TX,Galveston County,PHR4,Pipeline Natural Gas,False
+3466,TX,Galveston County,PHR2,Pipeline Natural Gas,False
+3466,TX,Galveston County,PHR1,Pipeline Natural Gas,False
+3468,TX,Harris County,SRB2,Pipeline Natural Gas,True
+3468,TX,Harris County,SRB3,Pipeline Natural Gas,True
+3468,TX,Harris County,SRB1,Pipeline Natural Gas,True
+3468,TX,Harris County,SRB4,Pipeline Natural Gas,True
+3468,TX,Harris County,SRBG1,Pipeline Natural Gas,False
+3469,TX,Harris County,THW42,Pipeline Natural Gas,True
+3469,TX,Harris County,THW55,Pipeline Natural Gas,True
+3469,TX,Harris County,THW2,Pipeline Natural Gas,False
+3469,TX,Harris County,THW54,Pipeline Natural Gas,True
+3469,TX,Harris County,THW43,Pipeline Natural Gas,True
+3469,TX,Harris County,THW56,Pipeline Natural Gas,True
+3469,TX,Harris County,THW32,Pipeline Natural Gas,True
+3469,TX,Harris County,THW31,Pipeline Natural Gas,True
+3469,TX,Harris County,THW53,Pipeline Natural Gas,True
+3469,TX,Harris County,THW34,Pipeline Natural Gas,True
+3469,TX,Harris County,THW41,Pipeline Natural Gas,True
+3469,TX,Harris County,THW51,Pipeline Natural Gas,True
+3469,TX,Harris County,THW52,Pipeline Natural Gas,True
+3469,TX,Harris County,THW33,Pipeline Natural Gas,True
+3469,TX,Harris County,THW44,Pipeline Natural Gas,True
+3470,TX,Fort Bend County,WAP5,Coal,True
+3470,TX,Fort Bend County,WAP3,Pipeline Natural Gas,True
+3470,TX,Fort Bend County,WAP1,Pipeline Natural Gas,True
+3470,TX,Fort Bend County,WAP2,Pipeline Natural Gas,True
+3470,TX,Fort Bend County,WAP7,Coal,True
+3470,TX,Fort Bend County,WAP4,Pipeline Natural Gas,True
+3470,TX,Fort Bend County,WAP6,Coal,True
+3470,TX,Fort Bend County,WAP8,Coal,True
+3471,TX,Harris County,WEB3,Pipeline Natural Gas,False
+3476,TX,Gregg County,2,NONE,True
+3476,TX,Gregg County,5,Pipeline Natural Gas,True
+3476,TX,Gregg County,3,NONE,True
+3476,TX,Gregg County,4,NONE,True
+3477,TX,Morris County,1,Pipeline Natural Gas,True
+3478,TX,Marion County,3,Pipeline Natural Gas,True
+3478,TX,Marion County,1,Pipeline Natural Gas,True
+3478,TX,Marion County,2,Pipeline Natural Gas,True
+3482,TX,Lubbock County,151B,Pipeline Natural Gas,True
+3482,TX,Lubbock County,152B,Pipeline Natural Gas,True
+3482,TX,Lubbock County,154T,Pipeline Natural Gas,True
+3482,TX,Lubbock County,153T,Pipeline Natural Gas,True
+3483,TX,Moore County,3,Pipeline Natural Gas,True
+3484,TX,Potter County,142B,Pipeline Natural Gas,True
+3484,TX,Potter County,143B,Pipeline Natural Gas,True
+3484,TX,Potter County,141B,Pipeline Natural Gas,True
+3485,TX,Lamb County,113B,Pipeline Natural Gas,True
+3485,TX,Lamb County,112B,Pipeline Natural Gas,True
+3485,TX,Lamb County,114B,Pipeline Natural Gas,True
+3485,TX,Lamb County,111B,Pipeline Natural Gas,True
+3489,TX,Tarrant County,1,Pipeline Natural Gas,True
+3489,TX,Tarrant County,3,Pipeline Natural Gas,True
+3489,TX,Tarrant County,2,Pipeline Natural Gas,True
+3490,TX,Young County,2,Pipeline Natural Gas,True
+3490,TX,Young County,1,Pipeline Natural Gas,True
+3491,TX,Tarrant County,4,Pipeline Natural Gas,True
+3491,TX,Tarrant County,1B,Pipeline Natural Gas,False
+3491,TX,Tarrant County,3,Pipeline Natural Gas,True
+3491,TX,Tarrant County,1A,Pipeline Natural Gas,False
+3491,TX,Tarrant County,5,Pipeline Natural Gas,True
+3491,TX,Tarrant County,2,Pipeline Natural Gas,False
+3492,TX,Mitchell County,CT4,Pipeline Natural Gas,True
+3492,TX,Mitchell County,4,Pipeline Natural Gas,False
+3492,TX,Mitchell County,5,Pipeline Natural Gas,True
+3492,TX,Mitchell County,6,Pipeline Natural Gas,True
+3492,TX,Mitchell County,CT1,Pipeline Natural Gas,True
+3492,TX,Mitchell County,CT3,Pipeline Natural Gas,True
+3492,TX,Mitchell County,CT2,Pipeline Natural Gas,True
+3492,TX,Mitchell County,3,Pipeline Natural Gas,False
+3492,TX,Mitchell County,CT5,Pipeline Natural Gas,True
+3492,TX,Mitchell County,CT6,Pipeline Natural Gas,True
+3493,TX,Tarrant County,4,Pipeline Natural Gas,False
+3494,TX,Ward County,CT3,Pipeline Natural Gas,True
+3494,TX,Ward County,CT1,Pipeline Natural Gas,True
+3494,TX,Ward County,6,Pipeline Natural Gas,True
+3494,TX,Ward County,CT2,Pipeline Natural Gas,True
+3494,TX,Ward County,CT5,Pipeline Natural Gas,True
+3494,TX,Ward County,CT4,Pipeline Natural Gas,True
+3494,TX,Ward County,5,Pipeline Natural Gas,True
+3497,TX,Freestone County,2,Coal,True
+3497,TX,Freestone County,1,Coal,True
+3500,TX,Collin County,1,Pipeline Natural Gas,False
+3502,TX,McLennan County,1,Pipeline Natural Gas,True
+3502,TX,McLennan County,2,Pipeline Natural Gas,True
+3503,TX,Red River County,1,Pipeline Natural Gas,False
+3504,TX,Cherokee County,2,Pipeline Natural Gas,True
+3504,TX,Cherokee County,1,Pipeline Natural Gas,True
+3506,TX,McLennan County,1,Pipeline Natural Gas,False
+3506,TX,McLennan County,2,Pipeline Natural Gas,False
+3507,TX,Henderson County,9,Pipeline Natural Gas,True
+3508,TX,Fannin County,1,Pipeline Natural Gas,False
+3508,TX,Fannin County,2,Pipeline Natural Gas,False
+3508,TX,Fannin County,3,Pipeline Natural Gas,False
+3523,TX,Coke County,1,Pipeline Natural Gas,False
+3524,TX,Haskell County,2,Pipeline Natural Gas,False
+3524,TX,Haskell County,3,Pipeline Natural Gas,False
+3524,TX,Haskell County,1,Pipeline Natural Gas,False
+3524,TX,Haskell County,4,Pipeline Natural Gas,False
+3526,TX,Crockett County,6,NONE,False
+3526,TX,Crockett County,5,NONE,False
+3527,TX,Tom Green County,2,NONE,False
+3548,TX,Travis County,GT-2A,Pipeline Natural Gas,True
+3548,TX,Travis County,GT-4B,Pipeline Natural Gas,True
+3548,TX,Travis County,GT-3B,Pipeline Natural Gas,True
+3548,TX,Travis County,2,Pipeline Natural Gas,True
+3548,TX,Travis County,GT-2B,Pipeline Natural Gas,True
+3548,TX,Travis County,GT-3A,Pipeline Natural Gas,True
+3548,TX,Travis County,GT-1A,Pipeline Natural Gas,True
+3548,TX,Travis County,GT-1B,Pipeline Natural Gas,True
+3548,TX,Travis County,GT-4A,Pipeline Natural Gas,True
+3548,TX,Travis County,1,Pipeline Natural Gas,True
+3549,TX,Travis County,3,Pipeline Natural Gas,False
+3549,TX,Travis County,2,Pipeline Natural Gas,False
+3549,TX,Travis County,4,Pipeline Natural Gas,False
+3549,TX,Travis County,1,Pipeline Natural Gas,False
+3559,TX,Cameron County,9,Pipeline Natural Gas,True
+3559,TX,Cameron County,10,Pipeline Natural Gas,True
+3561,TX,Brazos County,6,Pipeline Natural Gas,True
+3574,TX,Dallas County,BW5,Pipeline Natural Gas,True
+3576,TX,Collin County,BW3,Pipeline Natural Gas,True
+3576,TX,Collin County,BW2,Pipeline Natural Gas,True
+3576,TX,Collin County,CE1,Pipeline Natural Gas,True
+3576,TX,Collin County,GE4,Pipeline Natural Gas,True
+3601,TX,Bastrop County,2,Pipeline Natural Gas,True
+3601,TX,Bastrop County,1,Pipeline Natural Gas,True
+3601,TX,Bastrop County,3,Pipeline Natural Gas,True
+3602,TX,Lubbock County,2,Pipeline Natural Gas,True
+3602,TX,Lubbock County,1,Pipeline Natural Gas,True
+3604,TX,Lubbock County,GT1,Pipeline Natural Gas,True
+3609,TX,Bexar County,CGT1,Pipeline Natural Gas,True
+3609,TX,Bexar County,4,Pipeline Natural Gas,True
+3609,TX,Bexar County,3,Pipeline Natural Gas,True
+3609,TX,Bexar County,CGT4,Pipeline Natural Gas,True
+3609,TX,Bexar County,CGT2,Pipeline Natural Gas,True
+3609,TX,Bexar County,CGT3,Pipeline Natural Gas,True
+3610,TX,Bexar County,3,Pipeline Natural Gas,False
+3611,TX,Bexar County,1,Pipeline Natural Gas,True
+3611,TX,Bexar County,2,Pipeline Natural Gas,True
+3612,TX,Bexar County,CT02,Pipeline Natural Gas,True
+3612,TX,Bexar County,CGT8,Pipeline Natural Gas,True
+3612,TX,Bexar County,CGT5,Pipeline Natural Gas,True
+3612,TX,Bexar County,CGT7,Pipeline Natural Gas,True
+3612,TX,Bexar County,1,Pipeline Natural Gas,True
+3612,TX,Bexar County,2,Pipeline Natural Gas,True
+3612,TX,Bexar County,CT01,Pipeline Natural Gas,True
+3612,TX,Bexar County,3,Pipeline Natural Gas,True
+3612,TX,Bexar County,CGT6,Pipeline Natural Gas,True
+3613,TX,Bexar County,4,Pipeline Natural Gas,True
+3613,TX,Bexar County,1,Pipeline Natural Gas,True
+3613,TX,Bexar County,2,Pipeline Natural Gas,False
+3613,TX,Bexar County,3,Pipeline Natural Gas,True
+3627,TX,Parker County,3,Pipeline Natural Gas,False
+3628,TX,Palo Pinto County,3,Pipeline Natural Gas,True
+3628,TX,Palo Pinto County,**4,Pipeline Natural Gas,True
+3628,TX,Palo Pinto County,2,Pipeline Natural Gas,True
+3628,TX,Palo Pinto County,1,Pipeline Natural Gas,True
+3628,TX,Palo Pinto County,**5,Pipeline Natural Gas,True
+3631,TX,Victoria County,CT8,Pipeline Natural Gas,True
+3631,TX,Victoria County,CT9,Pipeline Natural Gas,True
+3631,TX,Victoria County,CT7,Pipeline Natural Gas,True
+4195,TX,Hunt County,3,Pipeline Natural Gas,True
+4195,TX,Hunt County,2,Pipeline Natural Gas,True
+4266,TX,Denton County,4,Pipeline Natural Gas,True
+4266,TX,Denton County,5,Pipeline Natural Gas,True
+4937,TX,Llano County,CT-1,Pipeline Natural Gas,True
+4937,TX,Llano County,CT-2,Pipeline Natural Gas,True
+4937,TX,Llano County,1,Pipeline Natural Gas,True
+4938,TX,Jones County,2,Pipeline Natural Gas,False
+4938,TX,Jones County,1,Pipeline Natural Gas,False
+4939,TX,Nueces County,4,Pipeline Natural Gas,True
+4939,TX,Nueces County,2,Pipeline Natural Gas,False
+4939,TX,Nueces County,1,Pipeline Natural Gas,True
+4939,TX,Nueces County,3,Pipeline Natural Gas,True
+6136,TX,Grimes County,1,Coal,True
+6139,TX,Titus County,1,Coal,True
+6139,TX,Titus County,3,Coal,True
+6139,TX,Titus County,2,Coal,True
+6146,TX,Rusk County,1,Coal,True
+6146,TX,Rusk County,2,Coal,True
+6146,TX,Rusk County,3,Coal,True
+6147,TX,Titus County,2,Coal,True
+6147,TX,Titus County,1,Coal,True
+6147,TX,Titus County,3,Coal,True
+6178,TX,Goliad County,1,Coal,True
+6179,TX,Fayette County,1,Coal,True
+6179,TX,Fayette County,3,Coal,True
+6179,TX,Fayette County,2,Coal,True
+6180,TX,Robertson County,1,Coal,True
+6180,TX,Robertson County,2,Coal,True
+6181,TX,Bexar County,2,Coal,True
+6181,TX,Bexar County,1,Coal,True
+6183,TX,Atascosa County,SM-1,Coal,True
+6193,TX,Potter County,062B,Coal,True
+6193,TX,Potter County,063B,Coal,True
+6193,TX,Potter County,061B,Coal,True
+6194,TX,Lamb County,171B,Coal,True
+6194,TX,Lamb County,172B,Coal,True
+6243,TX,Brazos County,2,Pipeline Natural Gas,True
+6243,TX,Brazos County,1,Pipeline Natural Gas,True
+6243,TX,Brazos County,3,Pipeline Natural Gas,True
+6648,TX,Milam County,4,Coal,True
+7030,TX,Robertson County,U2,Coal,True
+7030,TX,Robertson County,U1,Coal,True
+7097,TX,Bexar County,**1,Coal,True
+7097,TX,Bexar County,**2,Coal,True
+7325,TX,Harris County,SJS2,Pipeline Natural Gas,True
+7325,TX,Harris County,SJS1,Pipeline Natural Gas,True
+7762,TX,Hidalgo County,HRSG2,Pipeline Natural Gas,True
+7762,TX,Hidalgo County,HRSG1,Pipeline Natural Gas,True
+7900,TX,Travis County,SH5,Pipeline Natural Gas,True
+7900,TX,Travis County,SH7,Pipeline Natural Gas,True
+7900,TX,Travis County,SH3,Pipeline Natural Gas,True
+7900,TX,Travis County,SH4,Pipeline Natural Gas,True
+7900,TX,Travis County,SH1,Pipeline Natural Gas,True
+7900,TX,Travis County,SH2,Pipeline Natural Gas,True
+7900,TX,Travis County,SH6,Pipeline Natural Gas,True
+7902,TX,Harrison County,1,Coal,True
+8063,TX,Hood County,1,Pipeline Natural Gas,True
+8063,TX,Hood County,CT1,Pipeline Natural Gas,True
+8063,TX,Hood County,CT2,Pipeline Natural Gas,True
+8063,TX,Hood County,CT4,Pipeline Natural Gas,True
+8063,TX,Hood County,CT3,Pipeline Natural Gas,True
+10298,TX,Harris County,CG801,Pipeline Natural Gas,True
+10298,TX,Harris County,CG803,Pipeline Natural Gas,True
+10298,TX,Harris County,CG802,Pipeline Natural Gas,True
+10298,TX,Harris County,CG804,Pipeline Natural Gas,True
+10670,TX,Harris County,01001,Petroleum Coke,False
+10741,TX,Harris County,G104,NONE,False
+10741,TX,Harris County,G102,NONE,False
+10741,TX,Harris County,G103,NONE,False
+50109,TX,Lamar County,HRSG2,Pipeline Natural Gas,True
+50109,TX,Lamar County,HRSG1,Pipeline Natural Gas,True
+50137,TX,Wharton County,1,Pipeline Natural Gas,True
+50615,TX,Nolan County,GT02,Pipeline Natural Gas,True
+50615,TX,Nolan County,GT03,Pipeline Natural Gas,True
+50615,TX,Nolan County,GT01,Pipeline Natural Gas,True
+50625,TX,Jefferson County,61STK2,Natural Gas,True
+50625,TX,Jefferson County,61STK1,Natural Gas,True
+50625,TX,Jefferson County,61STK3,Natural Gas,True
+50815,TX,Harris County,ENG201,Pipeline Natural Gas,True
+50815,TX,Harris County,ENG501,Pipeline Natural Gas,True
+50815,TX,Harris County,ENG301,Pipeline Natural Gas,True
+50815,TX,Harris County,ENG101,Pipeline Natural Gas,True
+50815,TX,Harris County,ENG401,Pipeline Natural Gas,True
+50815,TX,Harris County,ENG601,Pipeline Natural Gas,True
+52071,TX,Milam County,5B,Coal,True
+52071,TX,Milam County,5A,Coal,True
+52088,TX,Galveston County,GT-A,Pipeline Natural Gas,True
+52088,TX,Galveston County,GT-C,Pipeline Natural Gas,True
+52088,TX,Galveston County,GT-B,Pipeline Natural Gas,True
+52176,TX,Howard County,2,Pipeline Natural Gas,True
+52176,TX,Howard County,1,Pipeline Natural Gas,True
+54817,TX,Johnson County,EAST,Pipeline Natural Gas,True
+55015,TX,Brazoria County,4,Pipeline Natural Gas,True
+55015,TX,Brazoria County,2,Pipeline Natural Gas,True
+55015,TX,Brazoria County,1,Pipeline Natural Gas,True
+55015,TX,Brazoria County,3,Pipeline Natural Gas,True
+55047,TX,Harris County,CG-3,Pipeline Natural Gas,True
+55047,TX,Harris County,CG-1,Pipeline Natural Gas,True
+55047,TX,Harris County,CG-2,Pipeline Natural Gas,True
+55062,TX,Grimes County,3,Pipeline Natural Gas,True
+55062,TX,Grimes County,1,Pipeline Natural Gas,True
+55062,TX,Grimes County,2,Pipeline Natural Gas,True
+55064,TX,Hutchinson County,002,Pipeline Natural Gas,True
+55064,TX,Hutchinson County,001,Pipeline Natural Gas,True
+55065,TX,Yoakum County,2,Pipeline Natural Gas,True
+55065,TX,Yoakum County,1,Pipeline Natural Gas,True
+55086,TX,San Patricio County,102,Pipeline Natural Gas,True
+55086,TX,San Patricio County,101,Pipeline Natural Gas,True
+55091,TX,Ellis County,STK1,Pipeline Natural Gas,True
+55091,TX,Ellis County,STK2,Pipeline Natural Gas,True
+55091,TX,Ellis County,STK4,Pipeline Natural Gas,True
+55091,TX,Ellis County,STK5,Pipeline Natural Gas,True
+55091,TX,Ellis County,STK6,Pipeline Natural Gas,True
+55091,TX,Ellis County,STK3,Pipeline Natural Gas,True
+55097,TX,Lamar County,1,Pipeline Natural Gas,True
+55097,TX,Lamar County,3,Pipeline Natural Gas,True
+55097,TX,Lamar County,4,Pipeline Natural Gas,True
+55097,TX,Lamar County,2,Pipeline Natural Gas,True
+55098,TX,Hidalgo County,1,Pipeline Natural Gas,False
+55098,TX,Hidalgo County,2,Pipeline Natural Gas,False
+55104,TX,Orange County,SAB-1,Pipeline Natural Gas,True
+55104,TX,Orange County,SAB-2,Pipeline Natural Gas,True
+55120,TX,Orange County,CTG-1,Pipeline Natural Gas,True
+55120,TX,Orange County,CTG-2,Pipeline Natural Gas,True
+55123,TX,Hidalgo County,CTG-1,Pipeline Natural Gas,True
+55123,TX,Hidalgo County,CTG-2,Pipeline Natural Gas,True
+55132,TX,Rusk County,OGTDB1,Pipeline Natural Gas,True
+55132,TX,Rusk County,OGTDB2,Pipeline Natural Gas,True
+55132,TX,Rusk County,OGTDB3,Pipeline Natural Gas,True
+55137,TX,Guadalupe County,CTG-2,Pipeline Natural Gas,True
+55137,TX,Guadalupe County,CTG-3,Pipeline Natural Gas,True
+55137,TX,Guadalupe County,CTG-1,Pipeline Natural Gas,True
+55139,TX,Hood County,CTG1,Pipeline Natural Gas,True
+55139,TX,Hood County,CTG2,Pipeline Natural Gas,True
+55144,TX,Hays County,STK2,Pipeline Natural Gas,True
+55144,TX,Hays County,STK3,Pipeline Natural Gas,True
+55144,TX,Hays County,STK4,Pipeline Natural Gas,True
+55144,TX,Hays County,STK1,Pipeline Natural Gas,True
+55153,TX,Guadalupe County,CTG-3,Pipeline Natural Gas,True
+55153,TX,Guadalupe County,CTG-1,Pipeline Natural Gas,True
+55153,TX,Guadalupe County,CTG-2,Pipeline Natural Gas,True
+55153,TX,Guadalupe County,CTG-4,Pipeline Natural Gas,True
+55154,TX,Bastrop County,1,Pipeline Natural Gas,True
+55154,TX,Bastrop County,2,Pipeline Natural Gas,True
+55168,TX,Bastrop County,CTG-1A,Pipeline Natural Gas,True
+55168,TX,Bastrop County,CTG-1B,Pipeline Natural Gas,True
+55172,TX,Bosque County,GT-1,Pipeline Natural Gas,True
+55172,TX,Bosque County,GT-3,Pipeline Natural Gas,True
+55172,TX,Bosque County,GT-2,Pipeline Natural Gas,True
+55176,TX,Harrison County,1,Pipeline Natural Gas,True
+55176,TX,Harrison County,2,Pipeline Natural Gas,True
+55187,TX,Harris County,CHV2,Pipeline Natural Gas,True
+55187,TX,Harris County,CHV1,Pipeline Natural Gas,True
+55187,TX,Harris County,CHV3,Pipeline Natural Gas,True
+55187,TX,Harris County,CHV4,Pipeline Natural Gas,True
+55206,TX,Nueces County,CU1,Pipeline Natural Gas,True
+55206,TX,Nueces County,CU2,Pipeline Natural Gas,True
+55215,TX,Ector County,GT4,Pipeline Natural Gas,True
+55215,TX,Ector County,GT1,Pipeline Natural Gas,True
+55215,TX,Ector County,GT2,Pipeline Natural Gas,True
+55215,TX,Ector County,GT3,Pipeline Natural Gas,True
+55223,TX,Ellis County,GT-1,Pipeline Natural Gas,True
+55226,TX,Freestone County,GT4,Pipeline Natural Gas,True
+55226,TX,Freestone County,GT1,Pipeline Natural Gas,True
+55226,TX,Freestone County,GT2,Pipeline Natural Gas,True
+55226,TX,Freestone County,GT3,Pipeline Natural Gas,True
+55230,TX,Jack County,CT-3,Pipeline Natural Gas,True
+55230,TX,Jack County,CT-1,Pipeline Natural Gas,True
+55230,TX,Jack County,CT-4,Pipeline Natural Gas,True
+55230,TX,Jack County,CT-2,Pipeline Natural Gas,True
+55299,TX,Harris County,CTG1,Other Gas,True
+55299,TX,Harris County,CTG3,Pipeline Natural Gas,True
+55299,TX,Harris County,CTG2,Other Gas,True
+55320,TX,Wise County,GT-1,Pipeline Natural Gas,True
+55320,TX,Wise County,GT-2,Pipeline Natural Gas,True
+55327,TX,Chambers County,CTG-1,Pipeline Natural Gas,True
+55327,TX,Chambers County,CTG-2,Pipeline Natural Gas,True
+55327,TX,Chambers County,CTG-3,Pipeline Natural Gas,True
+55357,TX,Fort Bend County,CTG1,Pipeline Natural Gas,True
+55357,TX,Fort Bend County,CTG2,Pipeline Natural Gas,True
+55358,TX,Newton County,CT3,Pipeline Natural Gas,True
+55358,TX,Newton County,CT4,Pipeline Natural Gas,True
+55358,TX,Newton County,CT1,Pipeline Natural Gas,True
+55358,TX,Newton County,CT2,Pipeline Natural Gas,True
+55365,TX,Harris County,GT-2,Pipeline Natural Gas,True
+55365,TX,Harris County,GT-3,Pipeline Natural Gas,True
+55365,TX,Harris County,GT-4,Pipeline Natural Gas,True
+55365,TX,Harris County,GT-1,Pipeline Natural Gas,True
+55464,TX,Harris County,CTG4,Pipeline Natural Gas,True
+55464,TX,Harris County,CTG5,Pipeline Natural Gas,True
+55464,TX,Harris County,CTG2,Pipeline Natural Gas,True
+55464,TX,Harris County,CTG1,Pipeline Natural Gas,True
+55464,TX,Harris County,CTG3,Pipeline Natural Gas,True
+55470,TX,Galveston County,EPN801,Pipeline Natural Gas,True
+55470,TX,Galveston County,EPN803,Pipeline Natural Gas,True
+55470,TX,Galveston County,EPN802,Pipeline Natural Gas,True
+55480,TX,Kaufman County,U6,Pipeline Natural Gas,True
+55480,TX,Kaufman County,U1,Pipeline Natural Gas,True
+55480,TX,Kaufman County,U4,Pipeline Natural Gas,True
+55480,TX,Kaufman County,U5,Pipeline Natural Gas,True
+55480,TX,Kaufman County,U2,Pipeline Natural Gas,True
+55480,TX,Kaufman County,U3,Pipeline Natural Gas,True
+55664,TX,Harrison County,GT-1,Pipeline Natural Gas,True
+55664,TX,Harrison County,GT-2,Pipeline Natural Gas,True
+55708,TX,Nacogdoches County,BFB-1,Wood,False
+56326,TX,Yoakum County,GEN1,Pipeline Natural Gas,True
+56326,TX,Yoakum County,GEN2,Pipeline Natural Gas,True
+56326,TX,Yoakum County,GEN3,Pipeline Natural Gas,True
+56349,TX,Ector County,CT2B,Pipeline Natural Gas,True
+56349,TX,Ector County,CT1B,Pipeline Natural Gas,True
+56349,TX,Ector County,CT1A,Pipeline Natural Gas,True
+56349,TX,Ector County,CT2A,Pipeline Natural Gas,True
+56350,TX,Wharton County,CT1A,Pipeline Natural Gas,True
+56350,TX,Wharton County,CT1B,Pipeline Natural Gas,True
+56350,TX,Wharton County,CT2B,Pipeline Natural Gas,True
+56350,TX,Wharton County,CT2A,Pipeline Natural Gas,True
+56603,TX,San Jacinto County,SJCCT2,Pipeline Natural Gas,True
+56603,TX,San Jacinto County,SJCCT1,Pipeline Natural Gas,True
+56604,TX,Hardin County,HCCT2,Pipeline Natural Gas,True
+56604,TX,Hardin County,HCCT1,Pipeline Natural Gas,True
+56611,TX,McLennan County,S01,Coal,True
+56674,TX,Fayette County,2,Pipeline Natural Gas,True
+56674,TX,Fayette County,1,Pipeline Natural Gas,True
+56674,TX,Fayette County,3,Pipeline Natural Gas,True
+56674,TX,Fayette County,4,Pipeline Natural Gas,True
+56806,TX,Chambers County,CBY42,Pipeline Natural Gas,True
+56806,TX,Chambers County,CBY41,Pipeline Natural Gas,True
+57865,TX,Hale County,3,Pipeline Natural Gas,True
+57865,TX,Hale County,2,Pipeline Natural Gas,True
+57865,TX,Hale County,1,Pipeline Natural Gas,True
+58001,TX,Bell County,CTG3,Pipeline Natural Gas,True
+58001,TX,Bell County,CTG4,Pipeline Natural Gas,True
+58001,TX,Bell County,CTG2,Pipeline Natural Gas,True
+58001,TX,Bell County,CTG1,Pipeline Natural Gas,True
+58005,TX,Grayson County,CTG2,Pipeline Natural Gas,True
+58005,TX,Grayson County,CTG1,Pipeline Natural Gas,True
+58378,TX,Fort Bend County,CTHRSG,Pipeline Natural Gas,True
+58471,TX,Ector County,CT-1,Natural Gas,True
+58471,TX,Ector County,CT-2,Natural Gas,True
+58562,TX,El Paso County,GT-2,Pipeline Natural Gas,True
+58562,TX,El Paso County,GT-4,Pipeline Natural Gas,True
+58562,TX,El Paso County,GT-1,Pipeline Natural Gas,True
+58562,TX,El Paso County,GT-3,Pipeline Natural Gas,True
+59812,TX,Hood County,CGT5,Pipeline Natural Gas,True
+59812,TX,Hood County,CGT4,Pipeline Natural Gas,True
+60122,TX,Wharton County,CT7,Pipeline Natural Gas,True
+60122,TX,Wharton County,CT8,Pipeline Natural Gas,True
+60264,TX,Galveston County,BCGT3,Pipeline Natural Gas,True
+60264,TX,Galveston County,BCGT4,Pipeline Natural Gas,True
+60264,TX,Galveston County,BCGT5,Pipeline Natural Gas,True
+60264,TX,Galveston County,BCGT2,Pipeline Natural Gas,True
+60264,TX,Galveston County,BCGT1,Pipeline Natural Gas,True
+60264,TX,Galveston County,BCGT6,Pipeline Natural Gas,True
+60459,TX,Calhoun County,CT1,Pipeline Natural Gas,True
+60459,TX,Calhoun County,CT2,Pipeline Natural Gas,True
+60460,TX,Harris County,CT1,Pipeline Natural Gas,True
+60460,TX,Harris County,CT2,Pipeline Natural Gas,True
+60468,TX,Harris County,CT-1,Pipeline Natural Gas,True
+60910,TX,Harris County,1GT,Pipeline Natural Gas,False
+60925,TX,Montgomery County,CT2,Pipeline Natural Gas,False
+60925,TX,Montgomery County,CT1,Pipeline Natural Gas,False
+61241,TX,Victoria County,CT1,Pipeline Natural Gas,False
+61241,TX,Victoria County,CT2,Pipeline Natural Gas,False
+61242,TX,Victoria County,CT1,Pipeline Natural Gas,False
+61242,TX,Victoria County,CT2,Pipeline Natural Gas,False
+61966,TX,Victoria County,CT1,Pipeline Natural Gas,False
+61966,TX,Victoria County,CT2,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-1,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-7,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-2,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-5,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-6,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-3,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-4,Pipeline Natural Gas,False
+63335,TX,Harris County,CT-8,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-3,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-8,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-2,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-5,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-4,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-1,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-6,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-10,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-7,Pipeline Natural Gas,False
+63688,TX,Galveston County,CT-9,Pipeline Natural Gas,False
