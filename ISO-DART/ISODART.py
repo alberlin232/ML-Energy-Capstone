@@ -9,7 +9,8 @@ if dataType == 1:
     iso = int(input('\nWhich ISO you want data from? (Answer 1, 2, or 3)\n'
                     '(1) California Independent system Operator (CAISO)\n'
                     '(2) Midcontinent Independent System Operator (MISO)\n'
-                    '(3) New York Independent System Operator (NYISO)\n'))
+                    '(3) New York Independent System Operator (NYISO)\n'
+                    '(4) Electric Reliability Council of Texas (ERCOT)\n'))
 
     if iso == 1:
         exec(open("mainCAISO.py").read())
