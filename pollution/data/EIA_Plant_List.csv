@@ -1,674 +1,1137 @@
-name,plant_id,in_cross
-Copper,9,True
-Oklaunion,127,True
-Limestone,298,True
-Canyon,791,False
-Lewisville,794,False
-Ray,796,False
-E,3436,False
-Eagle,3437,False
-J,3438,False
-Laredo,3439,True
-Lon,3440,False
-Nueces,3441,True
-La,3442,False
-Victoria,3443,True
-Lake,3452,True
-Mountain,3453,True
-North,3454,False
-Parkdale,3455,False
-Newman,3456,True
-Lewis,3457,True
-Sabine,3459,True
-Cedar,3460,True
-Deepwater,3461,False
-Greens,3464,True
-Hiram,3465,False
-P,3466,False
-Sam,3468,True
-T,3469,True
-W,3470,True
-Webster,3471,False
-Knox,3476,True
-Lone,3477,True
-Wilkes,3478,True
-Jones,3482,True
-Moore,3483,True
-Nichols,3484,True
-Plant,3485,True
-Riverview,3487,False
-Eagle,3489,True
-Graham,3490,True
-Handley,3491,True
-Morgan,3492,True
-North,3493,False
-Permian,3494,True
-Big,3497,True
-Collin,3500,False
-Lake,3502,True
-River,3503,False
-Stryker,3504,True
-Tradinghouse,3506,False
-Trinidad,3507,True
-Valley,3508,False
-Abilene,3517,False
-Fort,3520,False
-Lake,3521,False
-Oak,3523,False
-Paint,3524,False
-Presidio,3525,False
-Rio,3526,False
-San,3527,False
-Decker,3548,True
-Holly,3549,False
-Morris,3557,False
-Brownfield,3558,False
-Silas,3559,True
-Bryan,3561,True
-Coleman,3566,False
-C,3574,True
-Ray,3576,True
-Abbott,3581,False
-Dunlap,3582,False
-H,3583,False
-H,3584,False
-Nolte,3585,False
-TP,3586,False
-Austin,3594,False
-Buchanan,3595,False
-Granite,3597,False
-Inks,3598,False
-Marble,3599,False
-Marshall,3600,False
-Sim,3601,True
-Ty,3602,True
-J,3604,True
-Robstown,3608,False
-Leon,3609,True
-Mission,3610,False
-O,3611,True
-V,3612,True
-W,3613,True
-Vernon,3623,False
-Weatherford,3624,False
-North,3627,False
-R,3628,True
-Pearsall,3630,False
-Sam,3631,True
-Powerlane,4195,True
-Spencer,4266,True
-Thomas,4937,True
-Fort,4938,False
-Barney,4939,True
-Amistad,6128,False
-Gibbons,6136,True
-Welsh,6139,True
-Comanche,6145,False
-Martin,6146,True
-Monticello,6147,True
-Coleto,6178,True
-Fayette,6179,True
-Oak,6180,True
-J,6181,True
-San,6183,True
-Harrington,6193,True
-Tolk,6194,True
-Dansby,6243,True
-South,6251,False
-Falcon,6410,False
-Sam,6413,False
-Whitney,6414,False
-Denison,6416,False
-Toledo,6595,False
-Sandow,6648,True
-Major,7030,True
-J,7097,True
-Brandon,7131,False
-Robert,7200,False
-San,7325,True
-Gonzales,7394,False
-Arthur,7512,True
-Celanese,7678,False
-Fort,7724,False
-Sand,7900,True
-Pirkey,7902,True
-DeCordova,8063,True
-Engineered,10072,False
-Fort,10136,False
-Power,10154,False
-Seadrift,10167,False
-Central,10184,False
-Engineered,10187,False
-Valero,10203,False
-Ticona,10243,False
-Enterprise,10261,False
-Bayou,10298,True
-Baylor,10317,False
-Ascend,10418,False
-International,10425,False
-ExxonMobil,10436,False
-Formosa,10554,False
-Port,10568,False
-Big,10569,False
-Pasadena,10638,False
-AES,10670,False
-ExxonMobil,10692,False
-Clear,10741,False
-Sabine,10789,True
-Victoria,10790,False
-McKee,50009,False
-Corpus,50026,False
-Houston,50043,False
-Rice,50054,False
-Borger,50067,False
-WestRock,50101,False
-Paris,50109,True
-Hal,50118,False
-Valero,50121,False
-Signal,50127,False
-Newgulf,50137,True
-Snider,50141,False
-Union,50150,False
-Texas,50153,False
-Texas,50229,False
-Tenet,50241,False
-Abitibi,50249,False
-CalTex,50253,False
-Southwest,50263,False
-Shell,50304,False
-BP,50404,False
-Deer,50471,False
-Corpus,50475,False
-DFW,50569,False
-TXU,50615,True
-ExxonMobil,50625,True
-Optim,50815,True
-Motiva,50973,False
-Valero,52012,False
-Valero,52013,False
-Houston,52065,False
-Point,52069,False
-Sandow,52071,True
-Texas,52088,True
-Valero,52108,False
-Freeport,52120,False
-Wasson,52122,False
-Power,52131,False
-Power,52132,False
-C,52176,True
-International,54097,False
-Rock,54248,False
-S&L,54253,False
-Sherwin,54291,False
-Goodyear,54321,False
-Westhollow,54330,False
-East,54332,False
-Rio,54338,False
-Works,54364,False
-North,54443,False
-Benedum,54458,False
-Midkiff,54459,False
-Village,54520,False
-University,54606,False
-University,54607,False
-Phelps,54628,False
-JCO,54637,False
-Oyster,54676,False
-Port,54748,False
-Johnson,54817,True
-Austin,54940,False
-East,54943,False
-Fullerton,54948,False
-ExxonMobil,54962,False
-West,54966,False
-Norit,54972,False
-Morton,54976,False
-Big,54979,False
-Small,55000,False
-Sweeny,55015,True
-Yates,55025,False
-Pasadena,55047,True
-Jameson,55052,False
-Bridgeport,55053,False
-Tenaska,55062,True
-Black,55064,True
-Mustang,55065,True
-Gregory,55086,True
-Midlothian,55091,True
-Lamar,55097,True
-Frontera,55098,False
-Sabine,55104,True
-SRW,55120,False
-NAFTA,55122,False
-Magic,55123,True
-Tenaska,55132,True
-Rio,55137,True
-Wolf,55139,True
-Hays,55144,True
-Guadalupe,55153,True
-Lost,55154,True
-Bastrop,55168,True
-Bosque,55172,True
-Eastman,55176,True
-Channelview,55187,True
-Corpus,55206,True
-Odessa-Ector,55215,True
-Ennis,55223,True
-Freestone,55226,True
-Jack,55230,True
-Channel,55299,True
-Air,55309,False
-BASF,55311,False
-Ingleside,55313,False
-Wise,55320,True
-Baytown,55327,True
-Jack,55357,True
-Cottonwood,55358,True
-Exelon,55365,True
-West,55367,False
-State,55390,False
-Delaware,55399,False
-Deer,55464,True
-Green,55470,True
-Forney,55480,True
-Atascosita,55526,False
-Hoover,55536,False
-Hidalgo,55545,True
-Baytown,55551,False
-Bluebonnet,55552,False
-Coastal,55554,False
-Conroe,55555,False
-Security,55556,False
-Hueco,55578,False
-Llano,55579,False
-King,55581,False
-GRS,55588,False
-Harrison,55664,True
-Nacogdoches,55708,False
-NWP,55747,False
-Woodward,55795,False
-Woodward,55796,False
-Trent,55968,False
-Desert,55992,False
-Brazos,56111,False
-Tessman,56113,False
-Freeport,56152,False
-Sweetwater,56211,False
-Sweetwater,56212,False
-Aeolus,56225,False
-EG178,56233,False
-Buffalo,56240,False
-Callahan,56270,False
-Horse,56291,False
-Sweetwater,56311,False
-Mustang,56326,True
-Sweetwater,56337,False
-Quail,56349,True
-Colorado,56350,True
-Sweetwater,56372,False
-Domain,56373,False
-Robert,56374,False
-Forest,56394,False
-Mesquite,56395,False
-Westex,56402,False
-Wildorado,56432,False
-Post,56457,False
-Sand,56479,False
-Post,56483,False
-Buffalo,56484,False
-Scurry,56506,False
-Austin,56524,False
-Skyline,56528,False
-EXC,56557,False
-EXC,56558,False
-EXC,56559,False
-Porterhouse,56560,False
-Filet,56561,False
-Tenderloin,56562,False
-Champion,56592,False
-Roscoe,56593,False
-Snyder,56602,False
-San,56603,True
-Hardin,56604,True
-Sandy,56611,True
-Buffalo,56638,False
-Stanton,56644,False
-Majestic,56648,False
-South,56649,False
-Pattern,56661,False
-Whirlwind,56673,False
-Winchester,56674,True
-CFB,56708,False
-Goat,56754,False
-Capricorn,56763,False
-Silver,56771,False
-McAdoo,56773,False
-Turkey,56774,False
-Scurry,56775,False
-Gunsight,56776,False
-Sherbino,56779,False
-Elbow,56783,False
-Penascal,56795,False
-Cedar,56806,True
-Hackberry,56823,False
-High,56834,False
-Ribeye,56835,False
-T-Bone,56836,False
-Tri-Tip,56837,False
-Brisket,56838,False
-Flat,56839,False
-Covel,56864,False
-Oak,56881,False
-Woodlands,56882,False
-Great,56905,False
-Panther,56920,False
-Panther,56921,False
-Aspen,56931,False
-Bull,56956,False
-Ocotillo,56959,False
-Notrees,56961,False
-Panther,56979,False
-Pyron,56981,False
-Papalote,56983,False
-Inadale,56984,False
-Westside,57020,False
-Denton,57071,False
-Penascal,57095,False
-Langford,57153,False
-Barton,57156,False
-Farmers,57165,False
-Mesquite,57167,False
-Blue,57197,False
-Papalote,57212,False
-Lubbock,57259,False
-Cedro,57260,False
-Little,57263,False
-Little,57264,False
-Loraine,57303,False
-Mont,57322,False
-Sunray,57326,False
-Sherbino,57415,False
-Ralls,57474,False
-TECO,57504,False
-McKinney,57508,False
-DeWind,57517,False
-Trinity,57520,False
-Hidalgo,57617,False
-East,57659,False
-Webberville,57699,False
-Suzlon,57741,False
-Los,57751,False
-Los,57752,False
-Magic,57802,False
-Antelope,57865,True
-Golden,57866,False
-Trinity,57877,False
-Fort,57878,False
-Baffin,57927,False
-Woodall,57952,False
-Spinning,57973,False
-Bobcat,57974,False
-Senate,57981,False
-Stephens,57983,False
-Anacacho,58000,False
-Panda,58001,True
-Panda,58005,True
-SunE,58009,False
-IKEA,58013,False
-Whitetail,58021,False
-SunE,58027,False
-BayWa,58048,False
-SunE,58068,False
-PRSI,58069,False
-Wolf,58080,False
-Central,58151,False
-Cirrus,58162,False
-Pattern,58242,False
-Goldthwaite,58321,False
-Majestic,58363,False
-Blue,58372,False
-W.A.,58378,True
-Pantex,58404,False
-Harbor,58424,False
-Ector,58471,True
-Bryan,58488,False
-OCI,58537,False
-Montana,58562,True
-Grandview,58596,False
-Patriot,58614,False
-RC,58645,False
-Route,58681,False
-Barilla,58710,False
-OCI,58716,False
-OCI,58717,False
-Pattern,58720,False
-Miami,58765,False
-Wake,58766,False
-Longhorn,58772,False
-TX,58773,False
-Spinning,58774,False
-Spinning,58775,False
-Port,58823,False
-Elk,58835,False
-Keechi,58838,False
-Rentech,58870,False
-Woodville,58944,False
-Ameresco,58946,False
-Mariah,59005,False
-Shannon,59034,False
-Stella,59063,False
-Bruennings,59066,False
-Colbeck's,59068,False
-Cameron,59118,False
-Freeport,59145,False
-Chapman,59193,False
-OCI,59204,False
-OCI,59205,False
-Alamo,59206,False
-OCI,59207,False
-Windthorst-2,59238,False
-Lorenzo,59244,False
-Fluvanna,59245,False
-Hale,59247,False
-Los,59320,False
-Los,59321,False
-Mesquite,59332,False
-Helios,59378,False
-The,59381,False
-South,59384,False
-Red,59391,False
-Newman,59407,False
-Pleasant,59417,False
-Logans,59442,False
-Palo,59475,False
-TX,59621,False
-Nelson,59649,False
-Sendero,59654,False
-San,59712,False
-Green,59732,False
-Green,59733,False
-Briscoe,59734,False
-Wolf,59812,True
-Sky,59938,False
-Rattlesnake,59943,False
-Bearkat,59972,False
-RE,59994,False
-Buckthorn,60044,False
-Los,60059,False
-South,60087,False
-Javelina,60104,False
-Colorado,60122,True
-Castle,60123,False
-Cotton,60210,False
-Rocksprings,60217,False
-Bacliff,60264,True
-Blue,60270,False
-Montana,60300,False
-Electra,60338,False
-Horse,60339,False
-Old,60366,False
-Lamesa,60372,False
-Bethel,60414,False
-CoServ,60427,False
-East,60436,False
-Port,60459,True
-Chamon,60460,True
-Friendswood,60468,True
-CPS,60472,False
-Tyler,60502,False
-ETT,60506,False
-Upton,60581,False
-Javelina,60645,False
-Rabbit,60649,False
-Salt,60657,False
-Pearl,60682,False
-Blue,60690,False
-Rattlesnake,60743,False
-Phantom,60774,False
-Bluebell,60789,False
-Astra,60856,False
-Willow,60901,False
-Dermott,60902,False
-NET,60910,False
-Montgomery,60925,False
-Buckthorn,60983,False
-Santa,60987,False
-SolaireHolman,60989,False
-Cactus,61001,False
-Heart,61032,False
-Bandera,61205,False
-Flat,61212,False
-Victoria,61241,False
-Victoria,61242,False
-IKEA,61309,False
-Karankawa,61343,False
-RE,61346,False
-Arlington,61355,False
-NRG,61362,False
-Midway,61368,False
-Walnut,61370,False
-Foard,61402,False
-Highway,61409,False
-Whitesboro,61410,False
-Whitesboro,61411,False
-Gopher,61417,False
-E-Volve,61493,False
-Marlin,61513,False
-North,61514,False
-Whitewright,61524,False
-Leon,61532,False
-UL,61589,False
-West,61625,False
-Denton,61643,False
-Wildcat,61674,False
-Lamesa,61697,False
-PowerFin,61700,False
-Kingsberry,61741,False
-Palmas,61773,False
-Midway,61776,False
-Live,61782,False
-Chisum,61810,False
-PYCO,61848,False
-Rio,61865,False
-Bovine,61867,False
-Bronson,61868,False
-Sterling,61871,False
-Lampwick,61872,False
-Yellow,61873,False
-Eddy,61874,False
-Cascade,61875,False
-Fort,61887,False
-Toyota,61895,False
-Phoebe,61906,False
-Galloway,61920,False
-Tahoka,61921,False
-Holstein,61962,False
-Torrecillas,61969,False
-Blue,61970,False
-Santa,62038,False
-Rambler,62141,False
-Amadeus,62142,False
-IKEA,62152,False
-Reloj,62207,False
-Seymour,62227,False
-Misae,62249,False
-Mesteno,62258,False
-Ranchero,62259,False
-Lockett,62356,False
-Griffin,62411,False
-West,62415,False
-Cranell,62416,False
-Peyton,62417,False
-Lapetus,62448,False
-Taygete,62483,False
-G.S.E.,62505,False
-"Roadrunner,",62561,False
-High,62562,False
-Blue,62566,False
-Mesquite,62587,False
-Commerce,62609,False
-Commerce,62610,False
-Hidalgo,62618,False
-Sage,62620,False
-Jumbo,62630,False
-GE-Lubbock,62642,False
-Wildcat,62715,False
-Prospect,62753,False
-Prospero,62755,False
-NASA,62762,False
-El,62765,False
-Coniglio,62772,False
-Rippey,62773,False
-Kellam,62774,False
-Greasewood,62804,False
-BMP,62809,False
-Maryneal,62836,False
-ENGIE,62845,False
-West,62855,False
-Raymond,62909,False
-Oberon,62932,False
-Oberon,62933,False
-Griffin,62953,False
-Mars,63027,False
-Canadian,63030,False
-Prairie,63100,False
-Las,63101,False
-TPE,63180,False
-Aviator,63209,False
-Impact,63222,False
-2W,63255,False
-Wagyu,63273,False
-Titan,63320,False
-Juno,63328,False
-Aragorn,63329,False
-HO,63335,False
-Bluebell,63351,False
-Oxy,63388,False
-CED,63519,False
-La,63624,False
-Coyote,63655,False
-Topaz,63688,False
-Chisholm,63737,False
-Las,63739,False
-Elm,63764,False
-Briar,63769,False
-Lily,63892,False
-Azure,63905,False
-ANSON,64026,False
-CatanSolar,64079,False
-Priddy,64165,False
-Elara,64204,False
-Alexis,64227,False
-Alvin,64293,False
-Odessa,64294,False
-Angleton,64295,False
-Brazoria,64296,False
-Heights,64297,False
-Magnolia,64298,False
-Bat,64312,False
-North,64317,False
-Prospero,64325,False
-Gambit,64528,False
-Corazon,64538,False
-White,64710,False
-Hubbard,65048,False
+name,plant_id,Plant Code,Generator ID,Energy Source 1,match
+Copper,9,9,1,Natural Gas,True
+Limestone,298,298,1,Coal,True
+Limestone,298,298,2,Coal,True
+Canyon,791,791,1,Hydro,False
+Canyon,791,791,2,Hydro,False
+Lewisville,794,794,1,Hydro,False
+Eagle,3437,3437,1,Hydro,False
+Eagle,3437,3437,2,Hydro,False
+Eagle,3437,3437,3,Hydro,False
+Laredo,3439,3439,4,Natural Gas,True
+Laredo,3439,3439,5,Natural Gas,True
+Nueces,3441,3441,7,Natural Gas,True
+Nueces,3441,3441,8,Natural Gas,True
+Nueces,3441,3441,9,Natural Gas,True
+Victoria,3443,3443,5,Natural Gas,True
+Victoria,3443,3443,7,Natural Gas,True
+Lake,3452,3452,1,Natural Gas,True
+Lake,3452,3452,2,Natural Gas,True
+Mountain,3453,3453,6,Natural Gas,True
+Mountain,3453,3453,7,Natural Gas,True
+Mountain,3453,3453,8,Natural Gas,True
+Newman,3456,3456,1,Natural Gas,True
+Newman,3456,3456,2,Natural Gas,True
+Newman,3456,3456,3,Natural Gas,True
+Newman,3456,3456,4,Natural Gas,True
+Newman,3456,3456,5CA1,Natural Gas,True
+Newman,3456,3456,5CT1,Natural Gas,True
+Newman,3456,3456,5CT2,Natural Gas,True
+Newman,3456,3456,CT1,Natural Gas,True
+Newman,3456,3456,CT2,Natural Gas,True
+Lewis,3457,3457,1,Natural Gas,True
+Lewis,3457,3457,2,Natural Gas,True
+Sabine,3459,3459,1,Natural Gas,True
+Sabine,3459,3459,3,Natural Gas,True
+Sabine,3459,3459,4,Natural Gas,True
+Sabine,3459,3459,5,Natural Gas,True
+Cedar,3460,3460,1,Natural Gas,True
+Cedar,3460,3460,2,Natural Gas,True
+Greens,3464,3464,73,Natural Gas,True
+Greens,3464,3464,74,Natural Gas,True
+Greens,3464,3464,81,Natural Gas,True
+Greens,3464,3464,82,Natural Gas,True
+Greens,3464,3464,83,Natural Gas,True
+Greens,3464,3464,84,Natural Gas,True
+T,3469,3469,3,Natural Gas,True
+T,3469,3469,31,Natural Gas,True
+T,3469,3469,32,Natural Gas,True
+T,3469,3469,33,Natural Gas,True
+T,3469,3469,34,Natural Gas,True
+T,3469,3469,4,Natural Gas,True
+T,3469,3469,41,Natural Gas,True
+T,3469,3469,42,Natural Gas,True
+T,3469,3469,43,Natural Gas,True
+T,3469,3469,44,Natural Gas,True
+T,3469,3469,51,Natural Gas,True
+T,3469,3469,52,Natural Gas,True
+T,3469,3469,53,Natural Gas,True
+T,3469,3469,54,Natural Gas,True
+T,3469,3469,55,Natural Gas,True
+T,3469,3469,56,Natural Gas,True
+T,3469,3469,GT1,Natural Gas,False
+W,3470,3470,1,Natural Gas,True
+W,3470,3470,2,Natural Gas,True
+W,3470,3470,3,Natural Gas,True
+W,3470,3470,4,Natural Gas,True
+W,3470,3470,5,Coal,True
+W,3470,3470,6,Coal,True
+W,3470,3470,7,Coal,True
+W,3470,3470,8,Coal,True
+W,3470,3470,GT1,Natural Gas,False
+Knox,3476,3476,5,Natural Gas,True
+Wilkes,3478,3478,1,Natural Gas,True
+Wilkes,3478,3478,2,Natural Gas,True
+Wilkes,3478,3478,3,Natural Gas,True
+Jones,3482,3482,1,Natural Gas,True
+Jones,3482,3482,2,Natural Gas,True
+Jones,3482,3482,3,Natural Gas,True
+Jones,3482,3482,4,Natural Gas,True
+Nichols,3484,3484,1,Natural Gas,True
+Nichols,3484,3484,2,Natural Gas,True
+Nichols,3484,3484,3,Natural Gas,True
+Plant,3485,3485,1,Natural Gas,True
+Plant,3485,3485,2,Natural Gas,True
+Plant,3485,3485,3,Natural Gas,True
+Plant,3485,3485,4,Natural Gas,True
+Graham,3490,3490,1,Natural Gas,True
+Graham,3490,3490,2,Natural Gas,True
+Handley,3491,3491,3,Natural Gas,True
+Handley,3491,3491,4,Natural Gas,True
+Handley,3491,3491,5,Natural Gas,True
+Morgan,3492,3492,CT1,Natural Gas,True
+Morgan,3492,3492,CT2,Natural Gas,True
+Morgan,3492,3492,CT3,Natural Gas,True
+Morgan,3492,3492,CT4,Natural Gas,True
+Morgan,3492,3492,CT5,Natural Gas,True
+Morgan,3492,3492,CT6,Natural Gas,True
+Permian,3494,3494,CT1,Natural Gas,True
+Permian,3494,3494,CT2,Natural Gas,True
+Permian,3494,3494,CT3,Natural Gas,True
+Permian,3494,3494,CT4,Natural Gas,True
+Permian,3494,3494,CT5,Natural Gas,True
+Stryker,3504,3504,D1,Petroleum,False
+Stryker,3504,3504,D2,Petroleum,False
+Stryker,3504,3504,D3,Petroleum,False
+Stryker,3504,3504,D4,Petroleum,False
+Stryker,3504,3504,D5,Petroleum,False
+Stryker,3504,3504,ST1,Natural Gas,True
+Stryker,3504,3504,ST2,Natural Gas,True
+Trinidad,3507,3507,6,Natural Gas,True
+Trinidad,3507,3507,D1,Petroleum,False
+Trinidad,3507,3507,D2,Petroleum,False
+Decker,3548,3548,2,Natural Gas,True
+Decker,3548,3548,GT1,Natural Gas,True
+Decker,3548,3548,GT2,Natural Gas,True
+Decker,3548,3548,GT3,Natural Gas,True
+Decker,3548,3548,GT4,Natural Gas,True
+Silas,3559,3559,10,Natural Gas,True
+Silas,3559,3559,6,Natural Gas,True
+Silas,3559,3559,9,Natural Gas,True
+Silas,3559,3559,DG-3a,Petroleum,False
+Silas,3559,3559,DG-3b,Petroleum,False
+Silas,3559,3559,DG-4,Petroleum,False
+Silas,3559,3559,DG-6a,Petroleum,False
+Silas,3559,3559,DG-6b,Petroleum,False
+Bryan,3561,3561,7,Natural Gas,False
+Ray,3576,3576,1,Natural Gas,True
+Ray,3576,3576,2,Natural Gas,True
+Ray,3576,3576,3,Natural Gas,True
+Ray,3576,3576,4,Natural Gas,True
+Abbott,3581,3581,1,Hydro,False
+Abbott,3581,3581,2,Hydro,False
+Dunlap,3582,3582,1,Hydro,False
+Dunlap,3582,3582,2,Hydro,False
+H,3583,3583,1,Hydro,False
+H,3584,3584,1,Hydro,False
+Nolte,3585,3585,1,Hydro,False
+Nolte,3585,3585,2,Hydro,False
+TP,3586,3586,1,Hydro,False
+Austin,3594,3594,1,Hydro,False
+Austin,3594,3594,2,Hydro,False
+Buchanan,3595,3595,1,Hydro,False
+Buchanan,3595,3595,2,Hydro,False
+Buchanan,3595,3595,3,Hydro,False
+Granite,3597,3597,1,Hydro,False
+Granite,3597,3597,2,Hydro,False
+Inks,3598,3598,1,Hydro,False
+Marble,3599,3599,1,Hydro,False
+Marble,3599,3599,2,Hydro,False
+Marshall,3600,3600,1,Hydro,False
+Marshall,3600,3600,2,Hydro,False
+Marshall,3600,3600,3,Hydro,False
+Sim,3601,3601,1,Natural Gas,True
+Sim,3601,3601,2,Natural Gas,True
+Sim,3601,3601,3,Natural Gas,True
+Ty,3602,3602,1,Natural Gas,True
+Ty,3602,3602,2,Natural Gas,True
+Ty,3602,3602,GT2,Natural Gas,False
+Ty,3602,3602,GT3,Natural Gas,False
+J,3604,3604,6A,Natural Gas,False
+J,3604,3604,7,Natural Gas,True
+J,3604,3604,8,Natural Gas,True
+Leon,3609,3609,CGT1,Natural Gas,True
+Leon,3609,3609,CGT2,Natural Gas,True
+Leon,3609,3609,CGT3,Natural Gas,True
+Leon,3609,3609,CGT4,Natural Gas,True
+O,3611,3611,1,Natural Gas,True
+O,3611,3611,2,Natural Gas,True
+V,3612,3612,1,Natural Gas,True
+V,3612,3612,2,Natural Gas,True
+V,3612,3612,3,Natural Gas,True
+V,3612,3612,5,Natural Gas,True
+V,3612,3612,6,Natural Gas,True
+V,3612,3612,7,Natural Gas,True
+V,3612,3612,8,Natural Gas,True
+R,3628,3628,1,Natural Gas,True
+R,3628,3628,2,Natural Gas,True
+R,3628,3628,3,Natural Gas,True
+R,3628,3628,4,Natural Gas,True
+R,3628,3628,5,Natural Gas,True
+Pearsall,3630,3630,10A,Natural Gas,False
+Pearsall,3630,3630,11A,Natural Gas,False
+Pearsall,3630,3630,12A,Natural Gas,False
+Pearsall,3630,3630,13A,Natural Gas,False
+Pearsall,3630,3630,14A,Natural Gas,False
+Pearsall,3630,3630,15A,Natural Gas,False
+Pearsall,3630,3630,16A,Natural Gas,False
+Pearsall,3630,3630,17A,Natural Gas,False
+Pearsall,3630,3630,18A,Natural Gas,False
+Pearsall,3630,3630,19A,Natural Gas,False
+Pearsall,3630,3630,1A,Natural Gas,False
+Pearsall,3630,3630,20A,Natural Gas,False
+Pearsall,3630,3630,21A,Natural Gas,False
+Pearsall,3630,3630,22A,Natural Gas,False
+Pearsall,3630,3630,23A,Natural Gas,False
+Pearsall,3630,3630,24A,Natural Gas,False
+Pearsall,3630,3630,2A,Natural Gas,False
+Pearsall,3630,3630,3A,Natural Gas,False
+Pearsall,3630,3630,4A,Natural Gas,False
+Pearsall,3630,3630,5A,Natural Gas,False
+Pearsall,3630,3630,6A,Natural Gas,False
+Pearsall,3630,3630,7A,Natural Gas,False
+Pearsall,3630,3630,8A,Natural Gas,False
+Pearsall,3630,3630,9A,Natural Gas,False
+Sam,3631,3631,1,Natural Gas,False
+Sam,3631,3631,10,Natural Gas,True
+Sam,3631,3631,2,Natural Gas,False
+Sam,3631,3631,4,Petroleum,False
+Sam,3631,3631,5,Petroleum,False
+Sam,3631,3631,7,Natural Gas,True
+Sam,3631,3631,8,Natural Gas,True
+Sam,3631,3631,9,Natural Gas,True
+Powerlane,4195,4195,EP,Natural Gas,False
+Powerlane,4195,4195,EP2,Natural Gas,False
+Powerlane,4195,4195,EP3,Natural Gas,False
+Powerlane,4195,4195,ST1,Natural Gas,False
+Powerlane,4195,4195,ST2,Natural Gas,True
+Powerlane,4195,4195,ST3,Natural Gas,True
+Spencer,4266,4266,4,Natural Gas,True
+Spencer,4266,4266,5,Natural Gas,True
+Thomas,4937,4937,CT-1,Natural Gas,True
+Thomas,4937,4937,CT-2,Natural Gas,True
+Thomas,4937,4937,STG,Natural Gas,True
+Barney,4939,4939,1,Natural Gas,True
+Barney,4939,4939,2,Natural Gas,True
+Barney,4939,4939,3,Natural Gas,True
+Barney,4939,4939,4,Natural Gas,True
+Amistad,6128,6128,1,Hydro,False
+Amistad,6128,6128,2,Hydro,False
+Welsh,6139,6139,1,Coal,True
+Welsh,6139,6139,3,Coal,True
+Comanche,6145,6145,1,Nuclear,False
+Comanche,6145,6145,2,Nuclear,False
+Martin,6146,6146,1,Coal,True
+Martin,6146,6146,2,Coal,True
+Martin,6146,6146,3,Coal,True
+Coleto,6178,6178,1,Coal,True
+Fayette,6179,6179,1,Coal,True
+Fayette,6179,6179,2,Coal,True
+Fayette,6179,6179,3,Coal,True
+Oak,6180,6180,OG1,Coal,True
+Oak,6180,6180,OG2,Coal,True
+J,6181,6181,1,Coal,True
+J,6181,6181,2,Coal,True
+San,6183,6183,1,Coal,True
+Harrington,6193,6193,1,Coal,True
+Harrington,6193,6193,2,Coal,True
+Harrington,6193,6193,3,Coal,True
+Tolk,6194,6194,1,Coal,True
+Tolk,6194,6194,2,Coal,True
+Dansby,6243,6243,1,Natural Gas,True
+Dansby,6243,6243,2,Natural Gas,True
+Dansby,6243,6243,3,Natural Gas,True
+South,6251,6251,1,Nuclear,False
+South,6251,6251,2,Nuclear,False
+Falcon,6410,6410,1,Hydro,False
+Falcon,6410,6410,2,Hydro,False
+Falcon,6410,6410,3,Hydro,False
+Sam,6413,6413,1,Hydro,False
+Sam,6413,6413,2,Hydro,False
+Whitney,6414,6414,1,Hydro,False
+Whitney,6414,6414,2,Hydro,False
+Denison,6416,6416,1,Hydro,False
+Denison,6416,6416,2,Hydro,False
+Toledo,6595,6595,1,Hydro,False
+Toledo,6595,6595,2,Hydro,False
+Major,7030,7030,1,Coal,True
+Major,7030,7030,2,Coal,True
+J,7097,7097,1,Coal,True
+J,7097,7097,2,Coal,True
+Brandon,7131,7131,1,Natural Gas,False
+Robert,7200,7200,1,Hydro,False
+Robert,7200,7200,2,Hydro,False
+San,7325,7325,1,Natural Gas,True
+San,7325,7325,2,Natural Gas,True
+Gonzales,7394,7394,1,Hydro,False
+Gonzales,7394,7394,2,Hydro,False
+Gonzales,7394,7394,3,Hydro,False
+Arthur,7512,7512,1,Natural Gas,True
+Arthur,7512,7512,2,Natural Gas,True
+Arthur,7512,7512,3,Natural Gas,True
+Sand,7900,7900,5A,Natural Gas,True
+Sand,7900,7900,5C,Natural Gas,True
+Sand,7900,7900,SH1,Natural Gas,True
+Sand,7900,7900,SH2,Natural Gas,True
+Sand,7900,7900,SH3,Natural Gas,True
+Sand,7900,7900,SH4,Natural Gas,True
+Sand,7900,7900,SH6,Natural Gas,True
+Sand,7900,7900,SH7,Natural Gas,True
+Pirkey,7902,7902,1,Coal,True
+DeCordova,8063,8063,CT1,Natural Gas,True
+DeCordova,8063,8063,CT2,Natural Gas,True
+DeCordova,8063,8063,CT3,Natural Gas,True
+DeCordova,8063,8063,CT4,Natural Gas,True
+Engineered,10072,10072,GEN1,Natural Gas,False
+Power,10154,10154,GEN1,Natural Gas,False
+Power,10154,10154,GEN2,Natural Gas,False
+Power,10154,10154,GEN3,Natural Gas,False
+Seadrift,10167,10167,GEN1,Petroleum,False
+Central,10184,10184,EG1,Natural Gas,False
+Central,10184,10184,EG2,Natural Gas,False
+Central,10184,10184,TG1,Natural Gas,False
+Engineered,10187,10187,GEN1,Natural Gas,False
+Ticona,10243,10243,GEN5,Natural Gas,False
+Enterprise,10261,10261,GEN3,Natural Gas,False
+Enterprise,10261,10261,GEN4,Natural Gas,False
+Enterprise,10261,10261,GEN5,Natural Gas,False
+Enterprise,10261,10261,GEN6,Natural Gas,False
+Enterprise,10261,10261,GEN7,Natural Gas,False
+Enterprise,10261,10261,GEN8,Natural Gas,False
+Bayou,10298,10298,GT1,Natural Gas,False
+Bayou,10298,10298,GT2,Natural Gas,False
+Bayou,10298,10298,GT3,Natural Gas,False
+Bayou,10298,10298,GT4,Natural Gas,False
+Ascend,10418,10418,GEN1,Natural Gas,False
+Ascend,10418,10418,GEN4,Natural Gas,False
+International,10425,10425,TG,Renewable,False
+ExxonMobil,10436,10436,GT38,Natural Gas,False
+ExxonMobil,10436,10436,GT41,Natural Gas,False
+ExxonMobil,10436,10436,GT42,Natural Gas,False
+ExxonMobil,10436,10436,GT43,Natural Gas,False
+ExxonMobil,10436,10436,GT44,Natural Gas,False
+ExxonMobil,10436,10436,GT45,Natural Gas,False
+ExxonMobil,10436,10436,ST34,Other,False
+Formosa,10554,10554,BO3,Natural Gas,False
+Formosa,10554,10554,ST1,Natural Gas,False
+Formosa,10554,10554,ST2,Natural Gas,False
+Formosa,10554,10554,ST3,Natural Gas,False
+Formosa,10554,10554,TBG1,Natural Gas,False
+Formosa,10554,10554,TBG2,Natural Gas,False
+Formosa,10554,10554,TBG3,Natural Gas,False
+Formosa,10554,10554,TBG4,Natural Gas,False
+Formosa,10554,10554,TBG5,Natural Gas,False
+Formosa,10554,10554,TBG6,Natural Gas,False
+Port,10568,10568,GEN1,Natural Gas,False
+ExxonMobil,10692,10692,GEN1,Natural Gas,False
+ExxonMobil,10692,10692,GEN2,Natural Gas,False
+ExxonMobil,10692,10692,GEN3,Natural Gas,False
+ExxonMobil,10692,10692,GEN4,Natural Gas,False
+ExxonMobil,10692,10692,GEN5,Natural Gas,False
+Sabine,10789,10789,GEN1,Natural Gas,False
+Sabine,10789,10789,GEN3,Natural Gas,False
+Sabine,10789,10789,GT1A,Natural Gas,True
+Sabine,10789,10789,GT1B,Natural Gas,True
+Sabine,10789,10789,ST1A,Natural Gas,True
+Victoria,10790,10790,GEN1,Natural Gas,False
+Corpus,50026,50026,FR6,Natural Gas,False
+Houston,50043,50043,GT1,Natural Gas,False
+Houston,50043,50043,GT2,Natural Gas,False
+Houston,50043,50043,GT3,Natural Gas,False
+Houston,50043,50043,ST,Natural Gas,False
+Rice,50054,50054,GEN1,Natural Gas,False
+Rice,50054,50054,GEN2,Natural Gas,False
+Borger,50067,50067,GEN1,Natural Gas,False
+WestRock,50101,50101,GEN1,Renewable,False
+WestRock,50101,50101,GEN2,Renewable,False
+WestRock,50101,50101,GEN3,Renewable,False
+Paris,50109,50109,GEN1,Natural Gas,True
+Paris,50109,50109,GEN2,Natural Gas,True
+Paris,50109,50109,GEN3,Natural Gas,True
+Hal,50118,50118,GEN10,Natural Gas,False
+Hal,50118,50118,GEN4,Natural Gas,False
+Hal,50118,50118,GEN5,Natural Gas,False
+Hal,50118,50118,GEN7,Natural Gas,False
+Hal,50118,50118,GEN8,Natural Gas,False
+Hal,50118,50118,GEN9,Natural Gas,False
+Valero,50121,50121,PRU,Other,False
+Valero,50121,50121,TG1,Petroleum,False
+Valero,50121,50121,TG2,Petroleum,False
+Signal,50127,50127,GTA,Natural Gas,False
+Signal,50127,50127,GTB,Natural Gas,False
+Signal,50127,50127,GTC,Natural Gas,False
+Signal,50127,50127,STD,Natural Gas,False
+Snider,50141,50141,WGN1,Renewable,False
+Union,50150,50150,GE10,Natural Gas,False
+Union,50150,50150,GE11,Natural Gas,False
+Union,50150,50150,GEN5,Natural Gas,False
+Union,50150,50150,GEN6,Natural Gas,False
+Union,50150,50150,GEN7,Natural Gas,False
+Union,50150,50150,GEN8,Natural Gas,False
+Union,50150,50150,GEN9,Natural Gas,False
+Union,50150,50150,IGT,Natural Gas,False
+Texas,50153,50153,STG,Other,False
+Texas,50229,50229,TG2,Natural Gas,False
+Tenet,50241,50241,9541,Petroleum,False
+Tenet,50241,50241,9542,Natural Gas,False
+Shell,50304,50304,GEN1,Other,False
+Shell,50304,50304,GEN2,Other,False
+Shell,50304,50304,GEN4,Natural Gas,False
+Shell,50304,50304,GEN5,Natural Gas,False
+BP,50404,50404,TG2,Other,False
+BP,50404,50404,TG3,Other,False
+Corpus,50475,50475,GEN1,Natural Gas,False
+DFW,50569,50569,GEN1,Renewable,False
+DFW,50569,50569,GEN2,Renewable,False
+DFW,50569,50569,GEN3,Renewable,False
+DFW,50569,50569,GEN4,Renewable,False
+DFW,50569,50569,GEN5,Renewable,False
+DFW,50569,50569,GEN6,Renewable,False
+ExxonMobil,50625,50625,ETG,Natural Gas,False
+ExxonMobil,50625,50625,TG22,Natural Gas,False
+ExxonMobil,50625,50625,TG23,Natural Gas,False
+ExxonMobil,50625,50625,TG24,Natural Gas,False
+ExxonMobil,50625,50625,TG32,Natural Gas,False
+ExxonMobil,50625,50625,TG33,Natural Gas,False
+ExxonMobil,50625,50625,TG34,Natural Gas,False
+ExxonMobil,50625,50625,TG41,Natural Gas,True
+ExxonMobil,50625,50625,TG42,Natural Gas,True
+ExxonMobil,50625,50625,TG43,Natural Gas,True
+Optim,50815,50815,GEN1,Natural Gas,True
+Optim,50815,50815,GEN2,Natural Gas,True
+Optim,50815,50815,GEN3,Natural Gas,True
+Optim,50815,50815,GEN4,Natural Gas,True
+Optim,50815,50815,GEN5,Natural Gas,True
+Optim,50815,50815,GEN6,Natural Gas,True
+Optim,50815,50815,GEN7,Natural Gas,True
+Motiva,50973,50973,GN31,Natural Gas,False
+Motiva,50973,50973,GN32,Natural Gas,False
+Motiva,50973,50973,GN33,Natural Gas,False
+Motiva,50973,50973,GN34,Natural Gas,False
+Motiva,50973,50973,GN35,Natural Gas,False
+Motiva,50973,50973,GN41,Natural Gas,False
+Motiva,50973,50973,GN42,Natural Gas,False
+Motiva,50973,50973,GN43,Natural Gas,False
+Motiva,50973,50973,GN44,Natural Gas,False
+Houston,52065,52065,GEN1,Other,False
+Houston,52065,52065,GEN2,Other,False
+Texas,52088,52088,GEN1,Natural Gas,True
+Texas,52088,52088,GEN2,Natural Gas,True
+Texas,52088,52088,GEN3,Natural Gas,True
+Texas,52088,52088,GEN4,Natural Gas,True
+Freeport,52120,52120,G-37,Natural Gas,False
+Freeport,52120,52120,G-61,Natural Gas,False
+Freeport,52120,52120,G-63,Natural Gas,False
+Freeport,52120,52120,G-64,Natural Gas,False
+Freeport,52120,52120,G-65,Natural Gas,False
+Freeport,52120,52120,G-66,Natural Gas,False
+Freeport,52120,52120,G-67,Natural Gas,False
+Wasson,52122,52122,GEN1,Natural Gas,False
+Power,52132,52132,GEN1,Natural Gas,False
+Power,52132,52132,GEN2,Natural Gas,False
+Power,52132,52132,GEN3,Natural Gas,False
+C,52176,52176,GEN1,Natural Gas,True
+C,52176,52176,GEN2,Natural Gas,True
+C,52176,52176,GEN3,Natural Gas,True
+International,54097,54097,GEN1,Renewable,False
+International,54097,54097,GEN2,Renewable,False
+Goodyear,54321,54321,2N80,Natural Gas,False
+Goodyear,54321,54321,3N80,Natural Gas,False
+Goodyear,54321,54321,N802,Natural Gas,False
+Goodyear,54321,54321,N803,Natural Gas,False
+Goodyear,54321,54321,N804,Natural Gas,False
+Westhollow,54330,54330,1,Natural Gas,False
+Rio,54338,54338,GENA,Renewable,False
+Rio,54338,54338,GENB,Renewable,False
+Rio,54338,54338,GENC,Renewable,False
+Rio,54338,54338,GEND,Renewable,False
+Rio,54338,54338,GENE,Petroleum,False
+Works,54364,54364,L1G,Petroleum,False
+Works,54364,54364,L1PG,Petroleum,False
+Works,54364,54364,L2G,Petroleum,False
+Village,54520,54520,SD1,Natural Gas,False
+Village,54520,54520,SD2,Natural Gas,False
+Village,54520,54520,TG1,Natural Gas,False
+Village,54520,54520,TG2,Natural Gas,False
+Phelps,54628,54628,2607,Natural Gas,False
+Phelps,54628,54628,2608,Natural Gas,False
+Phelps,54628,54628,3001,Natural Gas,False
+Phelps,54628,54628,3002,Natural Gas,False
+Phelps,54628,54628,3003,Natural Gas,False
+JCO,54637,54637,GCG1,Natural Gas,False
+JCO,54637,54637,GCG2,Natural Gas,False
+Oyster,54676,54676,G81,Natural Gas,False
+Oyster,54676,54676,G82,Natural Gas,False
+Oyster,54676,54676,G83,Natural Gas,False
+Oyster,54676,54676,G84,Natural Gas,False
+Port,54748,54748,G1,Natural Gas,False
+Johnson,54817,54817,GT-1,Natural Gas,True
+Johnson,54817,54817,ST-1,Natural Gas,True
+Big,54979,54979,WIND,Wind,False
+Sweeny,55015,55015,GEN1,Natural Gas,True
+Sweeny,55015,55015,GEN2,Natural Gas,True
+Sweeny,55015,55015,GEN3,Natural Gas,True
+Sweeny,55015,55015,GEN4,Natural Gas,True
+Pasadena,55047,55047,CTG1,Natural Gas,True
+Pasadena,55047,55047,CTG2,Natural Gas,True
+Pasadena,55047,55047,CTG3,Natural Gas,True
+Pasadena,55047,55047,STG1,Natural Gas,True
+Pasadena,55047,55047,STG2,Natural Gas,True
+Jameson,55052,55052,620,Natural Gas,False
+Jameson,55052,55052,621,Natural Gas,False
+Jameson,55052,55052,622,Natural Gas,False
+Jameson,55052,55052,GN410,Natural Gas,False
+Bridgeport,55053,55053,14,Natural Gas,False
+Bridgeport,55053,55053,15,Natural Gas,False
+Bridgeport,55053,55053,16,Natural Gas,False
+Bridgeport,55053,55053,17,Natural Gas,False
+Bridgeport,55053,55053,2723,Natural Gas,False
+Bridgeport,55053,55053,654,Natural Gas,False
+Bridgeport,55053,55053,655,Natural Gas,False
+Bridgeport,55053,55053,656,Natural Gas,False
+Bridgeport,55053,55053,657,Natural Gas,False
+Bridgeport,55053,55053,658,Natural Gas,False
+Bridgeport,55053,55053,666,Natural Gas,False
+Bridgeport,55053,55053,667,Natural Gas,False
+Bridgeport,55053,55053,671,Natural Gas,False
+Tenaska,55062,55062,GTG1,Natural Gas,True
+Tenaska,55062,55062,GTG2,Natural Gas,True
+Tenaska,55062,55062,GTG3,Natural Gas,True
+Tenaska,55062,55062,STG1,Natural Gas,True
+Black,55064,55064,UNT1,Natural Gas,True
+Black,55064,55064,UNT2B,Natural Gas,True
+Mustang,55065,55065,GEN1,Natural Gas,True
+Mustang,55065,55065,GEN2,Natural Gas,True
+Mustang,55065,55065,GEN3,Natural Gas,True
+Gregory,55086,55086,GT1A,Natural Gas,True
+Gregory,55086,55086,GT1B,Natural Gas,True
+Gregory,55086,55086,STG,Natural Gas,True
+Midlothian,55091,55091,STK1,Natural Gas,True
+Midlothian,55091,55091,STK2,Natural Gas,True
+Midlothian,55091,55091,STK3,Natural Gas,True
+Midlothian,55091,55091,STK4,Natural Gas,True
+Midlothian,55091,55091,STK5,Natural Gas,True
+Midlothian,55091,55091,STK6,Natural Gas,True
+Lamar,55097,55097,CTG1,Natural Gas,True
+Lamar,55097,55097,CTG2,Natural Gas,True
+Lamar,55097,55097,CTG3,Natural Gas,True
+Lamar,55097,55097,CTG4,Natural Gas,True
+Lamar,55097,55097,STG1,Natural Gas,True
+Lamar,55097,55097,STG2,Natural Gas,True
+NAFTA,55122,55122,UN1,Natural Gas,False
+NAFTA,55122,55122,UN2,Natural Gas,False
+Magic,55123,55123,CTG1,Natural Gas,True
+Magic,55123,55123,CTG2,Natural Gas,True
+Magic,55123,55123,STG,Natural Gas,True
+Tenaska,55132,55132,GTG1,Natural Gas,True
+Tenaska,55132,55132,GTG2,Natural Gas,True
+Tenaska,55132,55132,GTG3,Natural Gas,True
+Tenaska,55132,55132,STG1,Natural Gas,True
+Rio,55137,55137,CTG1,Natural Gas,True
+Rio,55137,55137,CTG2,Natural Gas,True
+Rio,55137,55137,CTG3,Natural Gas,True
+Rio,55137,55137,STG1,Natural Gas,True
+Wolf,55139,55139,CTG1,Natural Gas,True
+Wolf,55139,55139,CTG2,Natural Gas,True
+Wolf,55139,55139,ST,Natural Gas,True
+Hays,55144,55144,U1,Natural Gas,True
+Hays,55144,55144,U2,Natural Gas,True
+Hays,55144,55144,U3,Natural Gas,True
+Hays,55144,55144,U4,Natural Gas,True
+Guadalupe,55153,55153,CTG1,Natural Gas,True
+Guadalupe,55153,55153,CTG2,Natural Gas,True
+Guadalupe,55153,55153,CTG3,Natural Gas,True
+Guadalupe,55153,55153,CTG4,Natural Gas,True
+Guadalupe,55153,55153,STG1,Natural Gas,True
+Guadalupe,55153,55153,STG2,Natural Gas,True
+Lost,55154,55154,CTA,Natural Gas,True
+Lost,55154,55154,CTB,Natural Gas,True
+Lost,55154,55154,ST,Natural Gas,True
+Bastrop,55168,55168,0001,Natural Gas,True
+Bastrop,55168,55168,0002,Natural Gas,True
+Bastrop,55168,55168,0003,Natural Gas,True
+Bosque,55172,55172,GT-1,Natural Gas,True
+Bosque,55172,55172,GT-2,Natural Gas,True
+Bosque,55172,55172,GT-3,Natural Gas,True
+Bosque,55172,55172,ST-4,Natural Gas,True
+Bosque,55172,55172,ST-5,Natural Gas,True
+Eastman,55176,55176,GEN1,Natural Gas,True
+Eastman,55176,55176,GEN2,Natural Gas,True
+Eastman,55176,55176,GEN3,Natural Gas,True
+Channelview,55187,55187,GT1,Natural Gas,True
+Channelview,55187,55187,GT2,Natural Gas,True
+Channelview,55187,55187,GT3,Natural Gas,True
+Channelview,55187,55187,GT4,Natural Gas,True
+Channelview,55187,55187,ST1,Natural Gas,True
+Corpus,55206,55206,CT1,Natural Gas,True
+Corpus,55206,55206,CT2,Natural Gas,True
+Corpus,55206,55206,ST1,Natural Gas,True
+Odessa-Ector,55215,55215,CTG1,Natural Gas,True
+Odessa-Ector,55215,55215,CTG2,Natural Gas,True
+Odessa-Ector,55215,55215,CTG3,Natural Gas,True
+Odessa-Ector,55215,55215,CTG4,Natural Gas,True
+Odessa-Ector,55215,55215,STG1,Natural Gas,True
+Odessa-Ector,55215,55215,STG2,Natural Gas,True
+Ennis,55223,55223,GT1,Natural Gas,True
+Ennis,55223,55223,ST1,Natural Gas,True
+Freestone,55226,55226,GT1,Natural Gas,True
+Freestone,55226,55226,GT2,Natural Gas,True
+Freestone,55226,55226,GT3,Natural Gas,True
+Freestone,55226,55226,GT4,Natural Gas,True
+Freestone,55226,55226,ST3,Natural Gas,True
+Freestone,55226,55226,ST6,Natural Gas,True
+Jack,55230,55230,CT1,Natural Gas,True
+Jack,55230,55230,CT2,Natural Gas,True
+Jack,55230,55230,CT3,Natural Gas,True
+Jack,55230,55230,CT4,Natural Gas,True
+Jack,55230,55230,ST1,Natural Gas,True
+Jack,55230,55230,ST2,Natural Gas,True
+Channel,55299,55299,CTG1,Natural Gas,True
+Channel,55299,55299,CTG2,Natural Gas,True
+Channel,55299,55299,CTG3,Natural Gas,True
+Channel,55299,55299,ST-1,Natural Gas,True
+Air,55309,55309,GEN 5,Natural Gas,False
+Air,55309,55309,GEN1,Natural Gas,False
+Air,55309,55309,GEN3,Natural Gas,False
+Air,55309,55309,GEN4,Natural Gas,False
+BASF,55311,55311,GEN1,Natural Gas,False
+BASF,55311,55311,GEN2,Other,False
+Ingleside,55313,55313,CTG1,Natural Gas,False
+Ingleside,55313,55313,CTG2,Natural Gas,False
+Ingleside,55313,55313,STG,Natural Gas,False
+Wise,55320,55320,GT1,Natural Gas,True
+Wise,55320,55320,GT2,Natural Gas,True
+Wise,55320,55320,ST1,Natural Gas,True
+Baytown,55327,55327,CTG1,Natural Gas,True
+Baytown,55327,55327,CTG2,Natural Gas,True
+Baytown,55327,55327,CTG3,Natural Gas,True
+Baytown,55327,55327,STG1,Natural Gas,True
+Jack,55357,55357,CTG1,Natural Gas,True
+Jack,55357,55357,CTG2,Natural Gas,True
+Jack,55357,55357,STG1,Natural Gas,True
+Cottonwood,55358,55358,CT1,Natural Gas,True
+Cottonwood,55358,55358,CT2,Natural Gas,True
+Cottonwood,55358,55358,CT3,Natural Gas,True
+Cottonwood,55358,55358,CT4,Natural Gas,True
+Cottonwood,55358,55358,ST1,Natural Gas,True
+Cottonwood,55358,55358,ST2,Natural Gas,True
+Cottonwood,55358,55358,ST3,Natural Gas,True
+Cottonwood,55358,55358,ST4,Natural Gas,True
+Exelon,55365,55365,GT1,Natural Gas,True
+Exelon,55365,55365,GT2,Natural Gas,True
+Exelon,55365,55365,GT3,Natural Gas,True
+Exelon,55365,55365,GT4,Natural Gas,True
+State,55390,55390,2A,Petroleum,False
+State,55390,55390,2B,Petroleum,False
+State,55390,55390,3A,Petroleum,False
+State,55390,55390,3B,Petroleum,False
+State,55390,55390,4A,Petroleum,False
+State,55390,55390,4B,Petroleum,False
+Deer,55464,55464,CTG1,Natural Gas,True
+Deer,55464,55464,CTG2,Natural Gas,True
+Deer,55464,55464,CTG3,Natural Gas,True
+Deer,55464,55464,CTG4,Natural Gas,True
+Deer,55464,55464,CTG6,Natural Gas,False
+Deer,55464,55464,STG1,Natural Gas,True
+Green,55470,55470,ST1,Natural Gas,True
+Green,55470,55470,ST805,Natural Gas,True
+Green,55470,55470,TR1,Natural Gas,True
+Green,55470,55470,TR2,Natural Gas,True
+Green,55470,55470,TR3,Natural Gas,True
+Forney,55480,55480,ST1,Natural Gas,True
+Forney,55480,55480,ST2,Natural Gas,True
+Forney,55480,55480,U1,Natural Gas,True
+Forney,55480,55480,U2,Natural Gas,True
+Forney,55480,55480,U3,Natural Gas,True
+Forney,55480,55480,U4,Natural Gas,True
+Forney,55480,55480,U5,Natural Gas,True
+Forney,55480,55480,U6,Natural Gas,True
+Hidalgo,55545,55545,CTG1,Natural Gas,True
+Hidalgo,55545,55545,CTG2,Natural Gas,True
+Hidalgo,55545,55545,STG1,Natural Gas,True
+Security,55556,55556,GEN5,Renewable,False
+Security,55556,55556,UNT2,Renewable,False
+Llano,55579,55579,EXIS,Wind,False
+King,55581,55581,EXIS,Wind,False
+Harrison,55664,55664,GT-1,Natural Gas,True
+Harrison,55664,55664,GT-2,Natural Gas,True
+Harrison,55664,55664,ST-1,Natural Gas,True
+Nacogdoches,55708,55708,STG4,Renewable,False
+NWP,55747,55747,NWP2,Wind,False
+Woodward,55795,55795,01,Wind,False
+Woodward,55796,55796,01,Wind,False
+Trent,55968,55968,WTG1,Wind,False
+Desert,55992,55992,1,Wind,False
+Brazos,56111,56111,GEN1,Wind,False
+Tessman,56113,56113,1,Renewable,False
+Tessman,56113,56113,2,Renewable,False
+Tessman,56113,56113,3,Renewable,False
+Tessman,56113,56113,4,Renewable,False
+Tessman,56113,56113,5,Renewable,False
+Tessman,56113,56113,6,Renewable,False
+Tessman,56113,56113,7,Renewable,False
+Freeport,56152,56152,CTG1,Natural Gas,False
+Freeport,56152,56152,STG1,Natural Gas,False
+Sweetwater,56211,56211,SW1,Wind,False
+Sweetwater,56212,56212,SW2,Wind,False
+Aeolus,56225,56225,V90,Wind,False
+EG178,56233,56233,CT02,Natural Gas,False
+EG178,56233,56233,CTG1,Natural Gas,False
+EG178,56233,56233,STG,Natural Gas,False
+Buffalo,56240,56240,1,Wind,False
+Callahan,56270,56270,1,Wind,False
+Horse,56291,56291,1,Wind,False
+Horse,56291,56291,2,Wind,False
+Horse,56291,56291,3,Wind,False
+Sweetwater,56311,56311,SW3,Wind,False
+Mustang,56326,56326,GEN1,Natural Gas,True
+Mustang,56326,56326,GEN2,Natural Gas,True
+Mustang,56326,56326,GEN3,Natural Gas,True
+Sweetwater,56337,56337,SW4,Wind,False
+Quail,56349,56349,CT1A,Natural Gas,True
+Quail,56349,56349,CT1B,Natural Gas,True
+Quail,56349,56349,CT2A,Natural Gas,True
+Quail,56349,56349,CT2B,Natural Gas,True
+Quail,56349,56349,ST1,Natural Gas,True
+Quail,56349,56349,ST2,Natural Gas,True
+Colorado,56350,56350,CT1A,Natural Gas,True
+Colorado,56350,56350,CT1B,Natural Gas,True
+Colorado,56350,56350,CT2A,Natural Gas,True
+Colorado,56350,56350,CT2B,Natural Gas,True
+Colorado,56350,56350,ST1,Natural Gas,True
+Colorado,56350,56350,ST2,Natural Gas,True
+Sweetwater,56372,56372,SW5,Wind,False
+Robert,56374,56374,CT1,Natural Gas,False
+Robert,56374,56374,DG1,Petroleum,False
+Forest,56394,56394,1,Wind,False
+Mesquite,56395,56395,1,Wind,False
+Wildorado,56432,56432,1,Wind,False
+Post,56457,56457,1,Wind,False
+Sand,56479,56479,2,Wind,False
+Post,56483,56483,1,Wind,False
+Buffalo,56484,56484,1,Wind,False
+Scurry,56506,56506,SCW,Wind,False
+Austin,56524,56524,GEN1,Renewable,False
+Austin,56524,56524,GEN2,Renewable,False
+Austin,56524,56524,GEN3,Renewable,False
+Porterhouse,56560,56560,JDW4,Wind,False
+Filet,56561,56561,JDW5,Wind,False
+Tenderloin,56562,56562,JDW6,Wind,False
+Champion,56592,56592,CH1,Wind,False
+Roscoe,56593,56593,RO1,Wind,False
+Snyder,56602,56602,SNY1,Wind,False
+San,56603,56603,SJC1,Natural Gas,True
+San,56603,56603,SJC2,Natural Gas,True
+Hardin,56604,56604,HC1,Natural Gas,True
+Hardin,56604,56604,HC2,Natural Gas,True
+Sandy,56611,56611,S01,Coal,True
+Buffalo,56638,56638,GEN1,Wind,False
+Stanton,56644,56644,1,Wind,False
+Majestic,56648,56648,1,Wind,False
+South,56649,56649,1,Wind,False
+Pattern,56661,56661,1,Wind,False
+Whirlwind,56673,56673,WEC,Wind,False
+Winchester,56674,56674,CGT1,Natural Gas,True
+Winchester,56674,56674,CGT2,Natural Gas,True
+Winchester,56674,56674,CGT3,Natural Gas,True
+Winchester,56674,56674,CGT4,Natural Gas,True
+CFB,56708,56708,G2101,Natural Gas,False
+CFB,56708,56708,G2201,Natural Gas,False
+Goat,56754,56754,1,Wind,False
+Goat,56754,56754,2,Wind,False
+Capricorn,56763,56763,1,Wind,False
+Capricorn,56763,56763,2,Wind,False
+Capricorn,56763,56763,3,Wind,False
+Capricorn,56763,56763,4,Wind,False
+Silver,56771,56771,1,Wind,False
+McAdoo,56773,56773,1,Wind,False
+Turkey,56774,56774,1,Wind,False
+Scurry,56775,56775,1,Wind,False
+Gunsight,56776,56776,1,Wind,False
+Sherbino,56779,56779,1,Wind,False
+Elbow,56783,56783,1,Wind,False
+Penascal,56795,56795,1,Wind,False
+Cedar,56806,56806,4,Natural Gas,True
+Cedar,56806,56806,41,Natural Gas,True
+Cedar,56806,56806,42,Natural Gas,True
+Hackberry,56823,56823,HWFG1,Wind,False
+Ribeye,56835,56835,1,Wind,False
+T-Bone,56836,56836,1,Wind,False
+Tri-Tip,56837,56837,1,Wind,False
+Brisket,56838,56838,1,Wind,False
+Flat,56839,56839,1,Wind,False
+Covel,56864,56864,1,Renewable,False
+Covel,56864,56864,2,Renewable,False
+Covel,56864,56864,3,Renewable,False
+Covel,56864,56864,4,Renewable,False
+Covel,56864,56864,5,Renewable,False
+Covel,56864,56864,6,Renewable,False
+Great,56905,56905,1,Wind,False
+Panther,56920,56920,1,Wind,False
+Panther,56921,56921,1,Wind,False
+Bull,56956,56956,001,Wind,False
+Ocotillo,56959,56959,OWF,Wind,False
+Notrees,56961,56961,BATT,Other,False
+Notrees,56961,56961,GE,Wind,False
+Notrees,56961,56961,VESTA,Wind,False
+Panther,56979,56979,1,Wind,False
+Pyron,56981,56981,1,Wind,False
+Pyron,56981,56981,PYRBT,Other,False
+Papalote,56983,56983,1,Wind,False
+Inadale,56984,56984,1,Wind,False
+Inadale,56984,56984,INABT,Other,False
+Westside,57020,57020,GEN1,Renewable,False
+Westside,57020,57020,GEN2,Renewable,False
+Denton,57071,57071,1,Renewable,False
+Penascal,57095,57095,1,Wind,False
+Langford,57153,57153,1,Wind,False
+Barton,57156,57156,BC,Wind,False
+Farmers,57165,57165,GEN1,Renewable,False
+Farmers,57165,57165,GEN2,Renewable,False
+Mesquite,57167,57167,GEN1,Renewable,False
+Mesquite,57167,57167,GEN2,Renewable,False
+Blue,57197,57197,1,Solar,False
+Papalote,57212,57212,1,Wind,False
+Cedro,57260,57260,1,Wind,False
+Little,57263,57263,LP1,Wind,False
+Little,57264,57264,LP2,Wind,False
+Loraine,57303,57303,LWG1,Wind,False
+Loraine,57303,57303,LWG2,Wind,False
+Mont,57322,57322,GT01,Natural Gas,False
+Sunray,57326,57326,WND1,Wind,False
+Sherbino,57415,57415,1,Wind,False
+Ralls,57474,57474,1,Wind,False
+TECO,57504,57504,CHP1,Natural Gas,False
+DeWind,57517,57517,FRISC,Wind,False
+Trinity,57520,57520,1,Wind,False
+Hidalgo,57617,57617,GEN1,Wind,False
+Webberville,57699,57699,AES1,Solar,False
+Suzlon,57741,57741,SP111,Wind,False
+Suzlon,57741,57741,SP97,Wind,False
+Los,57751,57751,1,Wind,False
+Los,57752,57752,1,Wind,False
+Magic,57802,57802,MV1,Wind,False
+Antelope,57865,57865,E01,Natural Gas,True
+Antelope,57865,57865,E02,Natural Gas,True
+Antelope,57865,57865,E03,Natural Gas,True
+Antelope,57865,57865,E04,Natural Gas,False
+Antelope,57865,57865,E05,Natural Gas,False
+Antelope,57865,57865,E06,Natural Gas,False
+Antelope,57865,57865,E07,Natural Gas,False
+Antelope,57865,57865,E08,Natural Gas,False
+Antelope,57865,57865,E09,Natural Gas,False
+Antelope,57865,57865,E10,Natural Gas,False
+Antelope,57865,57865,E11,Natural Gas,False
+Antelope,57865,57865,E12,Natural Gas,False
+Antelope,57865,57865,E13,Natural Gas,False
+Antelope,57865,57865,E14,Natural Gas,False
+Antelope,57865,57865,E15,Natural Gas,False
+Antelope,57865,57865,E16,Natural Gas,False
+Antelope,57865,57865,E17,Natural Gas,False
+Antelope,57865,57865,E18,Natural Gas,False
+Golden,57866,57866,PWR,Wind,False
+Baffin,57927,57927,1,Wind,False
+Woodall,57952,57952,GEN1,Natural Gas,False
+Woodall,57952,57952,GEN2,Natural Gas,False
+Woodall,57952,57952,GEN3,Natural Gas,False
+Spinning,57973,57973,GEN1,Wind,False
+Bobcat,57974,57974,GEN1,Wind,False
+Senate,57981,57981,GEN1,Wind,False
+Stephens,57983,57983,1,Wind,False
+Stephens,57983,57983,2,Wind,False
+Anacacho,58000,58000,ANA,Wind,False
+Panda,58001,58001,CTG-1,Natural Gas,True
+Panda,58001,58001,CTG-2,Natural Gas,True
+Panda,58001,58001,CTG-3,Natural Gas,True
+Panda,58001,58001,CTG-4,Natural Gas,True
+Panda,58001,58001,STG-1,Natural Gas,True
+Panda,58001,58001,STG-2,Natural Gas,True
+Panda,58005,58005,CTG-1,Natural Gas,True
+Panda,58005,58005,CTG-2,Natural Gas,True
+Panda,58005,58005,STG-1,Natural Gas,True
+SunE,58009,58009,1,Solar,False
+SunE,58009,58009,2,Solar,False
+IKEA,58013,58013,PV,Solar,False
+Whitetail,58021,58021,1,Wind,False
+SunE,58027,58027,1,Solar,False
+BayWa,58048,58048,1,Wind,False
+SunE,58068,58068,1,Solar,False
+PRSI,58069,58069,55M1,Petroleum,False
+Wolf,58080,58080,1,Wind,False
+Central,58151,58151,GTG01,Natural Gas,False
+Central,58151,58151,STG02,Natural Gas,False
+Central,58151,58151,STG04,Natural Gas,False
+Cirrus,58162,58162,CW,Wind,False
+Pattern,58242,58242,1,Wind,False
+Goldthwaite,58321,58321,1,Wind,False
+Majestic,58363,58363,WND1,Wind,False
+Blue,58372,58372,GEN1,Wind,False
+W.A.,58378,58378,GT2,Natural Gas,True
+Pantex,58404,58404,1,Wind,False
+Harbor,58424,58424,1,Wind,False
+Ector,58471,58471,CTG1,Natural Gas,True
+Ector,58471,58471,CTG2,Natural Gas,True
+Bryan,58488,58488,1,Solar,False
+OCI,58537,58537,1,Solar,False
+OCI,58537,58537,ASTRO,Other,False
+Montana,58562,58562,GT-1,Natural Gas,True
+Montana,58562,58562,GT-2,Natural Gas,True
+Montana,58562,58562,GT-3,Natural Gas,True
+Montana,58562,58562,GT-4,Natural Gas,True
+Grandview,58596,58596,GRVWI,Wind,False
+Patriot,58614,58614,PAT1,Wind,False
+RC,58645,58645,RCT1,Hydro,False
+RC,58645,58645,RCT2,Hydro,False
+RC,58645,58645,RCT3,Hydro,False
+Route,58681,58681,RT661,Wind,False
+Barilla,58710,58710,BRLA,Solar,False
+OCI,58716,58716,1,Solar,False
+OCI,58717,58717,1,Solar,False
+Pattern,58720,58720,1,Wind,False
+Miami,58765,58765,1,Wind,False
+Wake,58766,58766,1,Wind,False
+Longhorn,58772,58772,GEN1,Wind,False
+TX,58773,58773,GEN1,Wind,False
+Spinning,58774,58774,GEN1,Wind,False
+Spinning,58775,58775,GEN1,Wind,False
+Elk,58835,58835,ELK1,Natural Gas,False
+Elk,58835,58835,ELK2,Natural Gas,False
+Elk,58835,58835,ELK3,Natural Gas,False
+Keechi,58838,58838,KW1,Wind,False
+Rentech,58870,58870,MG202,Other,False
+Woodville,58944,58944,G1,Renewable,False
+Ameresco,58946,58946,ENG1,Renewable,False
+Ameresco,58946,58946,ENG2,Renewable,False
+Ameresco,58946,58946,ENG3,Renewable,False
+Mariah,59005,59005,MAR1,Wind,False
+Shannon,59034,59034,SHAN1,Wind,False
+Stella,59063,59063,WT1,Wind,False
+Bruennings,59066,59066,MVII,Wind,False
+Colbeck's,59068,59068,GVII,Wind,False
+Cameron,59118,59118,CAM1,Wind,False
+Freeport,59145,59145,65GTG,Natural Gas,False
+Chapman,59193,59193,CHA1,Wind,False
+OCI,59204,59204,OCIA3,Solar,False
+OCI,59205,59205,OCIA5,Solar,False
+Alamo,59206,59206,OCIA6,Solar,False
+OCI,59207,59207,OCIA7,Solar,False
+Windthorst-2,59238,59238,WND2,Wind,False
+Lorenzo,59244,59244,FIBE1,Wind,False
+Fluvanna,59245,59245,FLUV1,Wind,False
+Hale,59247,59247,HALE1,Wind,False
+Los,59320,59320,GEN1,Wind,False
+Los,59321,59321,GEN1,Wind,False
+Mesquite,59332,59332,MSCRK,Wind,False
+The,59381,59381,GT-1,Natural Gas,False
+South,59384,59384,1,Wind,False
+Red,59391,59391,ENG01,Natural Gas,False
+Red,59391,59391,ENG02,Natural Gas,False
+Red,59391,59391,ENG03,Natural Gas,False
+Red,59391,59391,ENG04,Natural Gas,False
+Red,59391,59391,ENG05,Natural Gas,False
+Red,59391,59391,ENG06,Natural Gas,False
+Red,59391,59391,ENG07,Natural Gas,False
+Red,59391,59391,ENG08,Natural Gas,False
+Red,59391,59391,ENG09,Natural Gas,False
+Red,59391,59391,ENG10,Natural Gas,False
+Red,59391,59391,ENG11,Natural Gas,False
+Red,59391,59391,ENG12,Natural Gas,False
+Newman,59407,59407,NEW1,Solar,False
+Pleasant,59417,59417,WT1,Wind,False
+Logans,59442,59442,1,Wind,False
+Palo,59475,59475,GE1.7,Wind,False
+TX,59621,59621,JRWND,Wind,False
+Nelson,59649,59649,UNIT1,Renewable,False
+Nelson,59649,59649,UNIT2,Renewable,False
+Nelson,59649,59649,UNIT3,Renewable,False
+Nelson,59649,59649,UNIT4,Renewable,False
+Sendero,59654,59654,1,Wind,False
+San,59712,59712,SRWI,Wind,False
+Green,59732,59732,GPI,Wind,False
+Green,59733,59733,GPII,Wind,False
+Briscoe,59734,59734,BFW,Wind,False
+Wolf,59812,59812,CGT4,Natural Gas,True
+Wolf,59812,59812,CGT5,Natural Gas,True
+Wolf,59812,59812,STG6,Natural Gas,True
+Sky,59938,59938,UNIT1,Natural Gas,False
+Sky,59938,59938,UNIT2,Natural Gas,False
+Sky,59938,59938,UNIT3,Natural Gas,False
+Sky,59938,59938,UNIT4,Natural Gas,False
+Sky,59938,59938,UNIT5,Natural Gas,False
+Sky,59938,59938,UNIT6,Natural Gas,False
+Rattlesnake,59943,59943,1,Wind,False
+Bearkat,59972,59972,BRKAT,Wind,False
+RE,59994,59994,ROSEK,Solar,False
+Buckthorn,60044,60044,BKTH1,Solar,False
+Los,60059,60059,1,Wind,False
+South,60087,60087,SPII,Wind,False
+Javelina,60104,60104,GEWTG,Wind,False
+Colorado,60122,60122,CT7,Natural Gas,True
+Colorado,60122,60122,CT8,Natural Gas,True
+Colorado,60122,60122,STG9,Natural Gas,True
+Castle,60123,60123,BAT1,Other,False
+Castle,60123,60123,CGAP,Solar,False
+Cotton,60210,60210,CPWF,Wind,False
+Rocksprings,60217,60217,RKSP,Wind,False
+Bacliff,60264,60264,BCGT1,Natural Gas,True
+Bacliff,60264,60264,BCGT2,Natural Gas,True
+Bacliff,60264,60264,BCGT3,Natural Gas,True
+Bacliff,60264,60264,BCGT4,Natural Gas,True
+Bacliff,60264,60264,BCGT5,Natural Gas,True
+Bacliff,60264,60264,BCGT6,Natural Gas,True
+Blue,60270,60270,WT1,Wind,False
+Montana,60300,60300,IMPV1,Solar,False
+Electra,60338,60338,EWF,Wind,False
+Horse,60339,60339,HCWF,Wind,False
+Old,60366,60366,OSWF,Wind,False
+Lamesa,60372,60372,LSPV1,Solar,False
+Bethel,60414,60414,GEN1,Wind,False
+CoServ,60427,60427,CSS1,Solar,False
+East,60436,60436,1,Solar,False
+Port,60459,60459,PC1,Natural Gas,True
+Port,60459,60459,PC2,Natural Gas,True
+Chamon,60460,60460,CH1,Natural Gas,True
+Chamon,60460,60460,CH2,Natural Gas,True
+Friendswood,60468,60468,GT-1,Natural Gas,True
+CPS,60472,60472,CPS1,Solar,False
+Tyler,60502,60502,GEN1,Wind,False
+ETT,60506,60506,BOB,Other,False
+Upton,60581,60581,UCTX,Solar,False
+Javelina,60645,60645,WJ21,Wind,False
+Rabbit,60649,60649,1,Other,False
+Salt,60657,60657,GEN1,Wind,False
+Pearl,60682,60682,PEARL,Solar,False
+Blue,60690,60690,WBSS,Other,False
+Rattlesnake,60743,60743,WT1,Wind,False
+Phantom,60774,60774,GEN1,Solar,False
+Bluebell,60789,60789,UNIT1,Solar,False
+Astra,60856,60856,ASTRA,Wind,False
+Willow,60901,60901,WSPWF,Wind,False
+Dermott,60902,60902,DERM,Wind,False
+Buckthorn,60983,60983,BWIND,Wind,False
+Santa,60987,60987,GEN1,Wind,False
+SolaireHolman,60989,60989,PV1,Solar,False
+Cactus,61001,61001,WT1,Wind,False
+Heart,61032,61032,HTX,Wind,False
+Bandera,61205,61205,PV1,Solar,False
+Flat,61212,61212,FTWI,Wind,False
+Victoria,61241,61241,VC-1,Natural Gas,False
+Victoria,61241,61241,VC-2,Natural Gas,False
+Victoria,61242,61242,VP-1,Natural Gas,False
+Victoria,61242,61242,VP-2,Natural Gas,False
+IKEA,61309,61309,PV1,Solar,False
+Karankawa,61343,61343,WT1,Wind,False
+Arlington,61355,61355,HY1,Hydro,False
+NRG,61362,61362,ECBS,Other,False
+Midway,61368,61368,PV1,Solar,False
+Walnut,61370,61370,GEN1,Solar,False
+Foard,61402,61402,FOARD,Wind,False
+Highway,61409,61409,GEN1,Solar,False
+Whitesboro,61410,61410,GEN1,Solar,False
+Whitesboro,61411,61411,GEN1,Solar,False
+Gopher,61417,61417,GCWF,Wind,False
+E-Volve,61493,61493,SEALY,Solar,False
+Marlin,61513,61513,GEN1,Solar,False
+North,61514,61514,GEN1,Solar,False
+Whitewright,61524,61524,GEN1,Solar,False
+Leon,61532,61532,GEN1,Solar,False
+UL,61589,61589,MT-1,Wind,False
+UL,61589,61589,UT-1,Wind,False
+West,61625,61625,GEN1,Solar,False
+Denton,61643,61643,DEC1,Natural Gas,False
+Denton,61643,61643,DEC10,Natural Gas,False
+Denton,61643,61643,DEC11,Natural Gas,False
+Denton,61643,61643,DEC12,Natural Gas,False
+Denton,61643,61643,DEC2,Natural Gas,False
+Denton,61643,61643,DEC3,Natural Gas,False
+Denton,61643,61643,DEC4,Natural Gas,False
+Denton,61643,61643,DEC5,Natural Gas,False
+Denton,61643,61643,DEC6,Natural Gas,False
+Denton,61643,61643,DEC7,Natural Gas,False
+Denton,61643,61643,DEC8,Natural Gas,False
+Denton,61643,61643,DEC9,Natural Gas,False
+Wildcat,61674,61674,WT,Wind,False
+Lamesa,61697,61697,IVORY,Solar,False
+PowerFin,61700,61700,PFPKB,Solar,False
+Kingsberry,61741,61741,KBESS,Other,False
+Palmas,61773,61773,PW,Wind,False
+Midway,61776,61776,MIDWY,Wind,False
+Live,61782,61782,WTGS,Wind,False
+Chisum,61810,61810,GEN1,Solar,False
+PYCO,61848,61848,WT1,Wind,False
+Rio,61865,61865,1,Wind,False
+Bovine,61867,61867,GEN1,Solar,False
+Bronson,61868,61868,GEN1,Solar,False
+Sterling,61871,61871,GEN1,Solar,False
+Lampwick,61872,61872,GEN1,Solar,False
+Yellow,61873,61873,GEN1,Solar,False
+Eddy,61874,61874,GEN1,Solar,False
+Cascade,61875,61875,GEN1,Solar,False
+Fort,61887,61887,DEPIC,Solar,False
+Toyota,61895,61895,TOYHQ,Solar,False
+Phoebe,61906,61906,PHOEB,Solar,False
+Tahoka,61921,61921,TAH,Wind,False
+Holstein,61962,61962,HSF01,Solar,False
+Torrecillas,61969,61969,TWE,Wind,False
+Blue,61970,61970,BSII,Wind,False
+Santa,62038,62038,STRAE,Wind,False
+Rambler,62141,62141,RMBLR,Solar,False
+Amadeus,62142,62142,AM-TX,Wind,False
+IKEA,62152,62152,570,Solar,False
+Seymour,62227,62227,WTGS,Wind,False
+Misae,62249,62249,77777,Solar,False
+Mesteno,62258,62258,MES,Wind,False
+Ranchero,62259,62259,RAN,Wind,False
+Lockett,62356,62356,LOC,Wind,False
+West,62415,62415,WOTP1,Solar,False
+Peyton,62417,62417,WT1,Wind,False
+Lapetus,62448,62448,LAP,Solar,False
+"Roadrunner,",62561,62561,RODR1,Solar,False
+"Roadrunner,",62561,62561,RODR2,Solar,False
+Blue,62566,62566,BS3,Wind,False
+Mesquite,62587,62587,MESQ,Wind,False
+Commerce,62609,62609,BA1,Other,False
+Commerce,62610,62610,PV1,Solar,False
+Hidalgo,62618,62618,WT,Wind,False
+Jumbo,62630,62630,WTGS1,Wind,False
+GE-Lubbock,62642,62642,GE-P2,Wind,False
+GE-Lubbock,62642,62642,GE-P3,Wind,False
+Prospect,62753,62753,BESS,Other,False
+Prospero,62755,62755,PROSP,Solar,False
+NASA,62762,62762,CTG-1,Natural Gas,False
+NASA,62762,62762,CTG-2,Natural Gas,False
+El,62765,62765,CAMPO,Wind,False
+Rippey,62773,62773,BTCOO,Solar,False
+Kellam,62774,62774,BTKEL,Solar,False
+ENGIE,62845,62845,SP1,Solar,False
+Oberon,62932,62932,OBR1B,Solar,False
+Oberon,62933,62933,OBR1A,Solar,False
+Griffin,62953,62953,1080,Solar,False
+Mars,63027,63027,20,Solar,False
+Canadian,63030,63030,CBRKS,Wind,False
+Prairie,63100,63100,WTG,Wind,False
+Las,63101,63101,WTG,Wind,False
+TPE,63180,63180,TXWHT,Solar,False
+Impact,63222,63222,TXIM1,Solar,False
+Wagyu,63273,63273,1215,Solar,False
+Bluebell,63351,63351,BBS2,Solar,False
+Oxy,63388,63388,SOLAR,Solar,False
+CED,63519,63519,CRN1,Solar,False
+CatanSolar,64079,64079,CS,Solar,False
+Alexis,64227,64227,12001,Solar,False
+Alvin,64293,64293,ALVIN,Other,False
+Odessa,64294,64294,ODSA,Other,False
+Angleton,64295,64295,ANGLE,Other,False
+Brazoria,64296,64296,BRAZ,Other,False
+Heights,64297,64297,H8S,Other,False
+Magnolia,64298,64298,MANGO,Other,False

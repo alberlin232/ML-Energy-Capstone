@@ -1,58 +1,28 @@
 import numpy as np
 import pandas as pd
 import requests
-from datetime import date
+import io
 
 class EPA():
-    def __init__(self, email=None, key=None):
-        if email is None:
-            print("If you don't have an acount please make one with the SignUp func")
+    def __init__(self, key=None):
+        if key is None:
+            print("You need a key in order to use this API.")
         else:
-            self.auth = {'email': email, 'key': key}
+            self.key = key
 
-    def SignUp(self, email):
-        payload = {"email": email}
-        req = requests.get("https://aqs.epa.gov/data/api/signup", params=payload)
-        if req.status_code == 200:
-            print("OK!")
-        else:
-            print("BOO!")
-
-
-    def getCounties(self, state):
-        payload = {"state": state}
-        req = requests.get("https://aqs.epa.gov/data/api/list/countiesByState", params= (self.auth | payload))
-        return pd.DataFrame.from_dict(req.json()["Data"])
-
-    def getParams(self):
-        payload = {"pc":"CRITERIA"}
-        req = requests.get("https://aqs.epa.gov/data/api/list/parametersByClass", params= (self.auth | payload))
-        return pd.DataFrame.from_dict(req.json()["Data"])
-
-    def DailySummaryState(self, param, bdate, edate, state):
-        payload = {"param":param, "bdate": bdate, "edate": edate, "state": state}
-        req = requests.get("https://aqs.epa.gov/data/api/dailyData/byState", params= (self.auth | payload))
-        return pd.DataFrame.from_dict(req.json()["Data"])
-
-    def DailySummaryCounty(self, params, bdate, edate, state, counties):
-        data = pd.DataFrame()
-        noData = []
-        for county in counties:
-            for param in params:
-                print("Getting: ", param, " : ", county, " : ", bdate)
-                payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county}
-                req = requests.get("https://aqs.epa.gov/data/api/dailyData/byCounty", params= (self.auth | payload))
-                if req.json()["Header"][0].get("status") == "No data matched your selection":
-                    noData.append(county)
-                #data = data.append(pd.DataFrame.from_dict(req.json()["Data"]))
-        return (data, noData)  
-          
-    def DailySummarySite(self, param, bdate, edate, state, county, site):
-        payload = {"param":param, "bdate": bdate, "edate": edate, "state": state, "county": county, "site": site}
-        req = requests.get("https://aqs.epa.gov/data/api/dailyData/bySite", params= (self.auth | payload))
-        return pd.DataFrame.from_dict(req.json()["Data"])
+    def hourlyData(self, orisCode, unitID, year, quarter):
+        req = requests.get("https://api.epa.gov/FACT/1.0/emissions/hourlyData/csv/{}/{}/{}/{}?api_key={}".format(
+            orisCode, 
+            unitID, 
+            year, 
+            quarter, 
+            self.key))
+        con = req.content
+        return pd.read_csv(io.StringIO(con.decode('utf-8')))
 
 
 
 if __name__ == "__main__":
-    pass
+    eia = EIA('9ndbfvcHxIEgQ8KnDGhmVFdw3xiyOgqhhwdJg5Wo')
+    df = eia.electric_plant_all(plant_id=9)
+    print(df)
