@@ -98,7 +98,7 @@ if data_type == 1:
                     2019 : 'rpt.00013060.0000000000000000.DAMLZHBSPP_2019.csv', 2020 : 'rpt.00013060.0000000000000000.DAMLZHBSPP_2020.csv', 2021 : 'rpt.00013060.0000000000000000.DAMLZHBSPP_2021.csv',
                     2022 : 'rpt.00013060.0000000000000000.DAMLZHBSPP_2022.csv'}
         fileAddress = 'raw_data/ERCOT/DAMLoadZoneAndHubPrices/' + fileName[start.year]  #specify year
-        df = pd.read_csv(fileAddress, header=1) 
+        df = pd.read_csv(fileAddress, header=0) 
         print(df.head())
 
         currYear = start.year
@@ -107,12 +107,54 @@ if data_type == 1:
             if currYear != end.year:     #add all entries
                 df = pd.concat([df, currdf])
             else:  #add row = number of days in finalYear * 24
-                df = pd.concat([df, currdf[0: numberOfDaysInFinalYear * 24 * 14], ])
+                df = pd.concat([df, currdf[0: numberOfDaysInFinalYear * 24 * 7]])   # 24 HOURS, 14 DISTRICTS
             df = df.loc[df["Settlement Point"] == zones[zone]] # keep only correct time zone
             currYear += 1
-            savedFile = 'data/ERCOT/DAM' + str(start) + '-' + str(end)
-            df.to_csv(savedFile, index=False)  # save file
 
+        savedFile = 'data/ERCOT/DAM' + str(start) + '-' + str(end)
+        df.to_csv(savedFile, index=False)  # save file
+    elif menuType == 3:
+        zone = 0
+        while 1:
+            zone = int(input('\nWhat settlement point? [1,14] \n'
+                      '(1) HB_BUSAVG \n'
+                      '(2) HB_HOUSTON) \n'
+                      '(3) HB_HUBAVG \n'
+                      '(4) HB_NORTH \n'
+                      '(5) HB_South) \n'
+                      '(6) HB_WEST \n'
+                      '(7) LZ_AEN \n'
+                      '(8) LZ_CPS) \n'
+                      '(9) LZ_HOUSTON \n'
+                      '(10) LZ_LCRA \n'
+                      '(11) LZ_NORTH) \n'
+                      '(12) LZ_RAYBN \n'
+                      '(13) LZ_SOUTH) \n'
+                      '(14) LZ_WEST \n'))
+            if zone > 0 and zone < 15:
+                break
+        zones = { 1: 'HB_BUSAVG', 2 : 'HB_HOUSTON', 3: 'HB_HUBAVG', 4: 'HB_NORTH', 5: 'HB_South', 6 :'HB_WEST', 7 : 'LZ_AEN' , 8: 'LZ_CPS' ,
+                     9: 'LZ_HOUSTON', 10: 'LZ_LCRA', 11 : 'LZ_NORTH', 12: 'LZ_RAYBN ', 13 : 'LZ_SOUTH' , 14 : 'LZ_WEST'} 
+        fileName = {2010 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2010.csv', 2011 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2011.csv', 2012 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2012.csv', 
+                    2013 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2013.csv', 2014 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2014.csv', 2015 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2015.csv',
+                    2016 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2016.csv', 2017 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2017.csv', 2018 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2018.csv',
+                    2019 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2019.csv', 2020 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2020.csv', 2021 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2021.csv',
+                    2022 : 'rpt.00013061.0000000000000000.RTMLZHBSPP_2022.csv'}
+        fileAddress = 'raw_data/ERCOT/RTMLoadZoneAndHubPrices/' + fileName[start.year]  #specify year
+        df = pd.read_csv(fileAddress, header=0) 
+        # print(df.head())
+
+        currYear = start.year
+        while(currYear <= end.year):
+            currdf = pd.read_csv('raw_data/ERCOT/RTMLoadZoneAndHubPrices/' + fileName[currYear])
+            if currYear != end.year:     #add all entries
+                df = pd.concat([df, currdf])
+            else:  #add row = number of days in finalYear * 24
+                df = pd.concat([df, currdf[0: numberOfDaysInFinalYear * 24 * 14 * 4]])   #24 HOURS, 14 DISTRCITS, 4 LINES/DISTRICT
+            df = df.loc[df["Settlement Point Name"] == zones[zone]] # keep only correct time zone
+            currYear += 1
+        savedFile = 'data/ERCOT/RTM' + str(start) + '-' + str(end)
+        df.to_csv(savedFile, index=False)  # save file
 
 
 elif data_type == 4:
