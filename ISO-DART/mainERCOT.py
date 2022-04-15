@@ -35,7 +35,7 @@ for d in datelist:
 
 data_type = int(input('\nWhat type of data? (Answer 1, 2, or 3)\n'
                       '(1) Market Information \n'
-                      '(2) Grid Infroamtion\n'
+                      '(2) Grid Information\n'
                       '(2) Ancillary Services\n'
                       '(4) Summary Reports\n'))
 
@@ -107,7 +107,7 @@ if data_type == 1:
             if currYear != end.year:     #add all entries
                 df = pd.concat([df, currdf])
             else:  #add row = number of days in finalYear * 24
-                df = pd.concat([df, currdf[0: numberOfDaysInFinalYear * 24 * 7]])   # 24 HOURS, 14 DISTRICTS
+                df = pd.concat([df, currdf[0: numberOfDaysInFinalYear * 24 * 14]])   # 24 HOURS, 14 DISTRICTS
             df = df.loc[df["Settlement Point"] == zones[zone]] # keep only correct time zone
             currYear += 1
 
@@ -150,7 +150,7 @@ if data_type == 1:
             if currYear != end.year:     #add all entries
                 df = pd.concat([df, currdf])
             else:  #add row = number of days in finalYear * 24
-                df = pd.concat([df, currdf[0: numberOfDaysInFinalYear * 24 * 14 * 4]])   #24 HOURS, 14 DISTRCITS, 4 LINES/DISTRICT
+                df = pd.concat([df, currdf[0: numberOfDaysInFinalYear * 24 * 14 * 7]])   #24 HOURS, 14 DISTRCITS, 4 LINES/DISTRICT
             df = df.loc[df["Settlement Point Name"] == zones[zone]] # keep only correct time zone
             currYear += 1
         savedFile = 'data/ERCOT/RTM' + str(start) + '-' + str(end)
