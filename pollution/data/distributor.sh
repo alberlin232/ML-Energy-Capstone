@@ -1,6 +1,6 @@
 #!bin/bash
 
-while IFS="," read -r YEAR Q STRING; do
-    echo Sending $STRING          # MARK progress
-    sbatch $YEAR $Q $STRING SLURMrunner.sh # SUBMIT JOB
+while read line; do
+    echo Sending $line          # MARK progress
+    sbatch $line SLURMrunner.sh # SUBMIT JOB
 done < RUNS.csv
