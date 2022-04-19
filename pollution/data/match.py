@@ -18,17 +18,17 @@ class DATA():
 
 
     def EPA(self, orisCode, unitID, year, quarter):
-        req = requests.get("https://api.epa.gov/FACT/1.0/emissions/hourlyData/csv/{}/{}/{}/{}?api_key={}".format(
+        url = "https://api.epa.gov/FACT/1.0/emissions/hourlyData/csv/{}/{}/{}/{}?api_key={}".format(
             orisCode, 
             unitID, 
             year, 
             quarter, 
-            self.key))
+            self.key)
+        req = requests.get(url)
         if req.status_code == 204:
             print("HERE")
             return pd.DataFrame()
-        con = req.content
-        return pd.read_csv(io.StringIO(con.decode('utf-8')))
+        return pd.read_csv(url)
 
 def generateData(api, year, q, date, walk):
     dic = {"date":[], "plant_id":[], "eia":[], "epa":[], "valid":[]}
@@ -64,7 +64,7 @@ def generateData(api, year, q, date, walk):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='What date to get')
-    parser.add_argument('--YEAR',type=int)
+    parser.add_argument('--YEAR',type=str)
 
     args = parser.parse_args()
     
