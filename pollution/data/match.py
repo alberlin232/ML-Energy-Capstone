@@ -24,11 +24,12 @@ class DATA():
             year, 
             quarter, 
             self.key)
-        req = requests.get(url)
-        if req.status_code == 204:
-            print("HERE")
+        try:
+           data = pd.read_csv(url)
+           return data
+        except:
             return pd.DataFrame()
-        return pd.read_csv(url)
+
 
 def generateData(api, year, q, date, walk):
     dic = {"date":[], "plant_id":[], "eia":[], "epa":[], "valid":[]}
