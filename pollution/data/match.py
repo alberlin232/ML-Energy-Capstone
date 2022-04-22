@@ -64,6 +64,7 @@ def generateData(api, year, q, date, walk):
 # main
 if __name__ == "__main__":
 
+    print("START")
     parser = argparse.ArgumentParser(description='What date to get')
     parser.add_argument('--YEAR',type=str)
 
@@ -72,10 +73,11 @@ if __name__ == "__main__":
     year = args.YEAR
 
     api = DATA("9ndbfvcHxIEgQ8KnDGhmVFdw3xiyOgqhhwdJg5Wo")
+    print("API has been make")
     walk = pd.read_csv("./TX_crosswalk.csv")
     walk = walk[["CAMD_PLANT_ID", "CAMD_UNIT_ID", "EIA_PLANT_ID", "EIA_GENERATOR_ID"]]
     walk["EIA_PLANT_ID"] = walk["EIA_PLANT_ID"].astype(int)
-    
+    print("Importing data") 
     data = pd.DataFrame(columns=["date", "plant_id", "eia", "epa", "valid"])
     for q in range(1,5):
         date = "{}Q{}".format(year, q)
