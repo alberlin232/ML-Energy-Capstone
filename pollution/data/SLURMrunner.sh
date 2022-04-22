@@ -15,9 +15,10 @@
 cd ${SLURM_SUBMIT_DIR} # cd to directory where you submitted the job
  
 # launch job
-module load anaconda3
-module load conda/biostats
-python match.py --YEAR=${YEAR}
+# module load anaconda3
+# module load conda/biostats
+export PYTHONPATH=$PYTHONPATH:$HOME/pythonpkgs
+srun python match.py --YEAR==2018
 
  
 exit
