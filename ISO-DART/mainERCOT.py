@@ -23,8 +23,11 @@ end = start + pd.Timedelta(days=duration)
 
 numberOfDaysInFinalYear = 0
 datelist = []
+dateListString = []
 while curr < end:
     datelist.append(curr)
+    stringDate = curr.strftime("%m/%d/%y, %M:%H%S") 
+    dateListString.append( stringDate.split(',')[0])  # remove hour information
     curr += pd.Timedelta(days=1)
     if curr.year == end.year:
         numberOfDaysInFinalYear +=1
@@ -35,12 +38,11 @@ for d in datelist:
 
 data_type = int(input('\nWhat type of data? (Answer 1, 2, or 3)\n'
                       '(1) Market Information \n'
-                      '(2) Grid Information\n'
+                      '(2) Grid Information`\n'
                       '(2) Ancillary Services\n'
                       '(4) Summary Reports\n'))
 
 #UPDATE THIS
-print(datelist)   #for debugging
 if data_type == 1:
     menuType = int(input('\nWhat type of data? (Answer 1)\n'
                       '(1) Clearing Prices for Capacity (Day-Ahead-Market) \n'
@@ -156,8 +158,35 @@ if data_type == 1:
         savedFile = 'data/ERCOT/RTM' + str(start) + '-' + str(end)
         df.to_csv(savedFile, index=False)  # save file
 
+elif data_type == 2:        # Grid Information
+    print(dateListString)
+    menuType = int(input('\nWhat type of data? (Answer 1)\n'
+                      '(1) Historical Genertion Scheduled By Zone \n'
+                      '(2) NA \n'
+                      '(3) NA \n'))
+    if menuType == 1:
+        zoneid = int(input('\nSelect Id. \nAnswer 24, 26, 28, 96, 98, 100, 102, 106, 108, 110, 112, 132, 134, 136, 138, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246\n'))
+        fileName = { 2001: '2001.csv', 2002: '2002.scv', 2003: '2003.csv', 2004: '2004.csv', 2005: '2005.csv', 2006: '2006.csv', 2007: '2007.csv'}
+        try:
+            fileAddress = 'raw_data/ERCOT/historical_generation_scheduled_by_zone/' + fileName[start.year]  #specify year
+        except:
+            print("Hitorical generation by zone only avaible from 2001 - 2007")
+            exit(1)
+        df = pd.read_csv(fileAddress, header=0) 
 
-elif data_type == 4:
+        currYear = start.year
+        while(currYear <= end.year):
+            currdf = pd.read_csv('raw_data/ERCOT/historical_generation_scheduled_by_zone/' + fileName[currYear])
+            df = pd.concat([df, currdf])
+            df = df.loc[df["ZONEID"] == zoneid] # keep only correct zonex
+            print(df["CPT"].replace({str(2000 - currYear), str(2000 + currYear)}) )  # add first two diigtis od date for comaprison
+            df = df.loc[ df["CPT"].isin(dateListString) ] # keep only correct time zone
+            currYear += 1
+        savedFile = 'data/ERCOT/GenerationZONE' + str(zoneid) +  str(start) + '-' + str(end)
+        df.to_csv(savedFile, index=False)  # save file
+
+
+elif data_type == 4:        # summary info.
     fh = open("data/Ercot/2020Load.csv")
     transmissions = {}
     s = fh.readline()
