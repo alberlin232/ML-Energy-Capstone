@@ -31,7 +31,7 @@ while curr < end:
     stringDate2 = curr.strftime("%m/%d/%Y, %M:%H%S")   # year as 20XX
     dateListStringShort.append( stringDate.split(',')[0])  # remove hour informatio
     dateListString.append( stringDate2.split(',')[0])  # remove hour information
-    print(stringDate2.split(',')[0])
+    # print(stringDate2.split(',')[0])
     curr += pd.Timedelta(days=1)
     if curr.year == end.year:
         numberOfDaysInFinalYear +=1
@@ -41,8 +41,8 @@ for d in datelist:
     date.append(str(d.year) + '{:02d}'.format(d.month) + '{:02d}'.format(d.day))
 
 data_type = int(input('\nWhat type of data? (Answer 1, 2, or 3)\n'
-                      '(1) Market Information \n'
-                      '(2) Grid Information`\n'
+                      '(1) Pricing Data \n'
+                      '(2) Power Grid Data \n'
                       '(2) Ancillary Services\n'
                       '(4) Summary Reports\n'))
 
@@ -71,7 +71,7 @@ if data_type == 1:
             else:  #add row = number of days in finalYear * 24
                 df = pd.concat([df, currdf[0: numberOfDaysInFinalYear *24]])
             currYear += 1
-        print(df.to_string())
+        # print(df.to_string())
 
         savedFile = 'data/ERCOT/DAM' + str(start) + '-' + str(end)
         df.to_csv(savedFile, index=False)  # save file
@@ -163,7 +163,7 @@ if data_type == 1:
         df.to_csv(savedFile, index=False)  # save file
 
 elif data_type == 2:        # Grid Information
-    print(dateListStringShort)
+    # print(dateListStringShort)
     menuType = int(input('\nWhat type of data? (Answer 1)\n'
                       '(1) Historical Genertion Scheduled By Zone \n'
                       '(2) Hourly load forecast \n'

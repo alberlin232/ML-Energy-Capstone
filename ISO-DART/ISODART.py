@@ -29,3 +29,6 @@ elif dataType == 2:
 
 else:
     print("Not a valid value!")
+    
+print("----------------\nISO-DART")
+exec(open("ISODART.py").read())   #loop
