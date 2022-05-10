@@ -24,10 +24,14 @@ end = start + pd.Timedelta(days=duration)
 numberOfDaysInFinalYear = 0
 datelist = []
 dateListString = []
+dateListStringShort = []        # year as XX
 while curr < end:
-    datelist.append(curr)
-    stringDate = curr.strftime("%m/%d/%y, %M:%H%S") 
-    dateListString.append( stringDate.split(',')[0])  # remove hour information
+    datelist.append(curr) 
+    stringDate = curr.strftime("%-m/%-d/%y, %M:%H%S")    # year as XX
+    stringDate2 = curr.strftime("%m/%d/%Y, %M:%H%S")   # year as 20XX
+    dateListStringShort.append( stringDate.split(',')[0])  # remove hour informatio
+    dateListString.append( stringDate2.split(',')[0])  # remove hour information
+    # print(stringDate2.split(',')[0])
     curr += pd.Timedelta(days=1)
     if curr.year == end.year:
         numberOfDaysInFinalYear +=1
@@ -37,8 +41,8 @@ for d in datelist:
     date.append(str(d.year) + '{:02d}'.format(d.month) + '{:02d}'.format(d.day))
 
 data_type = int(input('\nWhat type of data? (Answer 1, 2, or 3)\n'
-                      '(1) Market Information \n'
-                      '(2) Grid Information`\n'
+                      '(1) Pricing Data \n'
+                      '(2) Power Grid Data \n'
                       '(2) Ancillary Services\n'
                       '(4) Summary Reports\n'))
 
@@ -67,7 +71,7 @@ if data_type == 1:
             else:  #add row = number of days in finalYear * 24
                 df = pd.concat([df, currdf[0: numberOfDaysInFinalYear *24]])
             currYear += 1
-        print(df.to_string())
+        # print(df.to_string())
 
         savedFile = 'data/ERCOT/DAM' + str(start) + '-' + str(end)
         df.to_csv(savedFile, index=False)  # save file
@@ -159,14 +163,14 @@ if data_type == 1:
         df.to_csv(savedFile, index=False)  # save file
 
 elif data_type == 2:        # Grid Information
-    print(dateListString)
+    # print(dateListStringShort)
     menuType = int(input('\nWhat type of data? (Answer 1)\n'
                       '(1) Historical Genertion Scheduled By Zone \n'
-                      '(2) NA \n'
+                      '(2) Hourly load forecast \n'
                       '(3) NA \n'))
     if menuType == 1:
         zoneid = int(input('\nSelect Id. \nAnswer 24, 26, 28, 96, 98, 100, 102, 106, 108, 110, 112, 132, 134, 136, 138, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246\n'))
-        fileName = { 2001: '2001.csv', 2002: '2002.scv', 2003: '2003.csv', 2004: '2004.csv', 2005: '2005.csv', 2006: '2006.csv', 2007: '2007.csv'}
+        fileName = { 2001: '2001.csv', 2002: '2002.csv', 2003: '2003.csv', 2004: '2004.csv', 2005: '2005.csv', 2006: '2006.csv', 2007: '2007.csv'}
         try:
             fileAddress = 'raw_data/ERCOT/historical_generation_scheduled_by_zone/' + fileName[start.year]  #specify year
         except:
@@ -179,11 +183,24 @@ elif data_type == 2:        # Grid Information
             currdf = pd.read_csv('raw_data/ERCOT/historical_generation_scheduled_by_zone/' + fileName[currYear])
             df = pd.concat([df, currdf])
             df = df.loc[df["ZONEID"] == zoneid] # keep only correct zonex
-            print(df["CPT"].replace({str(2000 - currYear), str(2000 + currYear)}) )  # add first two diigtis od date for comaprison
-            df = df.loc[ df["CPT"].isin(dateListString) ] # keep only correct time zone
+            df = df.loc[ df["CPT"].isin(dateListStringShort) ] # keep only correct time zone
             currYear += 1
         savedFile = 'data/ERCOT/GenerationZONE' + str(zoneid) +  str(start) + '-' + str(end)
         df.to_csv(savedFile, index=False)  # save file
+
+    elif menuType == 2:
+        try:
+            fileAddress = 'raw_data/ERCOT/Load_Forecast/2022_LTLF_Hourly.csv'  #specify year
+        except:
+            print("Hitorical generation by zone only avaible from 2022 - 2032")
+            exit(1)
+
+        df = pd.read_csv(fileAddress)
+        df = df.loc[ df["Date"].isin(dateListString) ] # keep only correct time zone
+
+        savedFile = 'data/ERCOT/LoadForecast' + str(start) + '-' + str(end)
+        df.to_csv(savedFile, index=False)  # save file
+
 
 
 elif data_type == 4:        # summary info.
