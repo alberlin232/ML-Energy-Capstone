@@ -4,62 +4,50 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import stan
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error
 
 
+def load_data():
+    # setting the path for joining multiple files
+    files = os.path.join("../data/epa/TXHOURLY", "*tx*.csv")
 
-# setting the path for joining multiple files
-files = os.path.join("../data/epa/TXHOURLY", "*tx*.csv")
+    # list of merged files returned
+    files = glob.glob(files)
 
-# list of merged files returned
-files = glob.glob(files)
+    print("Resultant CSV after joining all CSV files at a particular location...");
 
-print("Resultant CSV after joining all CSV files at a particular location...");
+    # joining files with concat and read_csv
+    df = pd.concat(map(pd.read_csv, files), ignore_index=True)
+    cols = ['ORISPL_CODE', 'UNITID', 'OP_DATE','OP_HOUR', 'GLOAD (MW)', 'SO2_RATE (lbs/mmBtu)',
+        'NOX_RATE (lbs/mmBtu)', 'CO2_RATE (tons/mmBtu)', 'HEAT_INPUT (mmBtu)']
+    df = df[cols]
+    df['OP_DATE'] = pd.to_datetime(df['OP_DATE']).apply(lambda x: x.weekday())
+    return df
 
-# joining files with concat and read_csv
-df = pd.concat(map(pd.read_csv, files), ignore_index=True)
-cols = ['STATE', 'FACILITY_NAME', 'ORISPL_CODE', 'UNITID', 'OP_DATE', 'OP_HOUR',
-       'OP_TIME', 'GLOAD (MW)', 'SO2_MASS (lbs)', 'SO2_RATE (lbs/mmBtu)',
-       'NOX_RATE (lbs/mmBtu)', 'NOX_MASS (lbs)', 'CO2_MASS (tons)',
-       'CO2_RATE (tons/mmBtu)', 'HEAT_INPUT (mmBtu)']
-df = df[cols]
-df.dropna(inplace=True)
+def prep_data(df):
+    df.dropna(inplace=True)
+    df = pd.get_dummies(df, columns=['ORISPL_CODE', 'UNITID'])
+    return df
 
+if __name__ == '__main__':
+    df = load_data()
+    df = prep_data(df)
+    preds = pd.DataFrame(columns=['truth', 'pred', 'hour'])
+    for i in df['OP_HOUR'].unique():
+        d = df[df['OP_HOUR'] == i]
+        X = d.drop('CO2_RATE (tons/mmBtu)', axis=1).to_numpy()
+        y = d['CO2_RATE (tons/mmBtu)'].to_numpy()
 
-co2_model = """
-data {
-  int<lower=0> N;   // number of data items
-  int<lower=0> K;   // number of predictors
-  matrix[N, K] x;   // predictor matrix
-  vector[N] y;      // outcome vector
-}
-parameters {
-  real alpha;           // intercept
-  vector[K] beta;       // coefficients for predictors
-  real<lower=0> sigma;  // error scale
-}
-model {
-  alpha ~ normal(0, 10);      // prior for intercept
-  beta ~ normal(0, 10);       // prior for coefficients
-  sigma ~ cauchy(0, 5);       // prior for error scale
-  y ~ normal(x * beta + alpha, sigma);  // likelihood
-}
-"""
+        #split into train and test
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
+        model = LinearRegression()
+        model.fit(X_train, y_train)
+        pred = model.predict(X_test)
 
-d = df.loc[df.OP_HOUR ==1]
+        preds = preds.append(pd.DataFrame({'truth': y_test, 'pred': pred, 'hour': i}))
+    
+    preds.to_csv('preds.csv', index=False)
 
-
-X = d[['GLOAD (MW)', 'HEAT_INPUT (mmBtu)']].to_numpy()
-y = d['CO2_RATE (tons/mmBtu)'].to_numpy()
-
-N = X.shape[0]
-K = X.shape[1]
-
-epa_data = {"N": N,
-    "K": K,
-    "x": X,
-    "y": y}
-
-posterior = stan.build(co2_model, data=epa_data)
-fit = posterior.sample(num_chains=1, num_samples=1000)
