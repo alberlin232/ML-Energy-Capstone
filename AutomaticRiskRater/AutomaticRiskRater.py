@@ -152,19 +152,9 @@ def grade(yhat):
     print("Demand risk: ", res)
         
  
-
-#get date:
-userInput = input("Input date (month, day): ")
-month,day = userInput.split(',')
-monthDays = (int(month) - 1)*30 
-days = int(day) + monthDays
-rows = [[],[],[] ]
-for h in range(3):  #zone code
-    for i in range(24):     # hour
-        rows[h].append([h, days, i ] ) 
-
 # prepare the data
 #path = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.csv'
+print('Machine learning model learning. This may take up to 90 seconds.')
 path = "allZonesErcot.csv"
 train_dl, test_dl = prepare_data(path)
 #print(len(train_dl.dataset), len(test_dl.dataset))
@@ -176,6 +166,17 @@ train_model(train_dl, model)
 mse = evaluate_model(test_dl, model)
 print('MSE: %.3f, RMSE: %.3f' % (mse, sqrt(mse)))
 # make a prediction (expect class=1)
+
+
+#get date:
+userInput = input("Input date (month, day): ")
+month,day = userInput.split(',')
+monthDays = (int(month) - 1)*30 
+days = int(day) + monthDays
+rows = [[],[],[] ]
+for h in range(3):  #zone code
+    for i in range(24):     # hour
+        rows[h].append([h, days, i ] ) 
 #output
 res = [0,0,0]
 variations = [[],[],[]]
@@ -193,8 +194,8 @@ y_axis_east = variations[1]
 y_axis_coast = variations[2]
 
 plt.plot(x_axis, y_axis_west, label = 'Zone West', color = 'red')
-plt.plot(x_axis, y_axis_east, label = 'Zone East', color = 'blue')
-plt.plot(x_axis, y_axis_coast, label = 'Zone Coast', color = 'green')
+plt.plot(x_axis, y_axis_east, label = 'Zone East', color = 'green')
+plt.plot(x_axis, y_axis_coast, label = 'Zone Coast', color = 'blue')
 
 plt.title('Day-Ahead-Market: Load variance on '+ str(month) + "/" + str(day) + "/2022")
 plt.xlabel('Hour')
@@ -203,13 +204,13 @@ res[0] = res[0]/24
 res[1] = res[1]/24
 res[2] = res[2]/24
 
-print('\nZone-West')
+print('\nZone-West (red)')
 print('Predicted Demand Variation: %.5f' % res[0])
 grade(res[0])
-print('\nZone-East')
+print('\nZone-East (green)')
 print('Predicted Demand Variation: %.5f' % res[1])
 grade(res[1])
-print('\nZone-Coast')
+print('\nZone-Coast (blue)')
 print('Predicted Demand Variation: %.5f' % res[2])
 grade(res[2])
 
